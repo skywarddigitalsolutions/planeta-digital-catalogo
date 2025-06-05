@@ -10,7 +10,6 @@ export const Navbar: React.FC = () => {
   return (
     <>
       <nav className="fixed top-0 left-0 right-0 bg-white shadow-md z-50 flex items-center justify-between px-4 py-3">
-        {/* Botón hamburguesa */}
         <button
           aria-label="Abrir menú"
           className="md:hidden text-gray-700"
@@ -19,7 +18,6 @@ export const Navbar: React.FC = () => {
           <HiOutlineMenu size={24} />
         </button>
 
-        {/* Logo */}
         <Image
           src="/images/logo.png"
           alt="Logo de la marca"
@@ -28,7 +26,6 @@ export const Navbar: React.FC = () => {
           priority
         />
 
-        {/* Icono perfil y entrar para desktop */}
         <div className="hidden md:flex items-center gap-4">
           <button className="text-gray-700 hover:text-gray-900">Entrar</button>
           <button aria-label="Perfil">
@@ -48,7 +45,6 @@ export const Navbar: React.FC = () => {
         </div>
       </nav>
 
-      {/* Overlay menú lateral */}
       <div
         className={`fixed inset-0 bg-white bg-opacity-70 z-40 transition-opacity duration-300 ${
           isOpen ? "opacity-100 pointer-events-auto" : "opacity-0 pointer-events-none"
@@ -56,13 +52,12 @@ export const Navbar: React.FC = () => {
         onClick={() => setIsOpen(false)}
       />
 
-      {/* Panel lateral */}
       <aside
         className={`fixed top-0 left-0 h-full w-72 bg-white shadow-lg z-50 transform transition-transform duration-300 ${
           isOpen ? "translate-x-0" : "-translate-x-full"
         } flex flex-col p-6`}
       >
-        {/* Botón cerrar */}
+
         <button
           aria-label="Cerrar menú"
           className="self-end mb-6 text-gray-700 hover:text-gray-900"
@@ -82,7 +77,6 @@ export const Navbar: React.FC = () => {
           </svg>
         </button>
 
-        {/* Contenido menú */}
         <nav className="flex flex-col gap-4 text-gray-800 font-semibold">
           <a href="#" className="hover:text-black">INICIAR SESIÓN / REGISTRARSE</a>
           <a href="#" className="hover:text-black">MI CUENTA</a>

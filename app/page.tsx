@@ -8,6 +8,8 @@ import { useMemo, useState } from "react";
 export default function Home() {
   const [filterCategory, setFilterCategory] = useState("TODO");
   const [searchTerm, setSearchTerm] = useState("");
+  const [sortOption, setSortOption] = useState("");
+
 
   const categories = useMemo(() => {
     const cats = productosData.products.map(p => p.category.toUpperCase());
@@ -19,7 +21,7 @@ export default function Home() {
 
     if (filterCategory !== "TODO") {
       filtered = filtered.filter(
-        (p) => p.category.toUpperCase() === filterCategory
+        (p) => p.category.toUpperCase() === filterCategory.toUpperCase()
       );
     }
 
@@ -29,12 +31,43 @@ export default function Home() {
       );
     }
 
-    return filtered;
-  }, [filterCategory, searchTerm]);
+    if (sortOption) {
+      filtered = [...filtered];
+      switch (sortOption) {
+        case "priceAsc":
+          filtered.sort(
+            (a, b) =>
+              parseFloat(a.price.replace(/[^0-9.-]+/g, "")) -
+              parseFloat(b.price.replace(/[^0-9.-]+/g, ""))
+          );
+          break;
+        case "priceDesc":
+          filtered.sort(
+            (a, b) =>
+              parseFloat(b.price.replace(/[^0-9.-]+/g, "")) -
+              parseFloat(a.price.replace(/[^0-9.-]+/g, ""))
+          );
+          break;
+        case "nameAsc":
+          filtered.sort((a, b) => a.name.localeCompare(b.name));
+          break;
+        case "nameDesc":
+          filtered.sort((a, b) => b.name.localeCompare(a.name));
+          break;
+      }
+    }
 
-  const handleFilterChange = (category: string, search: string) => {
+    return filtered;
+  }, [filterCategory, searchTerm, sortOption]);
+
+  const handleFilterChange = (
+  category: string,
+  search: string,
+  sort: string
+  ) => {
     setFilterCategory(category);
     setSearchTerm(search);
+    setSortOption(sort);
   };
 
   return (
