@@ -39,12 +39,11 @@ export const CategorySelector: React.FC<CategorySelectorProps> = ({
         aria-expanded={open}
       >
         <span className="font-semibold text-gray-700">
-          {selectedCategory === "TODO" ? "Categorías" : selectedCategory}
+          {selectedCategory === "TODAS" ? "Categorías" : selectedCategory}
         </span>
         <svg
-          className={`w-5 h-5 text-gray-500 transition-transform ${
-            open ? "rotate-180" : ""
-          }`}
+          className={`w-5 h-5 text-gray-500 transition-transform ${open ? "rotate-180" : ""
+            }`}
           fill="none"
           stroke="currentColor"
           strokeWidth={2}
@@ -65,9 +64,8 @@ export const CategorySelector: React.FC<CategorySelectorProps> = ({
           {categories.map((cat) => (
             <li
               key={cat}
-              className={`cursor-pointer select-none py-2 px-4 text-gray-700 hover:bg-blue-100 ${
-                selectedCategory === cat ? "font-bold bg-blue-200" : ""
-              }`}
+              className={`cursor-pointer select-none py-2 px-4 text-gray-700 hover:bg-blue-100 ${selectedCategory === cat ? "font-bold bg-blue-200" : ""
+                }`}
               role="option"
               aria-selected={selectedCategory === cat}
               onClick={() => {

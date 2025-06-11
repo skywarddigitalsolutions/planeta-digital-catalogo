@@ -1,69 +1,66 @@
 "use client";
 
+import React, { useMemo, useState } from "react";
 import { ProductList } from "@/components/ProductList";
-import productosData from "../data/productos.json";
 import { FilterBar } from "@/components/FilterBar";
-import { useMemo, useState } from "react";
+import productosData from "../data/productos.json";
 
 export default function Home() {
-  const [filterCategory, setFilterCategory] = useState("TODO");
+  const [filterCategory, setFilterCategory] = useState("TODAS");
   const [searchTerm, setSearchTerm] = useState("");
   const [sortOption, setSortOption] = useState("");
 
-
   const categories = useMemo(() => {
     const cats = productosData.products.map(p => p.category.toUpperCase());
-    return ["TODO", ...Array.from(new Set(cats))];
+    return ["TODAS", ...Array.from(new Set(cats))];
   }, []);
 
-  const filteredProducts = useMemo(() => {
-    let filtered = productosData.products;
 
-    if (filterCategory !== "TODO") {
-      filtered = filtered.filter(
-        (p) => p.category.toUpperCase() === filterCategory.toUpperCase()
+
+  const filteredProducts = useMemo(() => {
+    let list = productosData.products;
+
+    if (filterCategory !== "TODAS") {
+      list = list.filter(
+        (p) => p.category.toUpperCase() === filterCategory
       );
     }
-
     if (searchTerm.trim()) {
-      filtered = filtered.filter((p) =>
+      list = list.filter((p) =>
         p.name.toLowerCase().includes(searchTerm.toLowerCase())
       );
     }
-
     if (sortOption) {
-      filtered = [...filtered];
-      switch (sortOption) {
-        case "priceAsc":
-          filtered.sort(
-            (a, b) =>
-              parseFloat(a.price.replace(/[^0-9.-]+/g, "")) -
-              parseFloat(b.price.replace(/[^0-9.-]+/g, ""))
-          );
-          break;
-        case "priceDesc":
-          filtered.sort(
-            (a, b) =>
-              parseFloat(b.price.replace(/[^0-9.-]+/g, "")) -
-              parseFloat(a.price.replace(/[^0-9.-]+/g, ""))
-          );
-          break;
-        case "nameAsc":
-          filtered.sort((a, b) => a.name.localeCompare(b.name));
-          break;
-        case "nameDesc":
-          filtered.sort((a, b) => b.name.localeCompare(a.name));
-          break;
+      list = [...list];
+      if (sortOption === "priceAsc") {
+        list.sort(
+          (a, b) =>
+            parseFloat(a.price.replace(/[^0-9.]/g, "")) -
+            parseFloat(b.price.replace(/[^0-9.]/g, ""))
+        );
+      }
+      if (sortOption === "priceDesc") {
+        list.sort(
+          (a, b) =>
+            parseFloat(b.price.replace(/[^0-9.]/g, "")) -
+            parseFloat(a.price.replace(/[^0-9.]/g, ""))
+        );
+      }
+      if (sortOption === "nameAsc") {
+        list.sort((a, b) => a.name.localeCompare(b.name));
+      }
+      if (sortOption === "nameDesc") {
+        list.sort((a, b) => b.name.localeCompare(a.name));
       }
     }
 
-    return filtered;
+    return list;
   }, [filterCategory, searchTerm, sortOption]);
 
   const handleFilterChange = (
-  category: string,
-  search: string,
-  sort: string
+    category: string,
+    search: string,
+    sort: string
   ) => {
     setFilterCategory(category);
     setSearchTerm(search);
@@ -71,9 +68,32 @@ export default function Home() {
   };
 
   return (
-    <>
-      <FilterBar categories={categories} onFilterChange={handleFilterChange} />
-      <ProductList products={filteredProducts} />
-    </>
+    <div className="min-h-screen bg-gray-50">
+      {/* En mobile, mostrar filtro encima */}
+      <div className="lg:hidden p-4">
+        <FilterBar
+          categories={categories}
+          onFilterChange={handleFilterChange}
+        />
+      </div>
+
+      <div className="grid grid-cols-1 lg:grid-cols-[240px_1fr] gap-6 px-4">
+        {/* Sidebar desktop */}
+        <aside className="hidden lg:block sticky top-20 self-start">
+          <FilterBar
+            categories={categories}
+            onFilterChange={handleFilterChange}
+          />
+        </aside>
+
+        {/* Grilla de productos */}
+        <section className="pt-4">
+          <h2 className="text-2xl font-bold mb-4 text-black mt-0 sm:mt-20">
+            {filterCategory === "TODAS" ? "Todos los productos" : filterCategory}
+          </h2>
+          <ProductList products={filteredProducts} />
+        </section>
+      </div>
+    </div>
   );
 }
