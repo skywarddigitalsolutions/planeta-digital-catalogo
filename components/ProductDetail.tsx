@@ -7,12 +7,22 @@ import { FaShoppingCart, FaArrowLeft } from "react-icons/fa";
 import { useCart } from "@/context/CartContext";
 import { useSwipeable } from "react-swipeable";
 
+// Helper para convertir strings de precio argentinos ("$39.900,00") a número (39900)
+function parsePrice(price: string): number {
+  const cleaned = price
+    .replace(/[^0-9.,]/g, "")  // sólo números, puntos y comas
+    .replace(/\./g, "")        // quita puntos de miles
+    .replace(/,/g, ".");       // coma decimal → punto
+  return parseFloat(cleaned);
+}
+
 interface Product {
   name: string;
   category: string;
   price: string;
   description: string;
-  images: string[];
+  image: string;        // URL principal
+  images: string[];     // Galería posible
 }
 
 interface ProductDetailProps {
@@ -21,6 +31,9 @@ interface ProductDetailProps {
 }
 
 export const ProductDetail: React.FC<ProductDetailProps> = ({ product }) => {
+  // si no hay imágenes en array, uso la principal como único elemento
+  const imgs = product.images.length > 0 ? product.images : [product.image];
+
   const [idx, setIdx] = useState(0);
   const [expanded, setExpanded] = useState(false);
   const [isDesktop, setIsDesktop] = useState(false);
@@ -37,7 +50,7 @@ export const ProductDetail: React.FC<ProductDetailProps> = ({ product }) => {
 
   // Swipe handlers
   const handlers = useSwipeable({
-    onSwipedLeft: () => setIdx((i) => Math.min(i + 1, product.images.length - 1)),
+    onSwipedLeft: () => setIdx((i) => Math.min(i + 1, imgs.length - 1)),
     onSwipedRight: () => setIdx((i) => Math.max(i - 1, 0)),
     trackMouse: true,
   });
@@ -47,8 +60,9 @@ export const ProductDetail: React.FC<ProductDetailProps> = ({ product }) => {
   const snippet =
     fullDesc.length > 300 ? fullDesc.slice(0, 300).trim() + "…" : fullDesc;
 
+
   return (
-    <div className="max-w-6xl mx-auto p-4 mt-16 mb-10 md:mt-32 ">
+    <div className="max-w-6xl mx-auto p-4 mt-16 mb-10 md:mt-32">
       {/* Volver */}
       <button
         onClick={() => router.back()}
@@ -69,7 +83,7 @@ export const ProductDetail: React.FC<ProductDetailProps> = ({ product }) => {
               className="flex h-full transition-transform duration-300 ease-out"
               style={{ transform: `translateX(-${idx * 100}%)` }}
             >
-              {product.images.map((img, i) => (
+              {imgs.map((img, i) => (
                 <div key={i} className="flex-shrink-0 w-full h-full relative">
                   <Image
                     src={img}
@@ -81,9 +95,10 @@ export const ProductDetail: React.FC<ProductDetailProps> = ({ product }) => {
                 </div>
               ))}
             </div>
+
             {/* Indicadores */}
             <div className="absolute bottom-2 left-1/2 -translate-x-1/2 flex gap-2">
-              {product.images.map((_, i) => (
+              {imgs.map((_, i) => (
                 <span
                   key={i}
                   className={`w-2 h-2 rounded-full ${
@@ -93,9 +108,10 @@ export const ProductDetail: React.FC<ProductDetailProps> = ({ product }) => {
               ))}
             </div>
           </div>
+
           {/* Miniaturas */}
           <div className="flex gap-3 mt-4 overflow-x-auto">
-            {product.images.map((img, i) => (
+            {imgs.map((img, i) => (
               <button
                 key={i}
                 className={`relative w-20 h-20 rounded border ${
@@ -121,10 +137,15 @@ export const ProductDetail: React.FC<ProductDetailProps> = ({ product }) => {
           <div>
             <p className="text-gray-500 font-semibold uppercase">{product.category}</p>
             <h1 className="mt-1 text-3xl font-bold text-gray-800">{product.name}</h1>
-            <p className="mt-2 text-2xl font-semibold text-gray-800">{product.price}</p>
+            <p className="mt-2 text-2xl font-semibold text-gray-800">
+              {parsePrice(product.price).toLocaleString("es-AR", {
+                style: "currency",
+                currency: "ARS",
+              })}
+            </p>
             <hr className="my-4 border-gray-300" />
 
-            {/* Descripción con toggle solo en desktop */}
+            {/* Descripción con toggle */}
             <p className="text-gray-700 leading-relaxed">
               {!expanded ? snippet : fullDesc}
             </p>
