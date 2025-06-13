@@ -6,14 +6,25 @@ import Image from "next/image";
 import { FaTrash, FaArrowLeft } from "react-icons/fa";
 import { useRouter } from "next/navigation";
 
+// Helper para convertir strings de precio argentinos ("$39.900,00") a número (39900)
+function parsePrice(price: string): number {
+  const cleaned = price
+    .replace(/[^0-9.,]/g, "")  // sólo números, puntos y comas
+    .replace(/\./g, "")        // quita puntos de miles
+    .replace(/,/g, ".");       // coma decimal → punto
+  return parseFloat(cleaned);
+}
+
 export default function CartPage() {
   const [observation, setObservation] = useState("");
   const { cartItems, removeFromCart, updateQuantity, clearCart } = useCart();
   const router = useRouter();
 
+  // Cálculo del total
   const total = cartItems.reduce((sum, item) => {
-    const priceNum = parseFloat(item.price.replace(/[^0-9.]/g, ""));
-    return sum + priceNum * (item.quantity || 1);
+    const unit = parsePrice(item.price);
+    const qty = item.quantity || 1;
+    return sum + unit * qty;
   }, 0);
 
   return (
@@ -34,9 +45,9 @@ export default function CartPage() {
         {/* LEFT: Lista de ítems */}
         <div className="space-y-6">
           {cartItems.map((item) => {
-            const priceNum = parseFloat(item.price.replace(/[^0-9.]/g, ""));
-            const quantity = item.quantity || 1;
-            const lineTotal = (priceNum * quantity).toFixed(2);
+            const unit = parsePrice(item.price);
+            const qty = item.quantity || 1;
+            const lineTotal = unit * qty;
 
             return (
               <div key={item.name} className="flex gap-4 items-start">
@@ -52,9 +63,9 @@ export default function CartPage() {
                 {/* Detalle */}
                 <div className="flex-1 flex flex-col">
                   <p className="font-semibold text-gray-800">{item.name}</p>
-                  <p className="text-sm text-gray-600">Cantidad:</p>
+                  <p className="text-sm text-gray-600 mt-1">Cantidad:</p>
                   <select
-                    value={quantity}
+                    value={qty}
                     onChange={(e) =>
                       updateQuantity(item.name, parseInt(e.target.value, 10))
                     }
@@ -69,7 +80,9 @@ export default function CartPage() {
                 </div>
                 {/* Precio y eliminar */}
                 <div className="flex flex-col items-end">
-                  <p className="font-semibold text-gray-800">${lineTotal} US$</p>
+                  <p className="font-semibold text-gray-800">
+                    {lineTotal.toLocaleString("es-AR", { style: "currency", currency: "ARS" })}
+                  </p>
                   <button
                     onClick={() => removeFromCart(item.name)}
                     className="mt-2 text-red-600 hover:text-red-800"
@@ -84,31 +97,30 @@ export default function CartPage() {
 
         {/* RIGHT: Resumen */}
         <div className="bg-gray-50 rounded-lg p-6 flex flex-col">
-          {/* Total */}
           <div className="mt-auto">
             <p className="text-lg font-bold mb-4 text-black">VALOR TOTAL:</p>
             <p className="text-2xl font-semibold text-gray-800 mb-8">
-              ${total.toFixed(2)}
+              {total.toLocaleString("es-AR", { style: "currency", currency: "ARS" })}
             </p>
 
             {/* Comprar por WhatsApp */}
             <a
               href={`https://wa.me/5491135657692?text=${encodeURIComponent(
-                // Empieza con saludo
                 `¡Hola! 👋\nMe gustaría hacer el siguiente pedido:\n\n` +
-                // Lista de productos
-                cartItems
-                  .map((p, i) => {
-                    const unit = parseFloat(p.price.replace(/[^0-9.]/g, ""));
-                    const qty = p.quantity || 1;
-                    const line = (unit * qty).toFixed(2);
-                    return `${i + 1}. ${p.name}\n   • Cantidad: ${qty}\n   • Subtotal: $${line} US$`;
-                  })
-                  .join("\n\n") +
-                // Observación si existe
-                (observation ? `\n\nObservación:\n${observation}` : "") +
-                // Total al final
-                `\n\n*Total: $${total.toFixed(2)} US$*`
+                  cartItems
+                    .map((p, i) => {
+                      const unit = parsePrice(p.price);
+                      const qty = p.quantity || 1;
+                      const line = unit * qty;
+                      return (
+                        `${i + 1}. ${p.name}\n` +
+                        `   • Cantidad: ${qty}\n` +
+                        `   • Subtotal: ${line.toLocaleString("es-AR", { style: "currency", currency: "ARS" })}`
+                      );
+                    })
+                    .join("\n\n") +
+                  (observation ? `\n\nObservación:\n${observation}` : "") +
+                  `\n\n*Total: ${total.toLocaleString("es-AR", { style: "currency", currency: "ARS" })}*`
               )}`}
               target="_blank"
               rel="noopener noreferrer"
@@ -118,7 +130,6 @@ export default function CartPage() {
             </a>
           </div>
         </div>
-
       </div>
     </div>
   );
