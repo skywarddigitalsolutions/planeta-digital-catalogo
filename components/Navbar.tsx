@@ -18,13 +18,15 @@ export const Navbar: React.FC = () => {
           <HiOutlineMenu size={24} />
         </button>
 
-        <Image
-          src="/images/logo.png"
-          alt="Logo de la marca"
-          width={40}
-          height={20}
-          priority
-        />
+        <a href="/" className="flex items-center gap-2">
+          <Image
+            src="/images/logo.png"
+            alt="Logo de la marca"
+            width={40}
+            height={20}
+            priority
+          />
+        </a>
 
       </nav>
 
@@ -63,7 +65,7 @@ export const Navbar: React.FC = () => {
           <div className="flex flex-col gap-3 text-sm">
             <p className="uppercase mb-2 text-gray-900">Planeta digital</p>
 
-            <a href="tel:+5491135657692" className="flex items-center gap-2 hover:text-black">
+            <a href="2271438717" className="flex items-center gap-2 hover:text-black">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 fill="none"
@@ -76,11 +78,11 @@ export const Navbar: React.FC = () => {
               >
                 <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.18 12.18 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L9 9a16 16 0 0 0 6 6l1.17-1.17a2 2 0 0 1 2.11-.45 12.18 12.18 0 0 0 2.81.7A2 2 0 0 1 22 16.92z" />
               </svg>
-              +5491135657692
+              2271438717
             </a>
 
             <address className="not-italic text-gray-600">
-              Pasteur 277 - Local 32
+              Petracchi 602 san Miguel del monte
             </address>
           </div>
 

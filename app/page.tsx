@@ -70,14 +70,14 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-gray-50">
       {/* En mobile, mostrar filtro encima */}
-      <div className="lg:hidden p-4">
+      <div className="lg:hidden">
         <FilterBar
           categories={categories}
           onFilterChange={handleFilterChange}
         />
       </div>
 
-      <div className="grid grid-cols-1 lg:grid-cols-[240px_1fr] gap-6 px-4">
+      <div className="grid grid-cols-1 lg:grid-cols-[240px_1fr] gap-6">
         {/* Sidebar desktop */}
         <aside className="hidden lg:block sticky top-20 self-start">
           <FilterBar
@@ -88,7 +88,7 @@ export default function Home() {
 
         {/* Grilla de productos */}
         <section className="pt-4">
-          <h2 className="text-2xl font-bold mb-4 text-black mt-0 sm:mt-20">
+          <h2 className="text-2xl font-bold mb-4 text-black mt-0 sm:mt-20 text-center">
             {filterCategory === "TODAS" ? "Todos los productos" : filterCategory}
           </h2>
           <ProductList products={filteredProducts} />

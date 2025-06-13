@@ -42,11 +42,23 @@ export const ProductList: React.FC<Props> = ({ products }) => {
 
   return (
     <>
-      <section className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 px-4 lg:px-8 mt-5 mb-10">
-        {visibleProducts.map((product, i) => (
-          <ProductCard key={i} product={product} />
+      <section
+        className='
+        grid 
+        grid-cols-1 
+        sm:grid-cols-2 
+        lg:grid-cols-3 
+        gap-6 
+        p-4 
+        mt-5 
+        items-stretch
+      '
+      >
+        {visibleProducts.map((product, index) => (
+          <ProductCard key={index} product={product} />
         ))}
       </section>
+
       <div ref={loader} />
     </>
   );

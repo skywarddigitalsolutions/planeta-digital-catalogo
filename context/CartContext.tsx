@@ -6,9 +6,10 @@ interface Product {
   name: string;
   category: string;
   price: string;
-  description: string;
-  images: string[];
+  description?: string
+  images?: string[];
   quantity?: number;
+  image?: string;
 }
 
 interface CartContextType {

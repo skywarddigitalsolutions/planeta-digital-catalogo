@@ -54,7 +54,7 @@ export default function CartPage() {
                 {/* Miniatura */}
                 <div className="w-20 h-20 relative rounded border overflow-hidden flex-shrink-0">
                   <Image
-                    src={item.images?.[0] ?? "/placeholder.png"}
+                    src={item.images?.[0] ?? item.image ?? "/images/no-image.png"}
                     alt={item.name}
                     fill
                     style={{ objectFit: "cover" }}
@@ -105,7 +105,7 @@ export default function CartPage() {
 
             {/* Comprar por WhatsApp */}
             <a
-              href={`https://wa.me/5491135657692?text=${encodeURIComponent(
+              href={`https://wa.me/2271438717?text=${encodeURIComponent(
                 `¡Hola! 👋\nMe gustaría hacer el siguiente pedido:\n\n` +
                   cartItems
                     .map((p, i) => {
