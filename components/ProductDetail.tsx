@@ -6,6 +6,7 @@ import { useRouter } from "next/navigation";
 import { FaShoppingCart, FaArrowLeft } from "react-icons/fa";
 import { useCart } from "@/context/CartContext";
 import { useSwipeable } from "react-swipeable";
+import { limpiarCentavos } from "@/utils/string";
 
 // Helper para convertir strings de precio argentinos ("$39.900,00") a número (39900)
 function parsePrice(price: string): number {
@@ -138,10 +139,7 @@ export const ProductDetail: React.FC<ProductDetailProps> = ({ product }) => {
             <p className="text-gray-500 font-semibold uppercase">{product.category}</p>
             <h1 className="mt-1 text-3xl font-bold text-gray-800">{product.name}</h1>
             <p className="mt-2 text-2xl font-semibold text-gray-800">
-              {parsePrice(product.price).toLocaleString("es-AR", {
-                style: "currency",
-                currency: "ARS",
-              })}
+              $ {limpiarCentavos(product.price)}
             </p>
             <hr className="my-4 border-gray-300" />
 

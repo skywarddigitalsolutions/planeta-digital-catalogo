@@ -5,7 +5,7 @@ import React from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { FaPlus } from "react-icons/fa";
-import { slugify } from "@/utils/string";
+import { limpiarCentavos, slugify } from "@/utils/string";
 import { useCart } from "@/context/CartContext";
 
 export interface Product {
@@ -84,7 +84,7 @@ export const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
           </div>
 
           <p className="product_price__hgX1S font-bold text-base text-gray-800 mt-2">
-            {product.price}
+            ${limpiarCentavos(product.price)}
           </p>
 
           {snippet && (

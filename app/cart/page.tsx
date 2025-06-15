@@ -5,6 +5,7 @@ import { useCart } from "@/context/CartContext";
 import Image from "next/image";
 import { FaTrash, FaArrowLeft } from "react-icons/fa";
 import { useRouter } from "next/navigation";
+import { limpiarCentavos } from "@/utils/string";
 
 // Helper para convertir strings de precio argentinos ("$39.900,00") a número (39900)
 function parsePrice(price: string): number {
@@ -81,7 +82,7 @@ export default function CartPage() {
                 {/* Precio y eliminar */}
                 <div className="flex flex-col items-end">
                   <p className="font-semibold text-gray-800">
-                    {lineTotal.toLocaleString("es-AR", { style: "currency", currency: "ARS" })}
+                    ${limpiarCentavos(lineTotal.toString())}
                   </p>
                   <button
                     onClick={() => removeFromCart(item.name)}
@@ -100,7 +101,7 @@ export default function CartPage() {
           <div className="mt-auto">
             <p className="text-lg font-bold mb-4 text-black">VALOR TOTAL:</p>
             <p className="text-2xl font-semibold text-gray-800 mb-8">
-              {total.toLocaleString("es-AR", { style: "currency", currency: "ARS" })}
+              $ {limpiarCentavos(total.toString() || '0')}
             </p>
 
             {/* Comprar por WhatsApp */}
@@ -115,12 +116,12 @@ export default function CartPage() {
                       return (
                         `${i + 1}. ${p.name}\n` +
                         `   • Cantidad: ${qty}\n` +
-                        `   • Subtotal: ${line.toLocaleString("es-AR", { style: "currency", currency: "ARS" })}`
+                        `   • Subtotal: $${ limpiarCentavos(line.toString()) }`
                       );
                     })
                     .join("\n\n") +
                   (observation ? `\n\nObservación:\n${observation}` : "") +
-                  `\n\n*Total: ${total.toLocaleString("es-AR", { style: "currency", currency: "ARS" })}*`
+                  `\n\n*Total: $${limpiarCentavos(total.toString())}*`
               )}`}
               target="_blank"
               rel="noopener noreferrer"
