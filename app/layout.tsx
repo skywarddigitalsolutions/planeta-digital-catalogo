@@ -9,9 +9,35 @@ import { CartProvider } from "@/context/CartContext";
 import "../styles/globals.css";
 
 export const metadata: Metadata = {
-  title: "Planeta digital",
-  description: "Explorá nuestro catálogo completo de productos. Encontrá desde artículos para el hogar hasta herramientas, tecnología y mucho más. Descubrí todo lo que tenemos para vos, en un solo lugar.",
+  title: "Planeta Digital",
+  description:
+    "Explorá nuestro catálogo completo de productos. Encontrá desde artículos para el hogar hasta herramientas, tecnología y mucho más. Descubrí todo lo que tenemos para vos, en un solo lugar.",
+  openGraph: {
+    title: "Planeta Digital",
+    description:
+      "Venta de todo tipo de productos. Tecnología, hogar, herramientas y más. Ingresá a nuestro catálogo online.",
+    url: "https://www.planeta-digital.shop/",
+    siteName: "Planeta Digital",
+    images: [
+      {
+        url: "https://www.planeta-digital.shop/logo.png",
+        width: 1200,
+        height: 630,
+        alt: "Catálogo de Planeta Digital",
+      },
+    ],
+    locale: "es_AR",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Planeta Digital",
+    description:
+      "Descubrí cientos de productos: tecnología, hogar, herramientas y más.",
+    images: ["https://www.planeta-digital.shop/logo.png"],
+  },
 };
+
 
 export default function RootLayout({
   children,
