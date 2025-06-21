@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     siteName: "Planeta Digital",
     images: [
       {
-        url: "https://www.planeta-digital.shop/logo.png",
+        url: "https://www.planeta-digital.shop/images/logo.png",
         width: 1200,
         height: 630,
         alt: "Catálogo de Planeta Digital",
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     title: "Planeta Digital",
     description:
       "Descubrí cientos de productos: tecnología, hogar, herramientas y más.",
-    images: ["https://www.planeta-digital.shop/logo.png"],
+    images: ["https://www.planeta-digital.shop/images/logo.png"],
   },
 };
 
