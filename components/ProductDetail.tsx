@@ -67,7 +67,7 @@ export const ProductDetail: React.FC<ProductDetailProps> = ({ product }) => {
       {/* Volver */}
       <button
         onClick={() => router.back()}
-        className="mb-6 flex items-center gap-1 text-gray-700 hover:text-gray-900 font-semibold"
+        className="mb-6 flex items-center gap-1 text-gray-700 hover:text-gray-900 font-semibold cursor-pointer"
       >
         <FaArrowLeft /> Volver
       </button>
