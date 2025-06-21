@@ -65,7 +65,8 @@ export const Navbar: React.FC = () => {
           <div className="flex flex-col gap-3 text-sm">
             <p className="uppercase mb-2 text-gray-900">Planeta digital</p>
 
-            <a href="2271438717" className="flex items-center gap-2 hover:text-black">
+            <h4>Contacto: </h4>
+            <a href="tel:2271438717" className="flex items-center gap-2 hover:text-black">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 fill="none"
@@ -81,6 +82,7 @@ export const Navbar: React.FC = () => {
               2271438717
             </a>
 
+            <h4>Ubicación: </h4>
             <address className="not-italic text-gray-600">
               Petracchi 602 san Miguel del monte
             </address>

@@ -7,12 +7,11 @@ import { FaTrash, FaArrowLeft } from "react-icons/fa";
 import { useRouter } from "next/navigation";
 import { limpiarCentavos } from "@/utils/string";
 
-// Helper para convertir strings de precio argentinos ("$39.900,00") a número (39900)
 function parsePrice(price: string): number {
   const cleaned = price
-    .replace(/[^0-9.,]/g, "")  // sólo números, puntos y comas
-    .replace(/\./g, "")        // quita puntos de miles
-    .replace(/,/g, ".");       // coma decimal → punto
+    .replace(/[^0-9.,]/g, "")
+    .replace(/\./g, "")
+    .replace(/,/g, ".");
   return parseFloat(cleaned);
 }
 
