@@ -39,7 +39,7 @@ export const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
   };
 
   return (
-    <Link href={`/products/${slug}`} passHref>
+    <Link href={`/products/${slug}`} passHref scroll={false} >
       <article className="relative bg-white rounded-lg shadow flex items-start">
         {/* Imagen con contenedor fijo */}
         <div className="w-48 aspect-square flex-shrink-0 relative">

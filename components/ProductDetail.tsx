@@ -1,103 +1,71 @@
+// components/ProductDetail.tsx
 "use client";
 
-import React, { useState, useEffect } from "react";
+import React, { useEffect, useState } from "react";
 import Image from "next/image";
 import { useRouter } from "next/navigation";
 import { FaShoppingCart, FaArrowLeft } from "react-icons/fa";
 import { useCart } from "@/context/CartContext";
-import { useSwipeable } from "react-swipeable";
 import { limpiarCentavos } from "@/utils/string";
 
-// Helper para convertir strings de precio argentinos ("$39.900,00") a número (39900)
-function parsePrice(price: string): number {
-  const cleaned = price
-    .replace(/[^0-9.,]/g, "")  // sólo números, puntos y comas
-    .replace(/\./g, "")        // quita puntos de miles
-    .replace(/,/g, ".");       // coma decimal → punto
-  return parseFloat(cleaned);
-}
-
-interface Product {
+export interface Product {
   name: string;
   category: string;
   price: string;
   description: string;
-  image: string;        // URL principal
-  images: string[];     // Galería posible
+  image: string;
+  images: string[];
 }
 
 interface ProductDetailProps {
   product: Product;
-  onAddToCart?: (product: Product) => void;
 }
 
 export const ProductDetail: React.FC<ProductDetailProps> = ({ product }) => {
-  // si no hay imágenes en array, uso la principal como único elemento
-  const imgs = product.images.length > 0 ? product.images : [product.image];
-
-  const [idx, setIdx] = useState(0);
-  const [expanded, setExpanded] = useState(false);
-  const [isDesktop, setIsDesktop] = useState(false);
   const router = useRouter();
   const { addToCart } = useCart();
 
-  // Detectar desktop
+  // 🚀 Forzar scroll arriba al montar
   useEffect(() => {
-    const onResize = () => setIsDesktop(window.innerWidth >= 1024);
-    onResize();
-    window.addEventListener("resize", onResize);
-    return () => window.removeEventListener("resize", onResize);
+    window.scrollTo({ top: 0, left: 0, behavior: "auto" });
   }, []);
 
-  // Swipe handlers
-  const handlers = useSwipeable({
-    onSwipedLeft: () => setIdx((i) => Math.min(i + 1, imgs.length - 1)),
-    onSwipedRight: () => setIdx((i) => Math.max(i - 1, 0)),
-    trackMouse: true,
-  });
-
-  // Descripción truncada
-  const fullDesc = product.description;
-  const snippet =
-    fullDesc.length > 300 ? fullDesc.slice(0, 300).trim() + "…" : fullDesc;
-
+  // Preparar galería
+  const imgs = product.images.length > 0 ? product.images : [product.image];
+  const [idx, setIdx] = useState(0);
 
   return (
     <div className="max-w-6xl mx-auto p-4 mt-16 mb-10 md:mt-32">
-      {/* Volver */}
+      {/* Botón Volver */}
       <button
         onClick={() => router.back()}
-        className="mb-6 flex items-center gap-1 text-gray-700 hover:text-gray-900 font-semibold cursor-pointer"
+        className="mb-6 flex items-center gap-2 text-gray-700 hover:text-gray-900 font-semibold"
       >
         <FaArrowLeft /> Volver
       </button>
 
-      {/* Contenedor: mobile = columna, desktop = fila */}
       <div className="flex flex-col lg:flex-row gap-8">
-        {/* Slider + miniaturas */}
+        {/* Slider */}
         <div className="lg:w-1/2">
-          <div
-            {...handlers}
-            className="relative w-full h-72 sm:h-[400px] overflow-hidden select-none"
-          >
+          <div className="relative w-full h-72 sm:h-[400px] overflow-hidden select-none">
             <div
               className="flex h-full transition-transform duration-300 ease-out"
               style={{ transform: `translateX(-${idx * 100}%)` }}
             >
-              {imgs.map((img, i) => (
-                <div key={i} className="flex-shrink-0 w-full h-full relative">
+              {imgs.map((src, i) => (
+                <div
+                  key={i}
+                  className="flex-shrink-0 w-full h-full relative"
+                >
                   <Image
-                    src={img}
+                    src={src}
                     alt={`${product.name} imagen ${i + 1}`}
                     fill
                     style={{ objectFit: "contain" }}
-                    priority={i === idx}
                   />
                 </div>
               ))}
             </div>
-
-            {/* Indicadores */}
             <div className="absolute bottom-2 left-1/2 -translate-x-1/2 flex gap-2">
               {imgs.map((_, i) => (
                 <span
@@ -109,20 +77,18 @@ export const ProductDetail: React.FC<ProductDetailProps> = ({ product }) => {
               ))}
             </div>
           </div>
-
-          {/* Miniaturas */}
           <div className="flex gap-3 mt-4 overflow-x-auto">
-            {imgs.map((img, i) => (
+            {imgs.map((src, i) => (
               <button
                 key={i}
+                onClick={() => setIdx(i)}
                 className={`relative w-20 h-20 rounded border ${
                   i === idx ? "border-blue-600" : "border-gray-300"
                 }`}
-                onClick={() => setIdx(i)}
                 aria-label={`Ver imagen ${i + 1}`}
               >
                 <Image
-                  src={img}
+                  src={src}
                   alt={`Miniatura ${i + 1}`}
                   fill
                   style={{ objectFit: "contain" }}
@@ -136,32 +102,25 @@ export const ProductDetail: React.FC<ProductDetailProps> = ({ product }) => {
         {/* Ficha de producto */}
         <div className="lg:w-1/2 bg-gray-50 rounded-lg p-6 flex flex-col justify-between">
           <div>
-            <p className="text-gray-500 font-semibold uppercase">{product.category}</p>
-            <h1 className="mt-1 text-3xl font-bold text-gray-800">{product.name}</h1>
+            <p className="text-gray-500 font-semibold uppercase">
+              {product.category}
+            </p>
+            <h1 className="mt-1 text-3xl font-bold text-gray-800">
+              {product.name}
+            </h1>
             <p className="mt-2 text-2xl font-semibold text-gray-800">
               $ {limpiarCentavos(product.price)}
             </p>
             <hr className="my-4 border-gray-300" />
-
-            {/* Descripción con toggle */}
-            <p className="text-gray-700 leading-relaxed">
-              {!expanded ? snippet : fullDesc}
+            <p className="text-gray-700 leading-relaxed whitespace-pre-line">
+              {product.description}
             </p>
-            {fullDesc.length > 300 && (
-              <button
-                onClick={() => setExpanded((e) => !e)}
-                className="mt-2 text-blue-600 hover:underline"
-              >
-                {expanded ? "Ver menos" : "Ver más"}
-              </button>
-            )}
           </div>
-
           <button
             onClick={() => addToCart(product)}
             className="mt-6 bg-blue-800 text-white py-3 rounded text-center font-medium hover:bg-blue-900 transition"
           >
-            <FaShoppingCart className="inline mr-2" /> Añadir producto
+            <FaShoppingCart className="inline mr-2" /> Añadir al carrito
           </button>
         </div>
       </div>
