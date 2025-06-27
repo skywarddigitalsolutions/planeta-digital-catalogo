@@ -52,7 +52,7 @@ export const CategorySelector: React.FC<CategorySelectorProps> = ({
           {categories.map((c) => (
             <li
               key={c}
-              className={`cursor-pointer py-2 px-4 ${
+              className={`cursor-pointer py-2 px-4 text-black ${
                 selectedCategory === c ? "font-bold bg-blue-200" : "hover:bg-blue-100"
               }`}
               onClick={() => {

@@ -1,87 +1,90 @@
+// components/ProductList.tsx
 "use client";
 
-import React, { useState, useEffect, useLayoutEffect, useRef } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import { ProductCard, Product } from "./ProductCard";
 
-interface Props { products: Product[] }
+interface Props {
+  products: Product[];
+}
+
 const PAGE_SIZE = 10;
 
 export const ProductList: React.FC<Props> = ({ products }) => {
-  // 1) Leo lo que ya tengo guardado
-  const saved = typeof window !== "undefined"
-    ? JSON.parse(sessionStorage.getItem("catalogState") || "{}")
-    : {};
-
-  const initialPage = saved.page || 1;
-
-  // 2) Inicializo estado con contenido ya cortado
-  const [page, setPage] = useState<number>(initialPage);
-  const [visibleProducts, setVisibleProducts] = useState<Product[]>(
-    () => products.slice(0, initialPage * PAGE_SIZE)
-  );
-  const [restored, setRestored] = useState(false);
   const loader = useRef<HTMLDivElement>(null);
 
-  // 3) Desactivo el scrollRestoration automático de Next.js/browser
+  // 1) Siempre arrancamos en page=1
+  const [page, setPage] = useState(1);
+  const [visible, setVisible] = useState<Product[]>([]);
+
+  // 2) Al montar en el cliente, restauramos page y scroll si existen
   useEffect(() => {
-    if ("scrollRestoration" in window.history) {
-      window.history.scrollRestoration = "manual";
+    const savedPage = typeof window !== "undefined"
+      ? sessionStorage.getItem("catalogPage")
+      : null;
+    if (savedPage) {
+      setPage(parseInt(savedPage, 10));
+    }
+    const savedScroll = typeof window !== "undefined"
+      ? sessionStorage.getItem("catalogScroll")
+      : null;
+    if (savedScroll) {
+      window.scrollTo(0, parseInt(savedScroll, 10));
     }
   }, []);
 
-  // 4) Restauro el scroll **antes del paint** (useLayoutEffect)
-  useLayoutEffect(() => {
-    if (restored) return;
-    if (typeof saved.scroll === "number") {
-      requestAnimationFrame(() => {
-        requestAnimationFrame(() => {
-          window.scrollTo({ top: saved.scroll, behavior: "auto" });
-        });
-      });
-    }
-    setRestored(true);
-  }, [restored, saved.scroll]);
-
-  // 5) Cada vez que cambie `page`, recorto la lista
+  // 3) Cada vez que cambien products o page, recortamos el slice
   useEffect(() => {
-    setVisibleProducts(products.slice(0, page * PAGE_SIZE));
+    setVisible(products.slice(0, page * PAGE_SIZE));
   }, [products, page]);
 
-  // 6) Guardo page+scroll en sessionStorage
+  // 4) Guardar page en sessionStorage
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      sessionStorage.setItem("catalogPage", page.toString());
+    }
+  }, [page]);
+
+  // 5) Guardar scroll
   useEffect(() => {
     const onScroll = () => {
-      sessionStorage.setItem(
-        "catalogState",
-        JSON.stringify({ page, scroll: window.scrollY })
-      );
+      if (typeof window !== "undefined") {
+        sessionStorage.setItem(
+          "catalogScroll",
+          window.scrollY.toString()
+        );
+      }
     };
     window.addEventListener("scroll", onScroll);
     return () => window.removeEventListener("scroll", onScroll);
-  }, [page]);
+  }, []);
 
-  // 7) IntersectionObserver para lazy-load
+  // 6) IntersectionObserver para cargar más
   useEffect(() => {
     if (!loader.current) return;
     const obs = new IntersectionObserver(
-      ([e]) => {
-        if (e.isIntersecting && page * PAGE_SIZE < products.length) {
+      ([entry]) => {
+        if (
+          entry.isIntersecting &&
+          page * PAGE_SIZE < products.length
+        ) {
           setPage((p) => p + 1);
         }
       },
-      { threshold: 1 }
+      { threshold: 0 }
     );
     obs.observe(loader.current);
     return () => obs.disconnect();
-  }, [loader, page, products]);
+  }, [page, products]);
 
   return (
     <>
-      <section className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-5 mx-3'>
-        {visibleProducts.map((p, i) => (
+      <section className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-5 mx-3">
+        {visible.map((p, i) => (
           <ProductCard key={i} product={p} />
         ))}
       </section>
-      <div ref={loader} />
+      <div ref={loader} className="h-px" />
     </>
   );
 };
