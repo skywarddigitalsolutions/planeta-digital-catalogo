@@ -5232,18 +5232,6 @@
       ]
     },
     {
-      "name": "JUGUERA ELECTRICA ORIX ",
-      "category": "COCINA ",
-      "price": "",
-      "description": "",
-      "image": "/images/juguera_electrica_orix.webp",
-      "images": [
-        "/images/juguera_electrica_orix.webp",
-        "/images/juguera_electrica_orix_1.webp",
-        "/images/juguera_electrica_orix_2.webp"
-      ]
-    },
-    {
       "name": "MAQUINA DE DONAS ORIX ",
       "category": "COCINA ",
       "price": "69.990",
@@ -5313,18 +5301,6 @@
       ]
     },
     {
-      "name": "máquina portátil de limpieza de frutas y verduras",
-      "category": "COCINA",
-      "price": "",
-      "description": "",
-      "image": "/images/mquina_porttil_de_limpieza_de_frutas_y_verduras.webp",
-      "images": [
-        "/images/mquina_porttil_de_limpieza_de_frutas_y_verduras.webp",
-        "/images/mquina_porttil_de_limpieza_de_frutas_y_verduras_1.webp",
-        "/images/mquina_porttil_de_limpieza_de_frutas_y_verduras_2.webp"
-      ]
-    },
-    {
       "name": "SAMSUNG A05 DE 128GB Y 4 DE RAM",
       "category": "CELULARES",
       "price": "179.990",
@@ -5379,18 +5355,6 @@
         "/images/sacacorchos_electrico.webp",
         "/images/sacacorchos_electrico_1.webp",
         "/images/sacacorchos_electrico_2.webp"
-      ]
-    },
-    {
-      "name": "ACEITERO BOTELLA CON PINCEL DE SILICONA ",
-      "category": "COCINA ",
-      "price": "",
-      "description": "",
-      "image": "/images/aceitero_botella_con_pincel_de_silicona.webp",
-      "images": [
-        "/images/aceitero_botella_con_pincel_de_silicona.webp",
-        "/images/aceitero_botella_con_pincel_de_silicona_1.webp",
-        "/images/aceitero_botella_con_pincel_de_silicona_2.webp"
       ]
     },
     {
