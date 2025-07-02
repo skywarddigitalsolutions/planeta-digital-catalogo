@@ -1,5 +1,5 @@
 {
-  "total": 399,
+  "total": 496,
   "products": [
     {
       "name": "MOTOROLA E14 DE 64GB Y 2 DE RAM",
@@ -16,7 +16,7 @@
     {
       "name": "SAMSUNG A06 DE 64GB Y 4 DE RAM",
       "category": "CELULARES",
-      "price": "159.990,00",
+      "price": "180.000,00",
       "description": "Samsung A06 – 64 GB + 4 GB RAM\n\nPantalla de 6.7″ HD+ ideal para disfrutar tus contenidos con comodidad.\nProcesador MediaTek Helio G85 para un rendimiento fluido en apps y redes sociales.\nMemoria: 4 GB de RAM y 64 GB de almacenamiento interno, expandible hasta 1 TB con microSD.\nCámara trasera dual: 50 MP principal + 2 MP para profundidad. Cámara frontal de 8 MP para selfies nítidas.\nBatería de 5000 mAh con carga rápida de 25 W, diseñada para durar todo el día.\nSeguridad mejorada con lector de huella lateral y protección Samsung Knox.\nSistema operativo Android 14 con One UI 6.1, con actualizaciones garantizadas.\n\nUn smartphone confiable, ideal para el día a día, con excelente cámara, autonomía y un precio accesible.",
       "image": "/images/samsung_a06.webp",
       "images": [
@@ -29,7 +29,7 @@
     {
       "name": "SAMSUNG A06 DE 128GB Y 4 DE RAM",
       "category": "CELULARES",
-      "price": "180.000,00",
+      "price": "199.990,00",
       "description": "Samsung A06 – 128 GB + 4 GB RAM\n\nPantalla de 6.7″ HD+ ideal para disfrutar tus contenidos con comodidad.\nProcesador MediaTek Helio G85 para un rendimiento fluido en apps y redes sociales.\nMemoria: 4 GB de RAM y 128 GB de almacenamiento interno, expandible hasta 1 TB con microSD.\nCámara trasera dual: 50 MP principal + 2 MP para profundidad. Cámara frontal de 8 MP para selfies nítidas.\nBatería de 5000 mAh con carga rápida de 25 W, diseñada para durar todo el día.\nSeguridad mejorada con lector de huella lateral y protección Samsung Knox.\nSistema operativo Android 14 con One UI 6.1, con actualizaciones garantizadas.\n\nUn smartphone confiable, ideal para el día a día, con excelente cámara, autonomía y un precio accesible.",
       "image": "/images/samsung_a06.webp",
       "images": [
@@ -330,7 +330,7 @@
     {
       "name": "Aspiradora Portatil Recargable 4 en 1",
       "category": "Acces Auto Moto Bici",
-      "price": "16.990,00",
+      "price": "18.990,00",
       "description": "",
       "image": "/images/aspiradora_portatil_recargable_4_en_1.webp",
       "images": [
@@ -363,7 +363,7 @@
     {
       "name": "Compresor de Aire Portatil Recargable St-5504",
       "category": "Acces Auto Moto Bici",
-      "price": "59,90",
+      "price": "59.990,00",
       "description": "",
       "image": "/images/compresor_de_aire_portatil_recargable_st_5504.webp",
       "images": [
@@ -4826,6 +4826,1138 @@
       "images": [
         "/images/tubo_46_piezas_caja_roja_1.webp",
         "/images/tubo_46_piezas_caja_roja_2.webp"
+      ]
+    },
+
+    {
+      "name": "REFLECTOR SOLAR DE CALLE + CAMARA SOLAR IP WIFI ",
+      "category": "SEGURIDAD",
+      "price": "299.990",
+      "description": "",
+      "image": "/images/reflector_solar_de_calle__camara_solar_ip_wifi.webp",
+      "images": [
+        "/images/reflector_solar_de_calle__camara_solar_ip_wifi.webp",
+        "/images/reflector_solar_de_calle__camara_solar_ip_wifi_1.webp",
+        "/images/reflector_solar_de_calle__camara_solar_ip_wifi_2.webp"
+      ]
+    },
+    {
+      "name": "CAMARA ESPIA WIFI IP ",
+      "category": "SEGURIDAD",
+      "price": "15.990",
+      "description": "",
+      "image": "/images/camara_espia_wifi_ip.webp",
+      "images": [
+        "/images/camara_espia_wifi_ip.webp",
+        "/images/camara_espia_wifi_ip_1.webp",
+        "/images/camara_espia_wifi_ip_2.webp"
+      ]
+    },
+    {
+      "name": "CAMARA SOLAR IP WIFI EXTERIOR ",
+      "category": "SEGURIDAD",
+      "price": "179.990,00",
+      "description": "",
+      "image": "/images/camara_solar_ip_wifi_exterior.webp",
+      "images": [
+        "/images/camara_solar_ip_wifi_exterior.webp",
+        "/images/camara_solar_ip_wifi_exterior_1.webp",
+        "/images/camara_solar_ip_wifi_exterior_2.webp"
+      ]
+    },
+    {
+      "name": "CAMARA IP WIFI INTERIOR ",
+      "category": "SEGURIDAD",
+      "price": "39.990",
+      "description": "",
+      "image": "/images/camara_ip_wifi_interior.webp",
+      "images": [
+        "/images/camara_ip_wifi_interior.webp",
+        "/images/camara_ip_wifi_interior_1.webp"
+      ]
+    },
+    {
+      "name": "CAMARA FOCO IP WIFI ",
+      "category": "SEGURIDAD",
+      "price": "29.990",
+      "description": "",
+      "image": "/images/camara_foco_ip_wifi.webp",
+      "images": [
+        "/images/camara_foco_ip_wifi.webp",
+        "/images/camara_foco_ip_wifi_1.webp",
+        "/images/camara_foco_ip_wifi_2.webp"
+      ]
+    },
+    {
+      "name": "CAMARA WIFI IP WIFI INTERIOR",
+      "category": "SEGURIDAD",
+      "price": "29.990",
+      "description": "",
+      "image": "/images/camara_wifi_ip_wifi_inteior.webp",
+      "images": [
+        "/images/camara_wifi_ip_wifi_inteior.webp",
+        "/images/camara_wifi_ip_wifi_inteior_1.webp"
+      ]
+    },
+    {
+      "name": "CAMARA WIFI IP EXTERIOR",
+      "category": "SEGURIDAD ",
+      "price": "39.990",
+      "description": "",
+      "image": "/images/camara_wifi_ip_exterior.webp",
+      "images": [
+        "/images/camara_wifi_ip_exterior.webp",
+        "/images/camara_wifi_ip_exterior_1.webp"
+      ]
+    },
+    {
+      "name": "TABLETA MAGICA MULTICULOR 8.5\"",
+      "category": "LOS + CHICOS",
+      "price": "2.990",
+      "description": "",
+      "image": "/images/tableta_magica_multiculor_85.webp",
+      "images": [
+        "/images/tableta_magica_multiculor_85.webp",
+        "/images/tableta_magica_multiculor_85_1.webp",
+        "/images/tableta_magica_multiculor_85_2.webp"
+      ]
+    },
+    {
+      "name": "TABLETA MAGICA MULTICULOR 10\"",
+      "category": "LOS + CHICOS",
+      "price": "7.990",
+      "description": "",
+      "image": "/images/tableta_magica_multiculor_10.webp",
+      "images": [
+        "/images/tableta_magica_multiculor_10.webp",
+        "/images/tableta_magica_multiculor_10_1.webp",
+        "/images/tableta_magica_multiculor_10_2.webp"
+      ]
+    },
+    {
+      "name": "POP-IT ELECTRONICO ",
+      "category": "LOS + CHICOS",
+      "price": "4.990",
+      "description": "",
+      "image": "/images/popit_electronico.webp",
+      "images": [
+        "/images/popit_electronico.webp",
+        "/images/popit_electronico_1.webp",
+        "/images/popit_electronico_2.webp",
+        "/images/popit_electronico_3.webp",
+        "/images/popit_electronico_4.webp"
+      ]
+    },
+    {
+      "name": "TV BOX ",
+      "category": "TELEVISORES",
+      "price": "39.990",
+      "description": "Tv Box Convertidor A Smart Tv Ram32gb Android 13.1 Ultra Hd Negro . ROM 512",
+      "image": "/images/tv_box.webp",
+      "images": [
+        "/images/tv_box.webp",
+        "/images/tv_box_1.webp",
+        "/images/tv_box_2.webp"
+      ]
+    },
+    {
+      "name": "TV BOX 8K",
+      "category": "TELEVISORES",
+      "price": "45.990",
+      "description": "Tv Box 8k 512gb Almac 32gb Ram Negro Estándar Con Mágic Inst",
+      "image": "/images/tv_box_8k.webp",
+      "images": [
+        "/images/tv_box_8k.webp",
+        "/images/tv_box_8k_1.webp"
+      ]
+    },
+    {
+      "name": "TV STICK ",
+      "category": "TELEVISORES",
+      "price": "59.990",
+      "description": "TV STICK 5G ANDROID TV 4K",
+      "image": "/images/tv_stick.webp",
+      "images": [
+        "/images/tv_stick.webp",
+        "/images/tv_stick_1.webp",
+        "/images/tv_stick_2.webp"
+      ]
+    },
+    {
+      "name": " MOTOROLA G85 DE 256GB Y 8 DE RAM",
+      "category": "CELULARES",
+      "price": "499.990",
+      "description": "",
+      "image": "/images/motorola_g85_de_256gb_y_8_de_ram.webp",
+      "images": [
+        "/images/motorola_g85_de_256gb_y_8_de_ram.webp",
+        "/images/motorola_g85_de_256gb_y_8_de_ram_1.webp",
+        "/images/motorola_g85_de_256gb_y_8_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "STEREO DESMONTABLE BT USB SD AUX CONTROL Y MANUAL",
+      "category": "ACCES AUTO MOTO BICI ",
+      "price": "29.990",
+      "description": "",
+      "image": "/images/stereo_desmontable_bt_usb_sd_aux_control_y_manual.webp",
+      "images": [
+        "/images/stereo_desmontable_bt_usb_sd_aux_control_y_manual.webp",
+        "/images/stereo_desmontable_bt_usb_sd_aux_control_y_manual_1.webp",
+        "/images/stereo_desmontable_bt_usb_sd_aux_control_y_manual_2.webp"
+      ]
+    },
+    {
+      "name": "LICUADORA ",
+      "category": "COCINA",
+      "price": "69.990",
+      "description": "LICUADORA KANJI 1.5 LITRO ",
+      "image": "/images/licuadora.webp",
+      "images": [
+        "/images/licuadora.webp",
+        "/images/licuadora_1.webp",
+        "/images/licuadora_2.webp"
+      ]
+    },
+    {
+      "name": "MICROONDAS PHILCO",
+      "category": "COCINA ",
+      "price": "299.990",
+      "description": "",
+      "image": "/images/microondas_philco.webp",
+      "images": [
+        "/images/microondas_philco.webp",
+        "/images/microondas_philco_1.webp"
+      ]
+    },
+    {
+      "name": "HORNO ELECTRICO DAEWOO",
+      "category": "COCINA ",
+      "price": "250.000",
+      "description": "",
+      "image": "/images/horno_electrico_daewoo.webp",
+      "images": [
+        "/images/horno_electrico_daewoo.webp",
+        "/images/horno_electrico_daewoo_1.webp",
+        "/images/horno_electrico_daewoo_2.webp"
+      ]
+    },
+    {
+      "name": "RALLADOR MANUAL ",
+      "category": "COCINA",
+      "price": "19.990",
+      "description": "RALLADOR MANUAL CON 3 CABEZALES INTERCAMBIABLES",
+      "image": "/images/rallador_manual.webp",
+      "images": [
+        "/images/rallador_manual.webp",
+        "/images/rallador_manual_1.webp",
+        "/images/rallador_manual_2.webp"
+      ]
+    },
+    {
+      "name": "RALLADOR ELECTRICO",
+      "category": "COCINA",
+      "price": "79.990",
+      "description": "RALADOR ELECTRICO ORIX CON 5 CABEZALES INTERCAMBIABLE ",
+      "image": "/images/rallador_electrico.webp",
+      "images": [
+        "/images/rallador_electrico.webp",
+        "/images/rallador_electrico_1.webp",
+        "/images/rallador_electrico_2.webp"
+      ]
+    },
+    {
+      "name": "PICADOR ELECTRICO ",
+      "category": "COCINA",
+      "price": "59.990",
+      "description": "PICAR ELECTRICO ORIX CON 2 VELOCIDADES ",
+      "image": "/images/picador_electrico.webp",
+      "images": [
+        "/images/picador_electrico.webp",
+        "/images/picador_electrico_1.webp",
+        "/images/picador_electrico_2.webp"
+      ]
+    },
+    {
+      "name": "ESPUMADOR DE LECHE 400ML",
+      "category": "COCINA",
+      "price": "22.990",
+      "description": "",
+      "image": "/images/espumador_de_leche_400ml.webp",
+      "images": [
+        "/images/espumador_de_leche_400ml.webp",
+        "/images/espumador_de_leche_400ml_1.webp",
+        "/images/espumador_de_leche_400ml_2.webp"
+      ]
+    },
+    {
+      "name": "LICUADORA PORTATIL RECARGABLE 420ML",
+      "category": "COCINA",
+      "price": "13.990",
+      "description": "",
+      "image": "/images/licuadora_portatil_recargable_420ml.webp",
+      "images": [
+        "/images/licuadora_portatil_recargable_420ml.webp",
+        "/images/licuadora_portatil_recargable_420ml_1.webp"
+      ]
+    },
+    {
+      "name": "MANDOLINA MANUAL MULTI-FUNCIONAL CON CABEZALES",
+      "category": "COCINA",
+      "price": "49.990",
+      "description": "",
+      "image": "/images/mandolina_manual_multifuncional_con_cabezales.webp",
+      "images": [
+        "/images/mandolina_manual_multifuncional_con_cabezales.webp",
+        "/images/mandolina_manual_multifuncional_con_cabezales_1.webp"
+      ]
+    },
+    {
+      "name": "MANDOLINA MANUAL MULTI-FUNCIONAL CON CABEZALES HEALTY",
+      "category": "COCINA",
+      "price": "34.990",
+      "description": "",
+      "image": "/images/mandolina_manual_multifuncional_con_cabezales_healty.webp",
+      "images": [
+        "/images/mandolina_manual_multifuncional_con_cabezales_healty.webp",
+        "/images/mandolina_manual_multifuncional_con_cabezales_healty_1.webp",
+        "/images/mandolina_manual_multifuncional_con_cabezales_healty_2.webp"
+      ]
+    },
+    {
+      "name": "MANDOLINA MANUAL MULTI-FUNCIONAL CON CABEZALES MULTI",
+      "category": "COCINA",
+      "price": "27.990",
+      "description": "",
+      "image": "/images/mandolina_manual_multifuncional_con_cabezales.webp",
+      "images": [
+        "/images/mandolina_manual_multifuncional_con_cabezales.webp",
+        "/images/mandolina_manual_multifuncional_con_cabezales.webp",
+        "/images/mandolina_manual_multifuncional_con_cabezales.webp"
+      ]
+    },
+    {
+      "name": "PICADOR ELECTRICO 250 ML",
+      "category": "COCINA",
+      "price": "9.990",
+      "description": "",
+      "image": "/images/picador_electrico_250_ml.webp",
+      "images": [
+        "/images/picador_electrico_250_ml.webp",
+        "/images/picador_electrico_250_ml_1.webp"
+      ]
+    },
+    {
+      "name": "FREIDORA CON ACEITE ORIX ",
+      "category": "COCINA",
+      "price": "69.990",
+      "description": "",
+      "image": "/images/freidora_con_aceite_orix.webp",
+      "images": [
+        "/images/freidora_con_aceite_orix.webp",
+        "/images/freidora_con_aceite_orix_1.webp",
+        "/images/freidora_con_aceite_orix_2.webp"
+      ]
+    },
+    {
+      "name": "MINIPIMER 4 EN 1 ",
+      "category": "COCINA ",
+      "price": "59.990",
+      "description": "MINIPIMER , VASO MEDIDOR , PICADOR Y BATIDOR ",
+      "image": "/images/minipimer_4_en_1.webp",
+      "images": [
+        "/images/minipimer_4_en_1.webp",
+        "/images/minipimer_4_en_1_1.webp",
+        "/images/minipimer_4_en_1_2.webp"
+      ]
+    },
+    {
+      "name": "SANDWICHERA , TOSTADORA Y WAFLERA 3 EN 1 ",
+      "category": "COCINA ",
+      "price": "74.990",
+      "description": "3 EN 1 SANDWICHERA , TOSTADORA Y WAFLERA CABEZALES INTERCAMBIABLES ",
+      "image": "/images/sandwichera__tostadora_y_waflera_3_en_1.webp",
+      "images": [
+        "/images/sandwichera__tostadora_y_waflera_3_en_1.webp",
+        "/images/sandwichera__tostadora_y_waflera_3_en_1_1.webp",
+        "/images/sandwichera__tostadora_y_waflera_3_en_1_2.webp"
+      ]
+    },
+    {
+      "name": "MINI ARROCERA AUTOMATICA  ORIX ",
+      "category": "COCINA ",
+      "price": "69.990",
+      "description": "",
+      "image": "/images/mini_arrocera_automatica_orix.webp",
+      "images": [
+        "/images/mini_arrocera_automatica_orix.webp",
+        "/images/mini_arrocera_automatica_orix_1.webp",
+        "/images/mini_arrocera_automatica_orix_2.webp"
+      ]
+    },
+    {
+      "name": "PICADOR MANUAL ",
+      "category": "COCINA",
+      "price": "7.990",
+      "description": "",
+      "image": "/images/picador_manual.webp",
+      "images": [
+        "/images/picador_manual.webp",
+        "/images/picador_manual_1.webp",
+        "/images/picador_manual_2.webp"
+      ]
+    },
+    {
+      "name": "Procesador de alimentos multifuncional USB y batidor de huevos",
+      "category": "COCINA",
+      "price": "19.990",
+      "description": "",
+      "image": "/images/procesador_de_alimentos_multifuncional_usb_y_batidor_de_huevos.webp",
+      "images": [
+        "/images/procesador_de_alimentos_multifuncional_usb_y_batidor_de_huevos.webp",
+        "/images/procesador_de_alimentos_multifuncional_usb_y_batidor_de_huevos_1.webp",
+        "/images/procesador_de_alimentos_multifuncional_usb_y_batidor_de_huevos_2.webp"
+      ]
+    },
+    {
+      "name": "PICADOR MANUAL ",
+      "category": "COCINA ",
+      "price": "9.990",
+      "description": "",
+      "image": "/images/picador_manual_hand.webp",
+      "images": [
+        "/images/picador_manual_hand.webp",
+        "/images/picador_manual_hand_1.webp",
+        "/images/picador_manual_hand_2.webp"
+      ]
+    },
+    {
+      "name": "JUGUERA ELECTRICA ORIX ",
+      "category": "COCINA ",
+      "price": "",
+      "description": "",
+      "image": "/images/juguera_electrica_orix.webp",
+      "images": [
+        "/images/juguera_electrica_orix.webp",
+        "/images/juguera_electrica_orix_1.webp",
+        "/images/juguera_electrica_orix_2.webp"
+      ]
+    },
+    {
+      "name": "MAQUINA DE DONAS ORIX ",
+      "category": "COCINA ",
+      "price": "69.990",
+      "description": "",
+      "image": "/images/maquina_de_donas_orix.webp",
+      "images": [
+        "/images/maquina_de_donas_orix.webp",
+        "/images/maquina_de_donas_orix_1.webp"
+      ]
+    },
+    {
+      "name": "EXPRESSO PORTATIL RECARGABLE OM",
+      "category": "COCINA ",
+      "price": "159.990",
+      "description": "",
+      "image": "/images/expresso_portatil_recargable_om.webp",
+      "images": [
+        "/images/expresso_portatil_recargable_om.webp",
+        "/images/expresso_portatil_recargable_om_1.webp"
+      ]
+    },
+    {
+      "name": "TOSTADORA ORIX DOS RANURAS ",
+      "category": "COCINA ",
+      "price": "24.990",
+      "description": "",
+      "image": "/images/tostadora_orix_dos_ranuras.webp",
+      "images": [
+        "/images/tostadora_orix_dos_ranuras.webp",
+        "/images/tostadora_orix_dos_ranuras_1.webp"
+      ]
+    },
+    {
+      "name": "CAFETERA ESTILO ITALIANA 6 POCILLOS ",
+      "category": "COCINA ",
+      "price": "29.990",
+      "description": "",
+      "image": "/images/cafetera_estilo_italiana_6_pocillos.webp",
+      "images": [
+        "/images/cafetera_estilo_italiana_6_pocillos.webp",
+        "/images/cafetera_estilo_italiana_6_pocillos_1.webp",
+        "/images/cafetera_estilo_italiana_6_pocillos_2.webp"
+      ]
+    },
+    {
+      "name": "PAVA ELECTRICA HITOSHY ",
+      "category": "COCINA",
+      "price": "19.990",
+      "description": "",
+      "image": "/images/pava_electrica_hitoshy.webp",
+      "images": [
+        "/images/pava_electrica_hitoshy.webp",
+        "/images/pava_electrica_hitoshy_1.webp",
+        "/images/pava_electrica_hitoshy_2.webp"
+      ]
+    },
+    {
+      "name": "PAVA ELECTRICA HITOSHY CON CORTE MATE ",
+      "category": "COCINA ",
+      "price": "24.990",
+      "description": "",
+      "image": "/images/pava_electrica_hitoshy_con_corte_mate.webp",
+      "images": [
+        "/images/pava_electrica_hitoshy_con_corte_mate.webp",
+        "/images/pava_electrica_hitoshy_con_corte_mate_1.webp",
+        "/images/pava_electrica_hitoshy_con_corte_mate_2.webp"
+      ]
+    },
+    {
+      "name": "máquina portátil de limpieza de frutas y verduras",
+      "category": "COCINA",
+      "price": "",
+      "description": "",
+      "image": "/images/mquina_porttil_de_limpieza_de_frutas_y_verduras.webp",
+      "images": [
+        "/images/mquina_porttil_de_limpieza_de_frutas_y_verduras.webp",
+        "/images/mquina_porttil_de_limpieza_de_frutas_y_verduras_1.webp",
+        "/images/mquina_porttil_de_limpieza_de_frutas_y_verduras_2.webp"
+      ]
+    },
+    {
+      "name": "SAMSUNG A05 DE 128GB Y 4 DE RAM",
+      "category": "CELULARES",
+      "price": "179.990",
+      "description": "",
+      "image": "/images/samsung_a05_de_128gb_y_4_de_ram.webp",
+      "images": [
+        "/images/samsung_a05_de_128gb_y_4_de_ram.webp",
+        "/images/samsung_a05_de_128gb_y_4_de_ram_1.webp"
+      ]
+    },
+    {
+      "name": "MOTOROLA G04S DE 128GB Y 4 DE RAM",
+      "category": "CELULARES",
+      "price": "199.990",
+      "description": "",
+      "image": "/images/motorola_g04s_de_128gb_y_4_de_ram.webp",
+      "images": [
+        "/images/motorola_g04s_de_128gb_y_4_de_ram.webp",
+        "/images/motorola_g04s_de_128gb_y_4_de_ram_1.webp"
+      ]
+    },
+    {
+      "name": "MOTOROLA G04S DE 256GB Y 4 DE RAM ",
+      "category": "CELULARES ",
+      "price": "249.990",
+      "description": "",
+      "image": "/images/motorola_g04s_de_256gb_y_4_de_ram.webp",
+      "images": [
+        "/images/motorola_g04s_de_256gb_y_4_de_ram.webp",
+        "/images/motorola_g04s_de_256gb_y_4_de_ram_1.webp"
+      ]
+    },
+    {
+      "name": "PIMENTERO MOLINILLO ELECTRICO ",
+      "category": "COCINA",
+      "price": "13.990",
+      "description": "",
+      "image": "/images/pimentero_molinillo_electrico.webp",
+      "images": [
+        "/images/pimentero_molinillo_electrico.webp",
+        "/images/pimentero_molinillo_electrico_1.webp",
+        "/images/pimentero_molinillo_electrico_2.webp"
+      ]
+    },
+    {
+      "name": "SACACORCHOS ELECTRICO",
+      "category": "COCINA ",
+      "price": "19.990",
+      "description": "",
+      "image": "/images/sacacorchos_electrico.webp",
+      "images": [
+        "/images/sacacorchos_electrico.webp",
+        "/images/sacacorchos_electrico_1.webp",
+        "/images/sacacorchos_electrico_2.webp"
+      ]
+    },
+    {
+      "name": "ACEITERO BOTELLA CON PINCEL DE SILICONA ",
+      "category": "COCINA ",
+      "price": "",
+      "description": "",
+      "image": "/images/aceitero_botella_con_pincel_de_silicona.webp",
+      "images": [
+        "/images/aceitero_botella_con_pincel_de_silicona.webp",
+        "/images/aceitero_botella_con_pincel_de_silicona_1.webp",
+        "/images/aceitero_botella_con_pincel_de_silicona_2.webp"
+      ]
+    },
+    {
+      "name": "LAVA COPAS AUTOMATICO",
+      "category": "COCINA ",
+      "price": "8.990",
+      "description": "",
+      "image": "/images/lava_copas_automatico.webp",
+      "images": [
+        "/images/lava_copas_automatico.webp",
+        "/images/lava_copas_automatico_1.webp",
+        "/images/lava_copas_automatico_2.webp"
+      ]
+    },
+    {
+      "name": "LIMPIA VIDRIO IMANTADO ",
+      "category": "COCINA",
+      "price": "7.990",
+      "description": "",
+      "image": "/images/limpia_vidrio_imantado.webp",
+      "images": [
+        "/images/limpia_vidrio_imantado.webp",
+        "/images/limpia_vidrio_imantado_1.webp",
+        "/images/limpia_vidrio_imantado_2.webp"
+      ]
+    },
+    {
+      "name": "LIMPIA VIDRIO IMANTADO TRIANGULAR",
+      "category": "COCINA",
+      "price": "11.990",
+      "description": "",
+      "image": "/images/limpia_vidrio_imantado_triangular.webp",
+      "images": [
+        "/images/limpia_vidrio_imantado_triangular.webp",
+        "/images/limpia_vidrio_imantado_triangular_1.webp",
+        "/images/limpia_vidrio_imantado_triangular_2.webp"
+      ]
+    },
+    {
+      "name": "AFILADOR DE CUCHILLOS DE 3 TAPAS ",
+      "category": "COCINA",
+      "price": "4990",
+      "description": "",
+      "image": "/images/afilador_de_cuchillos_de_3_tapas.webp",
+      "images": [
+        "/images/afilador_de_cuchillos_de_3_tapas.webp",
+        "/images/afilador_de_cuchillos_de_3_tapas_1.webp",
+        "/images/afilador_de_cuchillos_de_3_tapas_2.webp"
+      ]
+    },
+    {
+      "name": "DISPENSADOR DE JABON LIQUIDO",
+      "category": "COCINA",
+      "price": "7.990",
+      "description": "",
+      "image": "/images/dispensador_de_jabon_liquido.webp",
+      "images": [
+        "/images/dispensador_de_jabon_liquido.webp",
+        "/images/dispensador_de_jabon_liquido_1.webp",
+        "/images/dispensador_de_jabon_liquido_2.webp"
+      ]
+    },
+    {
+      "name": "TENCIOMETRO ",
+      "category": "MEJORA TU VIDA",
+      "price": "39.990",
+      "description": "",
+      "image": "/images/tenciometro.webp",
+      "images": [
+        "/images/tenciometro.webp",
+        "/images/tenciometro_1.webp",
+        "/images/tenciometro_2.webp"
+      ]
+    },
+    {
+      "name": "NEBULIZADOR ",
+      "category": "MEJORA TU VIDA",
+      "price": "59.990",
+      "description": "",
+      "image": "/images/nebulizador.webp",
+      "images": [
+        "/images/nebulizador.webp",
+        "/images/nebulizador_1.webp",
+        "/images/nebulizador_2.webp"
+      ]
+    },
+    {
+      "name": "DIFUSOR DE AMBIENTE ",
+      "category": "HOGAR ",
+      "price": "19.990",
+      "description": "",
+      "image": "/images/difusor_de_ambiente.webp",
+      "images": [
+        "/images/difusor_de_ambiente.webp"
+      ]
+    },
+    {
+      "name": "DIRECTV PREPAGO",
+      "category": "TELEVISORES",
+      "price": "19.990",
+      "description": "",
+      "image": "/images/directv_prepago.webp",
+      "images": [
+        "/images/directv_prepago.webp",
+        "/images/directv_prepago_1.webp",
+        "/images/directv_prepago_2.webp"
+      ]
+    },
+    {
+      "name": "ESTUFA CONVECTOR ",
+      "category": "HOGAR ",
+      "price": "54.990",
+      "description": "",
+      "image": "/images/estufa_convector.webp",
+      "images": [
+        "/images/estufa_convector.webp",
+        "/images/estufa_convector_1.webp",
+        "/images/estufa_convector_2.webp"
+      ]
+    },
+    {
+      "name": "CALOVENTOR OM ",
+      "category": "HOGAR ",
+      "price": "24.990",
+      "description": "",
+      "image": "/images/caloventor_om.webp",
+      "images": [
+        "/images/caloventor_om.webp",
+        "/images/caloventor_om_1.webp",
+        "/images/caloventor_om_2.webp"
+      ]
+    },
+    {
+      "name": "CALOVENTOR DELHI",
+      "category": "HOGAR ",
+      "price": "24.990",
+      "description": "",
+      "image": "/images/caloventor_delhi.webp",
+      "images": [
+        "/images/caloventor_delhi.webp",
+        "/images/caloventor_delhi_2.webp"
+      ]
+    },
+    {
+      "name": "ESTUFA DE CUARZO ",
+      "category": "HOGAR ",
+      "price": "29.990",
+      "description": "",
+      "image": "/images/estufa_de_cuarzo.webp",
+      "images": [
+        "/images/estufa_de_cuarzo.webp",
+        "/images/estufa_de_cuarzo_1.webp",
+        "/images/estufa_de_cuarzo_2.webp"
+      ]
+    },
+    {
+      "name": "RADIO RECARGABLE AM FM Y LINTERNA",
+      "category": "PARLANTE AURI RELOJ",
+      "price": "24.990",
+      "description": "RADIO AM FM PENDRIVE, SD Y LINTERNA ",
+      "image": "/images/radio_recargable_am_fm_y_linterna.webp",
+      "images": [
+        "/images/radio_recargable_am_fm_y_linterna.webp"
+      ]
+    },
+    {
+      "name": "RADIO AM FM SUONO ",
+      "category": "PARLANTE AURI RELOJ",
+      "price": "39.990",
+      "description": "RADIO 4 BAND FM / SW1-2 / AM , CORREA DE TRANSPORTE , ANTENA DE ALTA SENSIBILIDAD , CABLE CONECTOR INCLUIDO.",
+      "image": "/images/radio_am_fm_suono.webp",
+      "images": [
+        "/images/radio_am_fm_suono.webp",
+        "/images/radio_am_fm_suono_1.webp",
+        "/images/radio_am_fm_suono_2.webp"
+      ]
+    },
+    {
+      "name": "RADIO PORTATIL A PILA ",
+      "category": "PARLANTE AURI RELOJ",
+      "price": "15.990",
+      "description": "",
+      "image": "/images/radio_portatil_a_pila.webp",
+      "images": [
+        "/images/radio_portatil_a_pila.webp",
+        "/images/radio_portatil_a_pila_1.webp",
+        "/images/radio_portatil_a_pila_2.webp"
+      ]
+    },
+    {
+      "name": "RADIO PORTATIL A PILA ",
+      "category": "PARLANTE AURI RELOJ",
+      "price": "14.990",
+      "description": "",
+      "image": "/images/radio_portatil_a_pila_suono.webp",
+      "images": [
+        "/images/radio_portatil_a_pila_suono.webp",
+        "/images/radio_portatil_a_pila_1.webp",
+        "/images/radio_portatil_a_pila_2.webp"
+      ]
+    },
+    {
+      "name": "LUZ DE BICI ROJA RECARGABLE ",
+      "category": "ACCES AUTO MOTO BICI ",
+      "price": "3.990",
+      "description": "LUZ DE BICI ROJA  RECARGABLE INCLUYE CABLE CARGADOR Y RINGS.",
+      "image": "/images/luz_de_bici_roja_recargable.webp",
+      "images": [
+        "/images/luz_de_bici_roja_recargable.webp",
+        "/images/luz_de_bici_roja_recargable_2.webp"
+      ]
+    },
+    {
+      "name": "LUZ DE BICI BLANCA RECARGABLE ",
+      "category": "ACCES AUTO MOTO BICI ",
+      "price": "3.990",
+      "description": "LUZ DE BICI BLANCA RECARGABLE INCLUYE CABLE CARGADOR Y RINGS.",
+      "image": "/images/luz_de_bici_blanca_recargable.webp",
+      "images": [
+        "/images/luz_de_bici_blanca_recargable.webp",
+        "/images/luz_de_bici_blanca_recargable_1.webp",
+        "/images/luz_de_bici_blanca_recargable_2.webp"
+      ]
+    },
+    {
+      "name": "LUZ DE BICI BLANCA RECARGABLE R225 ",
+      "category": "ACCES AUTO MOTO BICI ",
+      "price": "5.990",
+      "description": "LUZ DE BICI BLANCA RECARGABLE INCLUYE CABLE CARGADOR.",
+      "image": "/images/luz_de_bici_blanca_recargable_r225.webp",
+      "images": [
+        "/images/luz_de_bici_blanca_recargable_r225.webp",
+        "/images/luz_de_bici_blanca_recargable_r225_1.webp"
+      ]
+    },
+    {
+      "name": "LUZ DE BICI ROJA RECARGABLE ",
+      "category": "ACCES AUTO MOTO BICI ",
+      "price": "7.990",
+      "description": "LUZ DE BICI ROJA  RECARGABLE INCLUYE CABLE CARGADOR ",
+      "image": "/images/luz_de_bici_roja_recargable_volcano.webp",
+      "images": [
+        "/images/luz_de_bici_roja_recargable_volcano.webp",
+        "/images/luz_de_bici_roja_recargable_volcano_1.webp",
+        "/images/luz_de_bici_roja_recargable_volcano_2.webp"
+      ]
+    },
+    {
+      "name": "LUZ DE BICI BLANCA Y ROJA RECARGABLE QIXUN",
+      "category": "ACCES AUTO MOTO BICI ",
+      "price": "11.990",
+      "description": "LUZ DE BICI BLANCA Y ROJA INCLUYE CABLE CARGADOR Y RING.",
+      "image": "/images/luz_de_bici_blanca_y_roja_recargable_qixun.webp",
+      "images": [
+        "/images/luz_de_bici_blanca_y_roja_recargable_qixun.webp"
+      ]
+    },
+    {
+      "name": "LUZ DE BICI BLANCA RECARGABLE CON BOCINA ",
+      "category": "ACCES AUTO MOTO BICI ",
+      "price": "13.990",
+      "description": "LUZ DE BICI BLANCA RECARGABLE CON BOCINA, INCLUYE CABLE CARGADOR.",
+      "image": "/images/luz_de_bici_blanca_recargable_con_bocina.webp",
+      "images": [
+        "/images/luz_de_bici_blanca_recargable_con_bocina.webp",
+        "/images/luz_de_bici_blanca_recargable_con_bocina_1.webp",
+        "/images/luz_de_bici_blanca_recargable_con_bocina_2.webp"
+      ]
+    },
+    {
+      "name": "JOISTYCK PS4 ",
+      "category": "LOS + CHICOS",
+      "price": "39.990",
+      "description": "",
+      "image": "/images/joistyck_ps4.webp",
+      "images": [
+        "/images/joistyck_ps4.webp",
+        "/images/joistyck_ps4_1.webp",
+        "/images/joistyck_ps4_2.webp"
+      ]
+    },
+    {
+      "name": "JOISTYCK PS3",
+      "category": "LOS + CHICOS",
+      "price": "11.990",
+      "description": "",
+      "image": "/images/joistyck_ps3.webp",
+      "images": [
+        "/images/joistyck_ps3.webp",
+        "/images/joistyck_ps3_1.webp"
+      ]
+    },
+    {
+      "name": "JOISTICK PARA PC NOGA",
+      "category": "LOS + CHICOS",
+      "price": "11.990",
+      "description": "",
+      "image": "/images/joistick_para_pc_noga.webp",
+      "images": [
+        "/images/joistick_para_pc_noga.webp",
+        "/images/joistick_para_pc_noga_1.webp",
+        "/images/joistick_para_pc_noga_2.webp"
+      ]
+    },
+    {
+      "name": "JOISTICK PARA PC ALIEN",
+      "category": "LOS + CHICOS",
+      "price": "10.990",
+      "description": "",
+      "image": "/images/joistick_para_pc_alien.webp",
+      "images": [
+        "/images/joistick_para_pc_alien.webp",
+        "/images/joistick_para_pc_alien_1.webp",
+        "/images/joistick_para_pc_alien_2.webp"
+      ]
+    },
+    {
+      "name": "HANDI",
+      "category": "PARLANTE AURI RELOJ",
+      "price": "59.990",
+      "description": "",
+      "image": "/images/handi_baofeng_bf-888s.webp",
+      "images": [
+        "/images/handi_baofeng_bf-888s.webp",
+        "/images/handi_baofeng_bf-888s_1.webp"
+      ]
+    },
+    {
+      "name": "TARJETA SD DE 16GB",
+      "category": "TECNOLOGIA ",
+      "price": "9.990",
+      "description": "",
+      "image": "/images/tarjeta_sd_de_16gb.webp",
+      "images": [
+        "/images/tarjeta_sd_de_16gb.webp",
+        "/images/tarjeta_sd_de_16gb_1.webp",
+        "/images/tarjeta_sd_de_16gb_2.webp"
+      ]
+    },
+    {
+      "name": "TARJETA SD DE 32GB",
+      "category": "TECNOLOGIA ",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/tarjeta_sd_de_32gb.webp",
+      "images": [
+        "/images/tarjeta_sd_de_32gb.webp",
+        "/images/tarjeta_sd_de_32gb_1.webp",
+        "/images/tarjeta_sd_de_32gb_2.webp"
+      ]
+    },
+    {
+      "name": "TARJETA SD DE 64GB ",
+      "category": "TECNOLOGIA ",
+      "price": "14.990",
+      "description": "",
+      "image": "/images/tarjeta_sd_de_64gb.webp",
+      "images": [
+        "/images/tarjeta_sd_de_64gb.webp",
+        "/images/tarjeta_sd_de_64gb_1.webp",
+        "/images/tarjeta_sd_de_64gb_2.webp"
+      ]
+    },
+    {
+      "name": "TARJETA SD DE 128GB",
+      "category": "TECNOLOGIA ",
+      "price": "24.990",
+      "description": "",
+      "image": "/images/tarjeta_sd_de_128gb.webp",
+      "images": [
+        "/images/tarjeta_sd_de_128gb.webp",
+        "/images/tarjeta_sd_de_128gb_1.webp"
+      ]
+    },
+    {
+      "name": "PENDRIVE DE 8GB ",
+      "category": "TECNOLOGIA ",
+      "price": "7.990",
+      "description": "",
+      "image": "/images/pendrive_de_8gb.webp",
+      "images": [
+        "/images/pendrive_de_8gb.webp",
+        "/images/pendrive_de_8gb_1.webp",
+        "/images/pendrive_de_8gb_2.webp"
+      ]
+    },
+    {
+      "name": "PENDRIVE DE 32GB",
+      "category": "TECNOLOGIA ",
+      "price": "10.990",
+      "description": "",
+      "image": "/images/pendrive_de_32gb.webp",
+      "images": [
+        "/images/pendrive_de_32gb.webp",
+        "/images/pendrive_de_32gb_1.webp",
+        "/images/pendrive_de_32gb_2.webp"
+      ]
+    },
+    {
+      "name": "PENDRIVE DE 64GB",
+      "category": "TECNOLOGIA ",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/pendrive_de_64gb.webp",
+      "images": [
+        "/images/pendrive_de_64gb.webp",
+        "/images/pendrive_de_64gb_1.webp",
+        "/images/pendrive_de_64gb_2.webp"
+      ]
+    },
+    {
+      "name": "PENDRIVE DE 128GB",
+      "category": "TECNOLOGIA ",
+      "price": "19.990",
+      "description": "",
+      "image": "/images/pendrive_de_128gb.webp",
+      "images": [
+        "/images/pendrive_de_128gb.webp",
+        "/images/pendrive_de_128gb_1.webp",
+        "/images/pendrive_de_128gb_2.webp"
+      ]
+    },
+    {
+      "name": "BALANZA DE PRESICION ",
+      "category": "COCINA",
+      "price": "14.990",
+      "description": "BALANZA DE PRESION DE 0.1 HASTA 500GR. ",
+      "image": "/images/balanza_de_presicion.webp",
+      "images": [
+        "/images/balanza_de_presicion.webp",
+        "/images/balanza_de_presicion_1.webp",
+        "/images/balanza_de_presicion_2.webp"
+      ]
+    },
+    {
+      "name": "BALANZA DE GANCHO DIGITAL ",
+      "category": "COCINA",
+      "price": "7.990",
+      "description": "BALANZA DE GANCHO DIGITAL DE 10GR A 50KG",
+      "image": "/images/balanza_de_gancho_digital.webp",
+      "images": [
+        "/images/balanza_de_gancho_digital.webp",
+        "/images/balanza_de_gancho_digital_1.webp",
+        "/images/balanza_de_gancho_digital_2.webp"
+      ]
+    },
+    {
+      "name": "BALANZA DE VALIJA DIGITAL",
+      "category": "COCINA ",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/balanza_de_valija_digital.png",
+      "images": [
+        "/images/balanza_de_valija_digital.png"
+      ]
+    },
+    {
+      "name": "BALANZA DE COCINA ",
+      "category": "COCINA ",
+      "price": "8.990",
+      "description": "BALANZA DE COCINA HASTA 10KG",
+      "image": "/images/balanza_de_cocina.webp",
+      "images": [
+        "/images/balanza_de_cocina.webp",
+        "/images/balanza_de_cocina_1.webp",
+        "/images/balanza_de_cocina_2.webp"
+      ]
+    },
+    {
+      "name": "BALANZA PERSONAL DE BAÑO DIGITAL BAO DIGITAL",
+      "category": "HOGAR ",
+      "price": "19.990",
+      "description": "",
+      "image": "/images/balanza_personal_de_bao_digital.webp",
+      "images": [
+        "/images/balanza_personal_de_bao_digital.webp"
+      ]
+    },
+    {
+      "name": "BALANZA PERSONAL DE BAÑO CON WIFI DIGITAL",
+      "category": "HOGAR ",
+      "price": "29.990",
+      "description": "",
+      "image": "/images/balanza_personal_de_bao_con_wifi_digital.webp",
+      "images": [
+        "/images/balanza_personal_de_bao_con_wifi_digital.webp"
+      ]
+    },
+    {
+      "name": "BALANZA PERSONAL DE BAÑO DIGITAL BAO",
+      "category": "HOGAR ",
+      "price": "19.990",
+      "description": "",
+      "image": "/images/balanza_personal_de_bao.webp",
+      "images": [
+        "/images/balanza_personal_de_bao.webp"
+      ]
+    },
+    {
+      "name": "PROYECTOR LED",
+      "category": "TECNOLOGIA ",
+      "price": "79.990",
+      "description": "",
+      "image": "/images/proyector_led.webp",
+      "images": [
+        "/images/proyector_led.webp",
+        "/images/proyector_led_1.webp"
+      ]
+    },
+    {
+      "name": "PROYECTOR MULTIMEDIA HD LED ",
+      "category": "TECNOLOGIA ",
+      "price": "279.990",
+      "description": "",
+      "image": "/images/proyector_multimedia_hd_led.webp",
+      "images": [
+        "/images/proyector_multimedia_hd_led.webp",
+        "/images/proyector_multimedia_hd_led_1.webp",
+        "/images/proyector_multimedia_hd_led_2.webp"
+      ]
+    },
+    {
+      "name": "ASPIRADORA PARA AUTO A 12V",
+      "category": "ACCES AUTO MOTO BICI ",
+      "price": "9.990",
+      "description": "",
+      "image": "/images/aspiradora_para_auto_a_12v.webp",
+      "images": [
+        "/images/aspiradora_para_auto_a_12v.webp",
+        "/images/aspiradora_para_auto_a_12v_1.webp",
+        "/images/aspiradora_para_auto_a_12v_2.webp"
+      ]
+    },
+    {
+      "name": "ASPIRADORA PORTATITAL 3 EN 1 RECARGABLE ",
+      "category": "ACCES AUTO MOTO BICI ",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/aspiradora_portatital_3_en_1_recargable.webp",
+      "images": [
+        "/images/aspiradora_portatital_3_en_1_recargable.webp",
+        "/images/aspiradora_portatital_3_en_1_recargable_1.webp",
+        "/images/aspiradora_portatital_3_en_1_recargable_2.webp"
+      ]
+    },
+    {
+      "name": "MULTIMETRO",
+      "category": "HERRAMIENTAS",
+      "price": "29.990",
+      "description": "",
+      "image": "/images/multimetro.webp",
+      "images": [
+        "/images/multimetro.webp",
+        "/images/multimetro_1.webp",
+        "/images/multimetro_2.webp"
+      ]
+    },
+    {
+      "name": "MULTIMETRO",
+      "category": "HERRAMIENTAS",
+      "price": "24.990",
+      "description": "",
+      "image": "/images/multimetro_digital.webp",
+      "images": [
+        "/images/multimetro_digital.webp",
+        "/images/multimetro_digital_1.webp",
+        "/images/multimetro_digital_2.webp"
       ]
     }
   ]
