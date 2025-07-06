@@ -1,90 +1,111 @@
-// components/ProductList.tsx
-"use client";
-
-import React, { useState, useEffect, useRef } from "react";
-import { ProductCard, Product } from "./ProductCard";
+"use client"
+import type React from "react"
+import { useEffect, useRef, useState } from "react"
+import { ProductCard, type Product } from "./ProductCard"
+import { useCatalogStore } from "@/store/catalogStore"
+import { useProductModalStore } from "@/store/productModalStore"
+import { ProductDetailModal } from "./ProductDetailModal"
 
 interface Props {
-  products: Product[];
+  products: Product[]
 }
 
-const PAGE_SIZE = 10;
+const PAGE_SIZE = 10
 
 export const ProductList: React.FC<Props> = ({ products }) => {
-  const loader = useRef<HTMLDivElement>(null);
+  const loader = useRef<HTMLDivElement>(null)
+  const containerRef = useRef<HTMLDivElement>(null)
+  const scrollRestored = useRef(false)
 
-  // 1) Siempre arrancamos en page=1
-  const [page, setPage] = useState(1);
-  const [visible, setVisible] = useState<Product[]>([]);
+  const { page, scrollY, setPage, setScrollY } = useCatalogStore()
+  const { isOpen } = useProductModalStore()
+  const [visible, setVisible] = useState<Product[]>([])
 
-  // 2) Al montar en el cliente, restauramos page y scroll si existen
+  // Update visible products when products or page changes
   useEffect(() => {
-    const savedPage = typeof window !== "undefined"
-      ? sessionStorage.getItem("catalogPage")
-      : null;
-    if (savedPage) {
-      setPage(parseInt(savedPage, 10));
+    const newVisible = products.slice(0, page * PAGE_SIZE)
+    setVisible(newVisible)
+  }, [products, page])
+
+  // Restore scroll position after products are loaded
+  useEffect(() => {
+    if (!scrollRestored.current && visible.length > 0 && scrollY > 0 && !isOpen) {
+      scrollRestored.current = true
+
+      // Use setTimeout to ensure DOM is fully rendered
+      setTimeout(() => {
+        window.scrollTo({
+          top: scrollY,
+          behavior: "auto",
+        })
+      }, 100)
     }
-    const savedScroll = typeof window !== "undefined"
-      ? sessionStorage.getItem("catalogScroll")
-      : null;
-    if (savedScroll) {
-      window.scrollTo(0, parseInt(savedScroll, 10));
-    }
-  }, []);
+  }, [visible, scrollY, isOpen])
 
-  // 3) Cada vez que cambien products o page, recortamos el slice
+  // Reset scroll restoration flag when products change (new filter)
   useEffect(() => {
-    setVisible(products.slice(0, page * PAGE_SIZE));
-  }, [products, page]);
+    scrollRestored.current = false
+  }, [products])
 
-  // 4) Guardar page en sessionStorage
+  // Intersection Observer for infinite scroll
   useEffect(() => {
-    if (typeof window !== "undefined") {
-      sessionStorage.setItem("catalogPage", page.toString());
-    }
-  }, [page]);
+    if (!loader.current || isOpen) return
 
-  // 5) Guardar scroll
-  useEffect(() => {
-    const onScroll = () => {
-      if (typeof window !== "undefined") {
-        sessionStorage.setItem(
-          "catalogScroll",
-          window.scrollY.toString()
-        );
-      }
-    };
-    window.addEventListener("scroll", onScroll);
-    return () => window.removeEventListener("scroll", onScroll);
-  }, []);
-
-  // 6) IntersectionObserver para cargar más
-  useEffect(() => {
-    if (!loader.current) return;
-    const obs = new IntersectionObserver(
+    const observer = new IntersectionObserver(
       ([entry]) => {
-        if (
-          entry.isIntersecting &&
-          page * PAGE_SIZE < products.length
-        ) {
-          setPage((p) => p + 1);
+        if (entry.isIntersecting && page * PAGE_SIZE < products.length) {
+          setPage(page + 1)
         }
       },
-      { threshold: 0 }
-    );
-    obs.observe(loader.current);
-    return () => obs.disconnect();
-  }, [page, products]);
+      {
+        threshold: 0.1,
+        rootMargin: "100px",
+      },
+    )
+
+    observer.observe(loader.current)
+    return () => observer.disconnect()
+  }, [page, products.length, setPage, isOpen])
+
+  // Save scroll position periodically
+  useEffect(() => {
+    const handleScroll = () => {
+      if (!isOpen) {
+        setScrollY(window.scrollY)
+      }
+    }
+
+    const throttledScroll = throttle(handleScroll, 100)
+    window.addEventListener("scroll", throttledScroll)
+
+    return () => {
+      window.removeEventListener("scroll", throttledScroll)
+    }
+  }, [setScrollY, isOpen])
 
   return (
     <>
-      <section className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-5 mx-3">
-        {visible.map((p, i) => (
-          <ProductCard key={i} product={p} />
+      <section ref={containerRef} className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-5 mx-3">
+        {visible.map((product, index) => (
+          <ProductCard key={`${product.name}-${index}`} product={product} />
         ))}
       </section>
-      <div ref={loader} className="h-px" />
+
+      {page * PAGE_SIZE < products.length && <div ref={loader} className="h-px" />}
+
+      <ProductDetailModal />
     </>
-  );
-};
+  )
+}
+
+// Throttle function to limit scroll event frequency
+function throttle<T extends (...args: any[]) => any>(func: T, limit: number): (...args: Parameters<T>) => void {
+  let inThrottle: boolean
+  return function (this: any, ...args: Parameters<T>) {
+    if (!inThrottle) {
+      func.apply(this, args)
+      inThrottle = true
+      setTimeout(() => (inThrottle = false), limit)
+    }
+  }
+}
