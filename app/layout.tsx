@@ -3,8 +3,8 @@ import type { Metadata } from "next";
 import { ScrollToTopButton } from "@/components/ScrollToTopButton";
 import { CartWidget } from "@/components/CartWidget";
 import { Navbar } from "@/components/Navbar";
-
 import { CartProvider } from "@/context/CartContext";
+import { ProductDetailModal } from "@/components/ProductDetailModal"; // 👈 Importar
 
 import "../styles/globals.css";
 
@@ -39,6 +39,7 @@ export const metadata: Metadata = {
 };
 
 
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -52,6 +53,7 @@ export default function RootLayout({
           {children}
           <ScrollToTopButton />
           <CartWidget />
+          <ProductDetailModal />
         </CartProvider>
       </body>
     </html>

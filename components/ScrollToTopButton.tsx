@@ -32,8 +32,8 @@ export const ScrollToTopButton: React.FC = () => {
     <button
       onClick={scrollToTop}
       aria-label="Volver arriba"
-      className="fixed bottom-6 right-6 p-3 rounded-full bg-gray-800 text-white shadow-lg hover:bg-gray-700 transition"
-      style={{ zIndex: 1000 }}
+      className="fixed bottom-6 right-6 p-3 rounded-full bg-gray-800 text-white shadow-lg hover:bg-gray-700 transition cursor-pointer"
+      style={{ zIndex: 40 }}
     >
       <FaArrowUp size={20} />
     </button>
