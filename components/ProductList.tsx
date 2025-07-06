@@ -85,7 +85,7 @@ export const ProductList: React.FC<Props> = ({ products }) => {
 
   return (
     <>
-      <section ref={containerRef} className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-5 mx-3">
+      <section ref={containerRef} className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-5 mx-3 mb-5">
         {visible.map((product, index) => (
           <ProductCard key={`${product.name}-${index}`} product={product} />
         ))}

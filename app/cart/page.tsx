@@ -76,7 +76,7 @@ export default function CartPage() {
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-gray-50 to-gray-100 pt-20 px-4 lg:px-8">
+    <div className="h-full bg-gradient-to-br from-gray-50 to-gray-100 pt-20 px-4 lg:px-8 pb-5">
       <div className="max-w-7xl mx-auto">
         {/* Header mejorado */}
         <div className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 mb-8 animate-slide-down">

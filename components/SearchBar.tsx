@@ -15,10 +15,9 @@ export const SearchBar: React.FC<SearchBarProps> = ({ onSearch }) => {
 
   return (
     <div className="px-4 py-2 mt-3 border-b border-gray-200 flex items-center">
-      <FiSearch className="text-gray-400 mr-2" size={20} />
       <input
         type="search"
-        placeholder="Buscar productos..."
+        placeholder="Buscar productos"
         value={term}
         onChange={handleChange}
         className="w-full border-none focus:ring-0 text-sm text-gray-700 placeholder-gray-400"
