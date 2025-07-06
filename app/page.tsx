@@ -1,5 +1,5 @@
 "use client"
-import { useMemo } from "react"
+import { useMemo, useEffect } from "react"
 import { ProductList } from "@/components/ProductList"
 import { FilterBar } from "@/components/FilterBar"
 import { useCatalogStore } from "@/store/catalogStore"
@@ -8,6 +8,17 @@ import productosData from "../data/productos.json"
 export default function Home() {
   const { filters, setFilters } = useCatalogStore()
   const { category: filterCategory, searchTerm, sortOption } = filters
+
+  // Asegurar que estamos en "TODAS" cuando estamos en home
+  useEffect(() => {
+    if (filterCategory !== "TODAS") {
+      setFilters({
+        category: "TODAS",
+        searchTerm: "",
+        sortOption: "",
+      })
+    }
+  }, [filterCategory, setFilters])
 
   const categories = useMemo(() => {
     const cats = productosData.products.map((p) => p.category.toUpperCase())
@@ -59,18 +70,23 @@ export default function Home() {
   }
 
   return (
-    <div className="min-h-screen w-full">
+    <div className="min-h-screen bg-gray-50">
+      {/* Sidebar móvil */}
       <div className="lg:hidden">
-        <FilterBar categories={categories} onFilterChange={handleFilterChange} />
+        <FilterBar categories={categories} selectedCategory="TODAS" onFilterChange={handleFilterChange} />
       </div>
+
+      {/* Layout principal */}
       <div className="grid grid-cols-1 lg:grid-cols-[240px_1fr] gap-6">
-        <aside className="hidden lg:block sticky top-20 self-start">
-          <FilterBar categories={categories} onFilterChange={handleFilterChange} />
+        {/* Sidebar desktop - SIN sticky para que se mueva con el scroll */}
+        <aside className="hidden lg:block">
+          <FilterBar categories={categories} selectedCategory="TODAS" onFilterChange={handleFilterChange} />
         </aside>
-        <section className="pt-4">
-          <h2 className="text-2xl font-bold mb-4 text-black mt-0 sm:mt-20 text-center">
-            {filterCategory === "TODAS" ? "Todos los productos" : filterCategory}
-          </h2>
+
+        {/* Contenido */}
+        <section className="px-4 lg:px-0 pt-12">
+          {/* Título con margen superior para evitar que se esconda */}
+          <h2 className="text-2xl font-bold mb-4 text-black text-center pt-24 lg:pt-8">Todos los productos</h2>
           <ProductList products={filteredProducts} />
         </section>
       </div>
