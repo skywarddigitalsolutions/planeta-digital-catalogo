@@ -62,7 +62,7 @@ export const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
   }
 
   return (
-    <button onClick={handleClick} className="text-left w-full group cursor-pointer">
+    <a onClick={handleClick} className="text-left w-full group cursor-pointer">
       <article className="relative bg-white rounded-lg shadow flex items-start hover:shadow-md transition-all duration-300 group-hover:scale-[1.02]">
         <div className="w-48 aspect-square flex-shrink-0 relative">
           <Image
@@ -117,7 +117,7 @@ export const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
 
         <div className="flex-1 px-6 py-4">
           <h4 className="font-semibold text-base text-gray-800 leading-snug group-hover:text-gray-900 transition-colors">
-            {product.name}
+           {product.name}
           </h4>
           <p className="text-xs text-gray-500 uppercase">{product.category}</p>
           {product.subcategory && <p className="text-xs text-gray-500 uppercase">{product.subcategory}</p>}
@@ -127,6 +127,6 @@ export const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
           {snippet && <p className="text-sm text-gray-700 mt-2 line-clamp-2">{snippet}</p>}
         </div>
       </article>
-    </button>
+    </a>
   )
 }

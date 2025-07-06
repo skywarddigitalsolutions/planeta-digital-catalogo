@@ -144,8 +144,8 @@ export default function CartPage() {
 
                       {/* Controles de cantidad */}
                       <div className="flex items-center space-x-4">
-                        <span className="text-sm font-medium text-gray-700">Cantidad:</span>
-                        <div className="flex items-center bg-gray-50 rounded-lg p-1">
+                        <span className="text-sm font-medium text-gray-700 mt-15">Cantidad:</span>
+                        <div className="flex items-center bg-gray-50 rounded-lg p-1 mt-15">
                           <button
                             onClick={() => handleQuantityChange(item.name, Math.max(1, qty - 1))}
                             className="w-8 h-8 flex items-center justify-center text-gray-600 hover:text-gray-800 hover:bg-white cursor-pointer rounded-md transition-all duration-200"
@@ -155,9 +155,9 @@ export default function CartPage() {
                           </button>
                           <span className="w-12 text-center font-semibold text-gray-800">{qty}</span>
                           <button
-                            onClick={() => handleQuantityChange(item.name, Math.min(10, qty + 1))}
+                            onClick={() => handleQuantityChange(item.name, Math.min(100, qty + 1))}
                             className="w-8 h-8 flex items-center justify-center  text-gray-600 hover:text-gray-800 hover:bg-white cursor-pointer rounded-md transition-all duration-200"
-                            disabled={qty >= 10}
+                            disabled={qty >= 100}
                           >
                             <FaPlus size={12} />
                           </button>
@@ -183,7 +183,7 @@ export default function CartPage() {
                       <button
                         onClick={() => handleRemoveItem(item.name)}
                         disabled={isRemoving}
-                        className={`px-4 py-2 rounded-lg font-medium cursor-pointer transition-all duration-200 ${
+                        className={`px-4 rounded-lg font-medium cursor-pointer transition-all duration-200 ${
                           isRemoving
                             ? "bg-gray-100 text-gray-400 cursor-not-allowed"
                             : "text-red-600 hover:bg-red-50 hover:text-red-700 hover:scale-105"
@@ -199,7 +199,7 @@ export default function CartPage() {
           </div>
 
           {/* Resumen del pedido */}
-          <div className="lg:sticky lg:top-24 lg:self-start">
+          <div className="lg:sticky lg:top-24 lg:self-start mb-5 lg:mb-0">
             <div className="bg-white rounded-2xl shadow-lg border border-gray-100 p-8 animate-slide-up">
               <h2 className="text-2xl font-bold text-gray-800 mb-6">Resumen del pedido</h2>
 

@@ -12,11 +12,27 @@ export const ProductDetailModal: React.FC = () => {
   const { isOpen, product, closeModal } = useProductModalStore()
   const { addToCart } = useCart()
   const router = useRouter()
+  const MAX_DESCRIPTION_LENGTH = 300;
+
   const [currentImageIndex, setCurrentImageIndex] = useState(0)
   const [isAddingToCart, setIsAddingToCart] = useState(false)
   const [isPurchasing, setIsPurchasing] = useState(false)
   const [showImageZoom, setShowImageZoom] = useState(false)
   const [zoomImageIndex, setZoomImageIndex] = useState(0)
+  const [showFullDescription, setShowFullDescription] = useState(false);
+
+  useEffect(() => {
+    setShowFullDescription(false);
+  }, [product, isOpen]);
+
+  let descriptionToShow = "";
+  let isLongDescription = true;
+  if (product?.description) {
+    isLongDescription = product?.description.length > MAX_DESCRIPTION_LENGTH;
+    descriptionToShow = showFullDescription || !isLongDescription
+      ? product.description
+      : `${product.description.slice(0, MAX_DESCRIPTION_LENGTH)}…`;
+  }
 
   // Touch/swipe handling
   const touchStartX = useRef<number>(0)
@@ -159,15 +175,13 @@ export const ProductDetailModal: React.FC = () => {
     <>
       {/* Main Modal */}
       <div
-        className={`fixed inset-0 z-50 backdrop-blur-xs bg-white/20 transition-all duration-300 pt-12 ${
-          isOpen ? "opacity-100" : "opacity-0"
-        } flex items-center justify-center p-4`}
+        className={`fixed inset-0 z-50 backdrop-blur-xs bg-white/20 transition-all duration-300 pt-12 ${isOpen ? "opacity-100" : "opacity-0"
+          } flex items-center justify-center p-4`}
         onClick={handleBackdropClick}
       >
         <div
-          className={`bg-white/95 backdrop-blur-sm rounded-2xl shadow-2xl w-full max-w-6xl max-h-[95vh] overflow-hidden transform transition-all duration-300 ${
-            isOpen ? "scale-100 opacity-100" : "scale-95 opacity-0"
-          }`}
+          className={`bg-white/95 backdrop-blur-sm rounded-2xl shadow-2xl w-full max-w-6xl max-h-[95vh] overflow-hidden transform transition-all duration-300 ${isOpen ? "scale-100 opacity-100" : "scale-95 opacity-0"
+            }`}
         >
           {/* Header */}
           <div className="flex items-center justify-between p-6 border-b border-gray-100/50 bg-white/80 backdrop-blur-sm">
@@ -224,18 +238,18 @@ export const ProductDetailModal: React.FC = () => {
                         e.stopPropagation()
                         prevImage()
                       }}
-                      className="absolute left-4 top-1/2 -translate-y-1/2 bg-white/90 hover:bg-white text-gray-800 p-4 rounded-full shadow-lg transition-all backdrop-blur-sm cursor-pointer z-10"
+                      className="absolute left-1 top-1/2 -translate-y-1/2 bg-white/90 hover:bg-white text-gray-800 p-4 rounded-full shadow-lg transition-all backdrop-blur-sm cursor-pointer z-10"
                     >
-                      <FaChevronLeft size={20} />
+                      <FaChevronLeft size={10} />
                     </button>
                     <button
                       onClick={(e) => {
                         e.stopPropagation()
                         nextImage()
                       }}
-                      className="absolute right-4 top-1/2 -translate-y-1/2 bg-white/90 hover:bg-white text-gray-800 p-4 rounded-full shadow-lg transition-all backdrop-blur-sm cursor-pointer z-10"
+                      className="absolute right-1 top-1/2 -translate-y-1/2 bg-white/90 hover:bg-white text-gray-800 p-4 rounded-full shadow-lg transition-all backdrop-blur-sm cursor-pointer z-10"
                     >
-                      <FaChevronRight size={20} />
+                      <FaChevronRight size={10} />
                     </button>
 
                     {/* Image Indicators */}
@@ -247,11 +261,10 @@ export const ProductDetailModal: React.FC = () => {
                             e.stopPropagation()
                             setCurrentImageIndex(index)
                           }}
-                          className={`w-3 h-3 rounded-full transition-all backdrop-blur-sm cursor-pointer ${
-                            index === currentImageIndex
-                              ? "bg-white scale-125 shadow-lg"
-                              : "bg-white/50 hover:bg-white/75"
-                          }`}
+                          className={`w-3 h-3 rounded-full transition-all backdrop-blur-sm cursor-pointer ${index === currentImageIndex
+                            ? "bg-white scale-125 shadow-lg"
+                            : "bg-white/50 hover:bg-white/75"
+                            }`}
                         />
                       ))}
                     </div>
@@ -273,11 +286,10 @@ export const ProductDetailModal: React.FC = () => {
                     <button
                       key={index}
                       onClick={() => setCurrentImageIndex(index)}
-                      className={`flex-shrink-0 w-16 h-16 rounded-lg overflow-hidden border-2 transition-all backdrop-blur-sm cursor-pointer ${
-                        index === currentImageIndex
-                          ? "border-blue-500 ring-2 ring-blue-200/50 bg-white/80"
-                          : "border-gray-200/50 hover:border-gray-300 bg-white/60"
-                      }`}
+                      className={`flex-shrink-0 w-16 h-16 rounded-lg overflow-hidden border-2 transition-all backdrop-blur-sm cursor-pointer ${index === currentImageIndex
+                        ? "border-blue-500 ring-2 ring-blue-200/50 bg-white/80"
+                        : "border-gray-200/50 hover:border-gray-300 bg-white/60"
+                        }`}
                     >
                       <Image
                         src={image || "/placeholder.svg"}
@@ -306,20 +318,30 @@ export const ProductDetailModal: React.FC = () => {
               {product.description && (
                 <div className="prose prose-sm max-w-none">
                   <h3 className="text-lg font-semibold text-gray-900 mb-3">Descripción</h3>
-                  <p className="text-gray-700 leading-relaxed whitespace-pre-line">{product.description}</p>
+                  <p className="text-gray-700 leading-relaxed whitespace-pre-line">
+                    {descriptionToShow}
+                  </p>
+                  {isLongDescription && (
+                    <button
+                      onClick={() => setShowFullDescription(prev => !prev)}
+                      className="mt-2 text-blue-600 hover:underline focus:outline-none"
+                    >
+                      {showFullDescription ? 'Ver menos' : 'Ver más'}
+                    </button>
+                  )}
                 </div>
               )}
+
 
               {/* Action Buttons */}
               <div className="space-y-3 pt-4">
                 <button
                   onClick={handleAddToCart}
                   disabled={isAddingToCart}
-                  className={`w-full flex items-center justify-center space-x-2 py-4 px-6 rounded-xl font-semibold text-white transition-all transform backdrop-blur-sm cursor-pointer ${
-                    isAddingToCart
-                      ? "bg-gray-900/90 scale-95"
-                      : "bg-gray-900/90 hover:bg-gray-800 hover:scale-105 active:scale-95"
-                  } shadow-lg hover:shadow-xl`}
+                  className={`w-full flex items-center justify-center space-x-2 py-4 px-6 rounded-xl font-semibold text-white transition-all transform backdrop-blur-sm cursor-pointer ${isAddingToCart
+                    ? "bg-gray-900/90 scale-95"
+                    : "bg-gray-900/90 hover:bg-gray-800 hover:scale-105 active:scale-95"
+                    } shadow-lg hover:shadow-xl`}
                 >
                   {isAddingToCart ? (
                     <>
@@ -337,11 +359,10 @@ export const ProductDetailModal: React.FC = () => {
                 <button
                   onClick={handleBuyNow}
                   disabled={isPurchasing}
-                  className={`w-full flex items-center justify-center space-x-2 py-3 px-6 border-2 font-semibold rounded-xl transition-all backdrop-blur-sm cursor-pointer ${
-                    isPurchasing
-                      ? "border-blue-300 bg-blue-50 text-blue-600 scale-95"
-                      : "border-blue-600 text-blue-600 hover:bg-blue-50 hover:scale-105 active:scale-95"
-                  } shadow-sm hover:shadow-md`}
+                  className={`w-full flex items-center justify-center space-x-2 py-3 px-6 border-2 font-semibold rounded-xl transition-all backdrop-blur-sm cursor-pointer ${isPurchasing
+                    ? "border-blue-300 bg-blue-50 text-blue-600 scale-95"
+                    : "border-blue-600 text-blue-600 hover:bg-blue-50 hover:scale-105 active:scale-95"
+                    } shadow-sm hover:shadow-md mb-5`}
                 >
                   {isPurchasing ? (
                     <>
@@ -357,7 +378,7 @@ export const ProductDetailModal: React.FC = () => {
                 </button>
               </div>
 
-              
+
             </div>
           </div>
         </div>
@@ -376,7 +397,7 @@ export const ProductDetailModal: React.FC = () => {
               className="absolute top-4 right-4 z-10 text-white hover:text-gray-300 bg-black/50 p-4 rounded-full transition-colors backdrop-blur-sm cursor-pointer"
               aria-label="Cerrar zoom"
             >
-              <FaTimes size={28} />
+              <FaTimes size={15} />
             </button>
 
             {/* Navigation buttons - más grandes */}
@@ -386,13 +407,13 @@ export const ProductDetailModal: React.FC = () => {
                   onClick={prevZoomImage}
                   className="absolute left-4 top-1/2 -translate-y-1/2 text-white hover:text-gray-300 bg-black/50 p-5 rounded-full transition-colors backdrop-blur-sm z-10 cursor-pointer"
                 >
-                  <FaChevronLeft size={28} />
+                  <FaChevronLeft size={8} />
                 </button>
                 <button
                   onClick={nextZoomImage}
                   className="absolute right-4 top-1/2 -translate-y-1/2 text-white hover:text-gray-300 bg-black/50 p-5 rounded-full transition-colors backdrop-blur-sm z-10 cursor-pointer"
                 >
-                  <FaChevronRight size={28} />
+                  <FaChevronRight size={8} />
                 </button>
               </>
             )}
