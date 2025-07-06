@@ -86,7 +86,7 @@ export default function Home() {
         {/* Contenido */}
         <section className="px-4 lg:px-0 pt-12">
           {/* Título con margen superior para evitar que se esconda */}
-          <h2 className="text-2xl font-bold mb-4 text-black text-center pt-24 lg:pt-8">Todos los productos</h2>
+          <h2 className="text-2xl font-bold mb-4 text-black text-center pt-8 lg:pt-8">Todos los productos</h2>
           <ProductList products={filteredProducts} />
         </section>
       </div>
