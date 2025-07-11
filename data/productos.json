@@ -289,7 +289,7 @@
       ]
     },
     {
-      "name": "MOTOROLA G04S DE 256GB Y 4 DE RAM ",
+      "name": "MOTOROLA G04S DE 256GB Y 4 DE RAM",
       "category": "CELULARES",
       "price": "249.990",
       "description": "",
@@ -362,7 +362,7 @@
       ]
     },
     {
-      "name": "TV BOX ",
+      "name": "TV BOX",
       "category": "TELEVISORES",
       "price": "39.990",
       "description": "Tv Box Convertidor A Smart Tv Ram32gb Android 13.1 Ultra Hd Negro . ROM 512",
@@ -385,7 +385,7 @@
       ]
     },
     {
-      "name": "TV STICK ",
+      "name": "TV STICK",
       "category": "TELEVISORES",
       "price": "59.990",
       "description": "TV STICK 5G ANDROID TV 4K",
@@ -433,7 +433,7 @@
       ]
     },
     {
-      "name": "TARJETA SD DE 64GB ",
+      "name": "TARJETA SD DE 64GB",
       "category": "TECNOLOGIA",
       "price": "14.990",
       "description": "",
@@ -456,7 +456,7 @@
       ]
     },
     {
-      "name": "PENDRIVE DE 8GB ",
+      "name": "PENDRIVE DE 8GB",
       "category": "TECNOLOGIA",
       "price": "7.990",
       "description": "",
@@ -562,7 +562,7 @@
       ]
     },
     {
-      "name": "REFLECTOR SOLAR DE CALLE + CAMARA SOLAR IP WIFI ",
+      "name": "REFLECTOR SOLAR DE CALLE + CAMARA SOLAR IP WIFI",
       "category": "CAMARAS",
       "price": "299.990",
       "description": "",
@@ -574,7 +574,7 @@
       ]
     },
     {
-      "name": "CAMARA ESPIA WIFI IP ",
+      "name": "CAMARA ESPIA WIFI IP",
       "category": "CAMARAS",
       "price": "15.990",
       "description": "",
@@ -586,7 +586,7 @@
       ]
     },
     {
-      "name": "CAMARA SOLAR IP WIFI EXTERIOR ",
+      "name": "CAMARA SOLAR IP WIFI EXTERIOR",
       "category": "CAMARAS",
       "price": "179.990,00",
       "description": "",
@@ -598,7 +598,7 @@
       ]
     },
     {
-      "name": "CAMARA IP WIFI INTERIOR ",
+      "name": "CAMARA IP WIFI INTERIOR",
       "category": "CAMARAS",
       "price": "39.990",
       "description": "",
@@ -609,7 +609,7 @@
       ]
     },
     {
-      "name": "CAMARA FOCO IP WIFI ",
+      "name": "CAMARA FOCO IP WIFI",
       "category": "CAMARAS",
       "price": "29.990",
       "description": "",
@@ -912,10 +912,10 @@
       ]
     },
     {
-      "name": "LICUADORA ",
+      "name": "LICUADORA",
       "category": "COCINA",
       "price": "69.990",
-      "description": "LICUADORA KANJI 1.5 LITRO ",
+      "description": "LICUADORA KANJI 1.5 LITRO",
       "image": "/images/licuadora.webp",
       "images": [
         "/images/licuadora.webp",
@@ -947,7 +947,7 @@
       ]
     },
     {
-      "name": "RALLADOR MANUAL ",
+      "name": "RALLADOR MANUAL",
       "category": "COCINA",
       "price": "19.990",
       "description": "RALLADOR MANUAL CON 3 CABEZALES INTERCAMBIABLES",
@@ -962,7 +962,7 @@
       "name": "RALLADOR ELECTRICO",
       "category": "COCINA",
       "price": "79.990",
-      "description": "RALADOR ELECTRICO ORIX CON 5 CABEZALES INTERCAMBIABLE ",
+      "description": "RALADOR ELECTRICO ORIX CON 5 CABEZALES INTERCAMBIABLE",
       "image": "/images/rallador_electrico.webp",
       "images": [
         "/images/rallador_electrico.webp",
@@ -971,10 +971,10 @@
       ]
     },
     {
-      "name": "PICADOR ELECTRICO ",
+      "name": "PICADOR ELECTRICO",
       "category": "COCINA",
       "price": "59.990",
-      "description": "PICAR ELECTRICO ORIX CON 2 VELOCIDADES ",
+      "description": "PICAR ELECTRICO ORIX CON 2 VELOCIDADES",
       "image": "/images/picador_electrico.webp",
       "images": [
         "/images/picador_electrico.webp",
@@ -1052,7 +1052,7 @@
       ]
     },
     {
-      "name": "FREIDORA CON ACEITE ORIX ",
+      "name": "FREIDORA CON ACEITE ORIX",
       "category": "COCINA",
       "price": "69.990",
       "description": "",
@@ -1064,10 +1064,10 @@
       ]
     },
     {
-      "name": "MINIPIMER 4 EN 1 ",
+      "name": "MINIPIMER 4 EN 1",
       "category": "COCINA",
       "price": "59.990",
-      "description": "MINIPIMER , VASO MEDIDOR , PICADOR Y BATIDOR ",
+      "description": "MINIPIMER , VASO MEDIDOR , PICADOR Y BATIDOR",
       "image": "/images/minipimer_4_en_1.webp",
       "images": [
         "/images/minipimer_4_en_1.webp",
@@ -1076,10 +1076,10 @@
       ]
     },
     {
-      "name": "SANDWICHERA , TOSTADORA Y WAFLERA 3 EN 1 ",
+      "name": "SANDWICHERA , TOSTADORA Y WAFLERA 3 EN 1",
       "category": "COCINA",
       "price": "74.990",
-      "description": "3 EN 1 SANDWICHERA , TOSTADORA Y WAFLERA CABEZALES INTERCAMBIABLES ",
+      "description": "3 EN 1 SANDWICHERA , TOSTADORA Y WAFLERA CABEZALES INTERCAMBIABLES",
       "image": "/images/sandwichera__tostadora_y_waflera_3_en_1.webp",
       "images": [
         "/images/sandwichera__tostadora_y_waflera_3_en_1.webp",
@@ -1088,7 +1088,7 @@
       ]
     },
     {
-      "name": "MINI ARROCERA AUTOMATICA ORIX ",
+      "name": "MINI ARROCERA AUTOMATICA ORIX",
       "category": "COCINA",
       "price": "69.990",
       "description": "",
@@ -1136,7 +1136,7 @@
       ]
     },
     {
-      "name": "PICADOR MANUAL ",
+      "name": "PICADOR MANUAL",
       "category": "COCINA",
       "price": "9.990",
       "description": "",
@@ -1148,7 +1148,7 @@
       ]
     },
     {
-      "name": "MAQUINA DE DONAS ORIX ",
+      "name": "MAQUINA DE DONAS ORIX",
       "category": "COCINA",
       "price": "69.990",
       "description": "",
@@ -1170,7 +1170,7 @@
       ]
     },
     {
-      "name": "TOSTADORA ORIX DOS RANURAS ",
+      "name": "TOSTADORA ORIX DOS RANURAS",
       "category": "COCINA",
       "price": "24.990",
       "description": "",
@@ -1181,7 +1181,7 @@
       ]
     },
     {
-      "name": "CAFETERA ESTILO ITALIANA 6 POCILLOS ",
+      "name": "CAFETERA ESTILO ITALIANA 6 POCILLOS",
       "category": "COCINA",
       "price": "29.990",
       "description": "",
@@ -1193,7 +1193,7 @@
       ]
     },
     {
-      "name": "PAVA ELECTRICA HITOSHY ",
+      "name": "PAVA ELECTRICA HITOSHY",
       "category": "COCINA",
       "price": "19.990",
       "description": "",
@@ -1229,7 +1229,7 @@
       ]
     },
     {
-      "name": "PIMENTERO MOLINILLO ELECTRICO ",
+      "name": "PIMENTERO MOLINILLO ELECTRICO",
       "category": "COCINA",
       "price": "13.990",
       "description": "",
@@ -1253,7 +1253,7 @@
       ]
     },
     {
-      "name": "ACEITERO BOTELLA CON PINCEL DE SILICONA ",
+      "name": "ACEITERO BOTELLA CON PINCEL DE SILICONA",
       "category": "COCINA",
       "price": "5.990",
       "description": "",
@@ -1301,7 +1301,7 @@
       ]
     },
     {
-      "name": "AFILADOR DE CUCHILLOS DE 3 TAPAS ",
+      "name": "AFILADOR DE CUCHILLOS DE 3 TAPAS",
       "category": "COCINA",
       "price": "4990",
       "description": "",
@@ -1325,10 +1325,10 @@
       ]
     },
     {
-      "name": "BALANZA DE PRESICION ",
+      "name": "BALANZA DE PRESICION",
       "category": "COCINA",
       "price": "14.990",
-      "description": "BALANZA DE PRESION DE 0.1 HASTA 500GR. ",
+      "description": "BALANZA DE PRESION DE 0.1 HASTA 500GR.",
       "image": "/images/balanza_de_presicion.webp",
       "images": [
         "/images/balanza_de_presicion.webp",
@@ -1337,7 +1337,7 @@
       ]
     },
     {
-      "name": "BALANZA DE GANCHO DIGITAL ",
+      "name": "BALANZA DE GANCHO DIGITAL",
       "category": "COCINA",
       "price": "7.990",
       "description": "BALANZA DE GANCHO DIGITAL DE 10GR A 50KG",
@@ -1455,7 +1455,7 @@
     },
     {
       "name": "STEREO DESMONTABLE BT USB SD AUX CONTROL Y MANUAL",
-      "category": "ACCES AUTO MOTO BICI",
+      "category": "Acces Auto Moto Bici",
       "price": "29.990",
       "description": "",
       "image": "/images/stereo_desmontable_bt_usb_sd_aux_control_y_manual.webp",
@@ -1466,8 +1466,8 @@
       ]
     },
     {
-      "name": "LUZ DE BICI ROJA RECARGABLE ",
-      "category": "ACCES AUTO MOTO BICI",
+      "name": "LUZ DE BICI ROJA RECARGABLE",
+      "category": "Acces Auto Moto Bici",
       "price": "3.990",
       "description": "LUZ DE BICI ROJA  RECARGABLE INCLUYE CABLE CARGADOR Y RINGS.",
       "image": "/images/luz_de_bici_roja_recargable.webp",
@@ -1477,8 +1477,8 @@
       ]
     },
     {
-      "name": "LUZ DE BICI BLANCA RECARGABLE ",
-      "category": "ACCES AUTO MOTO BICI",
+      "name": "LUZ DE BICI BLANCA RECARGABLE",
+      "category": "Acces Auto Moto Bici",
       "price": "3.990",
       "description": "LUZ DE BICI BLANCA RECARGABLE INCLUYE CABLE CARGADOR Y RINGS.",
       "image": "/images/luz_de_bici_blanca_recargable.webp",
@@ -1489,8 +1489,8 @@
       ]
     },
     {
-      "name": "LUZ DE BICI BLANCA RECARGABLE R225 ",
-      "category": "ACCES AUTO MOTO BICI",
+      "name": "LUZ DE BICI BLANCA RECARGABLE R225",
+      "category": "Acces Auto Moto Bici",
       "price": "5.990",
       "description": "LUZ DE BICI BLANCA RECARGABLE INCLUYE CABLE CARGADOR.",
       "image": "/images/luz_de_bici_blanca_recargable_r225.webp",
@@ -1500,10 +1500,10 @@
       ]
     },
     {
-      "name": "LUZ DE BICI ROJA RECARGABLE ",
-      "category": "ACCES AUTO MOTO BICI",
+      "name": "LUZ DE BICI ROJA RECARGABLE",
+      "category": "Acces Auto Moto Bici",
       "price": "7.990",
-      "description": "LUZ DE BICI ROJA  RECARGABLE INCLUYE CABLE CARGADOR ",
+      "description": "LUZ DE BICI ROJA  RECARGABLE INCLUYE CABLE CARGADOR",
       "image": "/images/luz_de_bici_roja_recargable_volcano.webp",
       "images": [
         "/images/luz_de_bici_roja_recargable_volcano.webp",
@@ -1513,7 +1513,7 @@
     },
     {
       "name": "LUZ DE BICI BLANCA Y ROJA RECARGABLE QIXUN",
-      "category": "ACCES AUTO MOTO BICI",
+      "category": "Acces Auto Moto Bici",
       "price": "11.990",
       "description": "LUZ DE BICI BLANCA Y ROJA INCLUYE CABLE CARGADOR Y RING.",
       "image": "/images/luz_de_bici_blanca_y_roja_recargable_qixun.webp",
@@ -1522,8 +1522,8 @@
       ]
     },
     {
-      "name": "LUZ DE BICI BLANCA RECARGABLE CON BOCINA ",
-      "category": "ACCES AUTO MOTO BICI",
+      "name": "LUZ DE BICI BLANCA RECARGABLE CON BOCINA",
+      "category": "Acces Auto Moto Bici",
       "price": "13.990",
       "description": "LUZ DE BICI BLANCA RECARGABLE CON BOCINA, INCLUYE CABLE CARGADOR.",
       "image": "/images/luz_de_bici_blanca_recargable_con_bocina.webp",
@@ -1535,7 +1535,7 @@
     },
     {
       "name": "ASPIRADORA PARA AUTO A 12V",
-      "category": "ACCES AUTO MOTO BICI",
+      "category": "Acces Auto Moto Bici",
       "price": "9.990",
       "description": "",
       "image": "/images/aspiradora_para_auto_a_12v.webp",
@@ -1546,8 +1546,8 @@
       ]
     },
     {
-      "name": "ASPIRADORA PORTATITAL 3 EN 1 RECARGABLE ",
-      "category": "ACCES AUTO MOTO BICI",
+      "name": "ASPIRADORA PORTATITAL 3 EN 1 RECARGABLE",
+      "category": "Acces Auto Moto Bici",
       "price": "12.990",
       "description": "",
       "image": "/images/aspiradora_portatital_3_en_1_recargable.webp",
@@ -2224,7 +2224,7 @@
       ]
     },
     {
-      "name": "DIFUSOR DE AMBIENTE ",
+      "name": "DIFUSOR DE AMBIENTE",
       "category": "HOGAR",
       "price": "19.990",
       "description": "",
@@ -2234,7 +2234,7 @@
       ]
     },
     {
-      "name": "ESTUFA CONVECTOR ",
+      "name": "ESTUFA CONVECTOR",
       "category": "HOGAR",
       "price": "54.990",
       "description": "",
@@ -2246,7 +2246,7 @@
       ]
     },
     {
-      "name": "CALOVENTOR OM ",
+      "name": "CALOVENTOR OM",
       "category": "HOGAR",
       "price": "24.990",
       "description": "",
@@ -2269,7 +2269,7 @@
       ]
     },
     {
-      "name": "ESTUFA DE CUARZO ",
+      "name": "ESTUFA DE CUARZO",
       "category": "HOGAR",
       "price": "29.990",
       "description": "",
@@ -2512,7 +2512,7 @@
       ]
     },
     {
-      "name": "POP-IT ELECTRONICO ",
+      "name": "POP-IT ELECTRONICO",
       "category": "LOS + CHICOS",
       "price": "4.990",
       "description": "",
@@ -2526,7 +2526,7 @@
       ]
     },
     {
-      "name": "JOISTYCK PS4 ",
+      "name": "JOISTYCK PS4",
       "category": "LOS + CHICOS",
       "price": "39.990",
       "description": "",
@@ -2869,7 +2869,7 @@
       ]
     },
     {
-      "name": "TENCIOMETRO ",
+      "name": "TENCIOMETRO",
       "category": "MEJORA TU VIDA",
       "price": "39.990",
       "description": "",
@@ -2881,7 +2881,7 @@
       ]
     },
     {
-      "name": "NEBULIZADOR ",
+      "name": "NEBULIZADOR",
       "category": "MEJORA TU VIDA",
       "price": "59.990",
       "description": "",
@@ -2896,14 +2896,14 @@
       "name": "RADIO RECARGABLE AM FM Y LINTERNA",
       "category": "Parlante Auris Reloj",
       "price": "24.990",
-      "description": "RADIO AM FM PENDRIVE, SD Y LINTERNA ",
+      "description": "RADIO AM FM PENDRIVE, SD Y LINTERNA",
       "image": "/images/radio_recargable_am_fm_y_linterna.webp",
       "images": [
         "/images/radio_recargable_am_fm_y_linterna.webp"
       ]
     },
     {
-      "name": "RADIO AM FM SUONO ",
+      "name": "RADIO AM FM SUONO",
       "category": "Parlante Auris Reloj",
       "price": "39.990",
       "description": "RADIO 4 BAND FM / SW1-2 / AM , CORREA DE TRANSPORTE , ANTENA DE ALTA SENSIBILIDAD , CABLE CONECTOR INCLUIDO.",
@@ -2915,7 +2915,7 @@
       ]
     },
     {
-      "name": "RADIO PORTATIL A PILA ",
+      "name": "RADIO PORTATIL A PILA",
       "category": "Parlante Auris Reloj",
       "price": "15.990",
       "description": "",
@@ -2927,7 +2927,7 @@
       ]
     },
     {
-      "name": "RADIO PORTATIL A PILA ",
+      "name": "RADIO PORTATIL A PILA",
       "category": "Parlante Auris Reloj",
       "price": "14.990",
       "description": "",
