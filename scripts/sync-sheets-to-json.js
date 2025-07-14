@@ -92,6 +92,7 @@ async function main() {
     const slug = slugify(name);
     const mainImage = `/images/${slug}.webp`;
     const detailImages = [
+      mainImage,
       `/images/${slug}_1.webp`,
       `/images/${slug}_2.webp`
     ];
