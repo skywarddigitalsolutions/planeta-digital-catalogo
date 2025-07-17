@@ -46,7 +46,7 @@ export const CartWidget = () => {
       {/* Botón flotante del carrito */}
       <button
         onClick={() => setIsOpen(true)}
-        className="fixed bottom-20 right-5 bg-blue-600 text-white p-4 rounded-full shadow-lg hover:bg-blue-700 cursor-pointer transition-all duration-200 hover:scale-110 z-40 group"
+        className="fixed bottom-4 right-5 bg-gray-600 text-white p-4 rounded-full shadow-lg hover:bg-blue-700 cursor-pointer transition-all duration-200 hover:scale-110 z-40 group"
         aria-label="Ver carrito"
       >
         <FaShoppingCart size={24} />

@@ -299,6 +299,1090 @@
         "/images/motorola_g04s_de_256gb_y_4_de_ram_1.webp"
       ]
     },
+     {
+      "name": "IPHONE 12 DE 128GB",
+      "category": "CELULARES",
+      "price": "499.990",
+      "description": "",
+      "image": "/images/iphone_12_de_128gb.webp",
+      "images": [
+        "/images/iphone_12_de_128gb.webp",
+        "/images/iphone_12_de_128gb_1.webp",
+        "/images/iphone_12_de_128gb_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 13 DE 128GB",
+      "category": "CELULARES",
+      "price": "649.990",
+      "description": "",
+      "image": "/images/iphone_13_de_128gb.webp",
+      "images": [
+        "/images/iphone_13_de_128gb.webp",
+        "/images/iphone_13_de_128gb_1.webp",
+        "/images/iphone_13_de_128gb_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 13 PRO DE 128GB",
+      "category": "CELULARES",
+      "price": "779.990",
+      "description": "",
+      "image": "/images/iphone_13_pro_de_128gb.webp",
+      "images": [
+        "/images/iphone_13_pro_de_128gb.webp",
+        "/images/iphone_13_pro_de_128gb_1.webp",
+        "/images/iphone_13_pro_de_128gb_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 13 PRO MAX DE 128GB ",
+      "category": "CELULARES",
+      "price": "899.990",
+      "description": "",
+      "image": "/images/iphone_13_pro_max_de_128gb.webp",
+      "images": [
+        "/images/iphone_13_pro_max_de_128gb.webp",
+        "/images/iphone_13_pro_max_de_128gb_1.webp",
+        "/images/iphone_13_pro_max_de_128gb_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 14 DE 128GB ",
+      "category": "CELULARES",
+      "price": "699.990",
+      "description": "",
+      "image": "/images/iphone_14_de_128gb.webp",
+      "images": [
+        "/images/iphone_14_de_128gb.webp",
+        "/images/iphone_14_de_128gb_1.webp",
+        "/images/iphone_14_de_128gb_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 15 DE 128GB",
+      "category": "CELULARES",
+      "price": "844.990",
+      "description": "",
+      "image": "/images/iphone_15_de_128gb.webp",
+      "images": [
+        "/images/iphone_15_de_128gb.webp",
+        "/images/iphone_15_de_128gb_1.webp",
+        "/images/iphone_15_de_128gb_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 15 DE 256GB",
+      "category": "CELULARES",
+      "price": "889.990",
+      "description": "",
+      "image": "/images/iphone_15_de_256gb.webp",
+      "images": [
+        "/images/iphone_15_de_256gb.webp",
+        "/images/iphone_15_de_256gb_1.webp",
+        "/images/iphone_15_de_256gb_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 16 DE 128GB NUEVO EN CAJA SELLADA ",
+      "category": "CELULARES",
+      "price": "1.144.000",
+      "description": "",
+      "image": "/images/iphone_16_de_128gb_nuevo_en_caja_sellada.webp",
+      "images": [
+        "/images/iphone_16_de_128gb_nuevo_en_caja_sellada.webp",
+        "/images/iphone_16_de_128gb_nuevo_en_caja_sellada_1.webp",
+        "/images/iphone_16_de_128gb_nuevo_en_caja_sellada_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 16 DE 256GB NUEVO EN CAJA SELLADA ",
+      "category": "CELULARES",
+      "price": "1.294.000",
+      "description": "",
+      "image": "/images/iphone_16_de_256gb_nuevo_en_caja_sellada.webp",
+      "images": [
+        "/images/iphone_16_de_256gb_nuevo_en_caja_sellada.webp",
+        "/images/iphone_16_de_256gb_nuevo_en_caja_sellada_1.webp",
+        "/images/iphone_16_de_256gb_nuevo_en_caja_sellada_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 16E DE 128GB NUEVO EN CAJA SELLADA",
+      "category": "CELULARES",
+      "price": "845.000",
+      "description": "",
+      "image": "/images/iphone_16e_de_128gb_nuevo_en_caja_sellada.webp",
+      "images": [
+        "/images/iphone_16e_de_128gb_nuevo_en_caja_sellada.webp",
+        "/images/iphone_16e_de_128gb_nuevo_en_caja_sellada_1.webp",
+        "/images/iphone_16e_de_128gb_nuevo_en_caja_sellada_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 16E DE 256GB NUEVO EN CAJA SELLADA ",
+      "category": "CELULARES",
+      "price": "995.000",
+      "description": "",
+      "image": "/images/iphone_16e_de_256gb_nuevo_en_caja_sellada.webp",
+      "images": [
+        "/images/iphone_16e_de_256gb_nuevo_en_caja_sellada.webp",
+        "/images/iphone_16e_de_256gb_nuevo_en_caja_sellada_1.webp",
+        "/images/iphone_16e_de_256gb_nuevo_en_caja_sellada_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 16 PRO DE 128GB NUEVO EN CAJA SELLADA ",
+      "category": "CELULARES",
+      "price": "1.340.000",
+      "description": "",
+      "image": "/images/iphone_16_pro_de_128gb_nuevo_en_caja_sellada.webp",
+      "images": [
+        "/images/iphone_16_pro_de_128gb_nuevo_en_caja_sellada.webp",
+        "/images/iphone_16_pro_de_128gb_nuevo_en_caja_sellada_1.webp",
+        "/images/iphone_16_pro_de_128gb_nuevo_en_caja_sellada_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 16 PRO DE 256GB NUEVO EN CAJA SELLADA",
+      "category": "CELULARES",
+      "price": "1.465.000",
+      "description": "",
+      "image": "/images/iphone_16_pro_de_256gb_nuevo_en_caja_sellada.webp",
+      "images": [
+        "/images/iphone_16_pro_de_256gb_nuevo_en_caja_sellada.webp",
+        "/images/iphone_16_pro_de_256gb_nuevo_en_caja_sellada_1.webp",
+        "/images/iphone_16_pro_de_256gb_nuevo_en_caja_sellada_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 16 PRO MAX DE 256GB NUEVO EN CAJA SELLADA ",
+      "category": "CELULARES",
+      "price": "1.590.000",
+      "description": "",
+      "image": "/images/iphone_16_pro_max_de_256gb_nuevo_en_caja_sellada.webp",
+      "images": [
+        "/images/iphone_16_pro_max_de_256gb_nuevo_en_caja_sellada.webp",
+        "/images/iphone_16_pro_max_de_256gb_nuevo_en_caja_sellada_1.webp",
+        "/images/iphone_16_pro_max_de_256gb_nuevo_en_caja_sellada_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 16 PRO MAX DE 512GB NUEVO EN CAJA SELLADA ",
+      "category": "CELULARES",
+      "price": "1.890.000",
+      "description": "",
+      "image": "/images/iphone_16_pro_max_de_512gb_nuevo_en_caja_sellada.webp",
+      "images": [
+        "/images/iphone_16_pro_max_de_512gb_nuevo_en_caja_sellada.webp",
+        "/images/iphone_16_pro_max_de_512gb_nuevo_en_caja_sellada_1.webp",
+        "/images/iphone_16_pro_max_de_512gb_nuevo_en_caja_sellada_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 16 PRO MAX DE 1TB NUEVO EN CAJA SELLADA ",
+      "category": "CELULARES",
+      "price": "2.210.000",
+      "description": "",
+      "image": "/images/iphone_16_pro_max_de_1tb_nuevo_en_caja_sellada.webp",
+      "images": [
+        "/images/iphone_16_pro_max_de_1tb_nuevo_en_caja_sellada.webp",
+        "/images/iphone_16_pro_max_de_1tb_nuevo_en_caja_sellada_1.webp",
+        "/images/iphone_16_pro_max_de_1tb_nuevo_en_caja_sellada_2.webp"
+      ]
+    },
+    {
+      "name": "SAMSUNG A26 5G DE 128GB Y 6 DE RAM ",
+      "category": "CELULARES",
+      "price": "399.990",
+      "description": "",
+      "image": "/images/samsung_a26_5g_de_128gb_y_6_de_ram.webp",
+      "images": [
+        "/images/samsung_a26_5g_de_128gb_y_6_de_ram.webp",
+        "/images/samsung_a26_5g_de_128gb_y_6_de_ram_1.webp",
+        "/images/samsung_a26_5g_de_128gb_y_6_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "SAMSUNG A26 5G DE 256GB Y 8 DE RAM ",
+      "category": "CELULARES",
+      "price": "429.990,00",
+      "description": "",
+      "image": "/images/samsung_a26_5g_de_256gb_y_8_de_ram.webp",
+      "images": [
+        "/images/samsung_a26_5g_de_256gb_y_8_de_ram.webp",
+        "/images/samsung_a26_5g_de_256gb_y_8_de_ram_1.webp",
+        "/images/samsung_a26_5g_de_256gb_y_8_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "SAMSUNG A36 5G DE 128GB Y 6 DE RAM ",
+      "category": "CELULARES",
+      "price": "470.000,00",
+      "description": "",
+      "image": "/images/samsung_a36_5g_de_128gb_y_6_de_ram.webp",
+      "images": [
+        "/images/samsung_a36_5g_de_128gb_y_6_de_ram.webp",
+        "/images/samsung_a36_5g_de_128gb_y_6_de_ram_1.webp",
+        "/images/samsung_a36_5g_de_128gb_y_6_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "SAMSUNG A36 5G DE 256GB Y 8 DE RAM",
+      "category": "CELULARES",
+      "price": "520.000",
+      "description": "",
+      "image": "/images/samsung_a36_5g_de_256gb_y_8_de_ram.webp",
+      "images": [
+        "/images/samsung_a36_5g_de_256gb_y_8_de_ram.webp",
+        "/images/samsung_a36_5g_de_256gb_y_8_de_ram_1.webp",
+        "/images/samsung_a36_5g_de_256gb_y_8_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "SAMSUNG A56 5G DE 256GB Y 8 DE RAM ",
+      "category": "CELULARES",
+      "price": "650.000",
+      "description": "",
+      "image": "/images/samsung_a56_5g_de_256gb_y_8_de_ram.webp",
+      "images": [
+        "/images/samsung_a56_5g_de_256gb_y_8_de_ram.webp",
+        "/images/samsung_a56_5g_de_256gb_y_8_de_ram_1.webp",
+        "/images/samsung_a56_5g_de_256gb_y_8_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "SAMSUNG A56 5G DE 256GB Y 12 DE RAM",
+      "category": "CELULARES",
+      "price": "680.000",
+      "description": "",
+      "image": "/images/samsung_a56_5g_de_256gb_y_12_de_ram.webp",
+      "images": [
+        "/images/samsung_a56_5g_de_256gb_y_12_de_ram.webp",
+        "/images/samsung_a56_5g_de_256gb_y_12_de_ram_1.webp",
+        "/images/samsung_a56_5g_de_256gb_y_12_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "SAMSUNG M55 5G DE 256GB Y 8 DE RAM ",
+      "category": "CELULARES",
+      "price": "470.000",
+      "description": "",
+      "image": "/images/samsung_m55_5g_de_256gb_y_8_de_ram.webp",
+      "images": [
+        "/images/samsung_m55_5g_de_256gb_y_8_de_ram.webp",
+        "/images/samsung_m55_5g_de_256gb_y_8_de_ram_1.webp",
+        "/images/samsung_m55_5g_de_256gb_y_8_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "SAMSUNG S24 DE 128GB Y 8 DE RAM ",
+      "category": "CELULARES",
+      "price": "790.000",
+      "description": "",
+      "image": "/images/samsung_s24_de_128gb_y_8_de_ram.webp",
+      "images": [
+        "/images/samsung_s24_de_128gb_y_8_de_ram.webp",
+        "/images/samsung_s24_de_128gb_y_8_de_ram_1.webp",
+        "/images/samsung_s24_de_128gb_y_8_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "SAMSUNG S24 FE DE 256GB Y 8 DE RAM",
+      "category": "CELULARES",
+      "price": "830.000",
+      "description": "",
+      "image": "/images/samsung_s24_fe_de_256gb_y_8_de_ram.webp",
+      "images": [
+        "/images/samsung_s24_fe_de_256gb_y_8_de_ram.webp",
+        "/images/samsung_s24_fe_de_256gb_y_8_de_ram_1.webp",
+        "/images/samsung_s24_fe_de_256gb_y_8_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "SAMSUNG S24 FE DE 512GB Y 8 DE RAM ",
+      "category": "CELULARES",
+      "price": "870.000",
+      "description": "",
+      "image": "/images/samsung_s24_fe_de_512gb_y_8_de_ram.webp",
+      "images": [
+        "/images/samsung_s24_fe_de_512gb_y_8_de_ram.webp",
+        "/images/samsung_s24_fe_de_512gb_y_8_de_ram_1.webp",
+        "/images/samsung_s24_fe_de_512gb_y_8_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "SAMSUNG S24 ULTRA DE 256GB Y 12 DE RAM ",
+      "category": "CELULARES",
+      "price": "1.350.000",
+      "description": "",
+      "image": "/images/samsung_s24_ultra_de_256gb_y_12_de_ram.webp",
+      "images": [
+        "/images/samsung_s24_ultra_de_256gb_y_12_de_ram.webp",
+        "/images/samsung_s24_ultra_de_256gb_y_12_de_ram_1.webp",
+        "/images/samsung_s24_ultra_de_256gb_y_12_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "SAMSUNG S24 ULTRA DE 512GB Y 12 DE RAM ",
+      "category": "CELULARES",
+      "price": "1.399.000",
+      "description": "",
+      "image": "/images/samsung_s24_ultra_de_512gb_y_12_de_ram.webp",
+      "images": [
+        "/images/samsung_s24_ultra_de_512gb_y_12_de_ram.webp",
+        "/images/samsung_s24_ultra_de_512gb_y_12_de_ram_1.webp",
+        "/images/samsung_s24_ultra_de_512gb_y_12_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "SAMSUNG S25 DE 128GB Y 12 DE RAM ",
+      "category": "CELULARES",
+      "price": "999.990",
+      "description": "",
+      "image": "/images/samsung_s25_de_128gb_y_12_de_ram.webp",
+      "images": [
+        "/images/samsung_s25_de_128gb_y_12_de_ram.webp",
+        "/images/samsung_s25_de_128gb_y_12_de_ram_1.webp",
+        "/images/samsung_s25_de_128gb_y_12_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "SAMSUNG S25 DE 256GB Y 12 DE RAM ",
+      "category": "CELULARES",
+      "price": "1.099.000",
+      "description": "",
+      "image": "/images/samsung_s25_de_256gb_y_12_de_ram.webp",
+      "images": [
+        "/images/samsung_s25_de_256gb_y_12_de_ram.webp",
+        "/images/samsung_s25_de_256gb_y_12_de_ram_1.webp",
+        "/images/samsung_s25_de_256gb_y_12_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "SAMSUNG S25 PLUS DE 256GB Y 12 DE RAM ",
+      "category": "CELULARES",
+      "price": "1.320.000",
+      "description": "",
+      "image": "/images/samsung_s25_plus_de_256gb_y_12_de_ram.webp",
+      "images": [
+        "/images/samsung_s25_plus_de_256gb_y_12_de_ram.webp",
+        "/images/samsung_s25_plus_de_256gb_y_12_de_ram_1.webp",
+        "/images/samsung_s25_plus_de_256gb_y_12_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "SAMSUNG S25 PLUS DE 512GB Y 12 DE RAM ",
+      "category": "CELULARES",
+      "price": "1.399.000",
+      "description": "",
+      "image": "/images/samsung_s25_plus_de_512gb_y_12_de_ram.webp",
+      "images": [
+        "/images/samsung_s25_plus_de_512gb_y_12_de_ram.webp",
+        "/images/samsung_s25_plus_de_512gb_y_12_de_ram_1.webp",
+        "/images/samsung_s25_plus_de_512gb_y_12_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "SAMSUNG S25 ULTRA DE 256GB Y 12 DE RAM ",
+      "category": "CELULARES",
+      "price": "1.540.000",
+      "description": "",
+      "image": "/images/samsung_s25_ultra_de_256gb_y_12_de_ram.webp",
+      "images": [
+        "/images/samsung_s25_ultra_de_256gb_y_12_de_ram.webp",
+        "/images/samsung_s25_ultra_de_256gb_y_12_de_ram_1.webp",
+        "/images/samsung_s25_ultra_de_256gb_y_12_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "SAMSUNG S25 DE 512 GB  Y 12 DE RAM ",
+      "category": "CELULARES",
+      "price": "1.599.000",
+      "description": "",
+      "image": "/images/samsung_s25_de_512_gb_y_12_de_ram.webp",
+      "images": [
+        "/images/samsung_s25_de_512_gb_y_12_de_ram.webp",
+        "/images/samsung_s25_de_512_gb_y_12_de_ram_1.webp",
+        "/images/samsung_s25_de_512_gb_y_12_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "SAMSUNG S25 DE 1TB Y 12 DE RAM ",
+      "category": "CELULARES",
+      "price": "1.899.000",
+      "description": "",
+      "image": "/images/samsung_s25_de_1tb_y_12_de_ram.webp",
+      "images": [
+        "/images/samsung_s25_de_1tb_y_12_de_ram.webp",
+        "/images/samsung_s25_de_1tb_y_12_de_ram_1.webp",
+        "/images/samsung_s25_de_1tb_y_12_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "XIAOMI A3X DE 128GB Y 4 DE RAM",
+      "category": "CELULARES",
+      "price": "189.990",
+      "description": "",
+      "image": "/images/xiaomi_a3x_de_128gb_y_4_de_ram.webp",
+      "images": [
+        "/images/xiaomi_a3x_de_128gb_y_4_de_ram.webp",
+        "/images/xiaomi_a3x_de_128gb_y_4_de_ram_1.webp",
+        "/images/xiaomi_a3x_de_128gb_y_4_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "XIAOMI A5 DE 128GB Y 4 DE RAM ",
+      "category": "CELULARES",
+      "price": "199.990",
+      "description": "",
+      "image": "/images/xiaomi_a5_de_128gb_y_4_de_ram.webp",
+      "images": [
+        "/images/xiaomi_a5_de_128gb_y_4_de_ram.webp",
+        "/images/xiaomi_a5_de_128gb_y_4_de_ram_1.webp",
+        "/images/xiaomi_a5_de_128gb_y_4_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "XIAOMI NOTE 13 PRO PLUS 5G DE 256GB Y 8 DE RAM",
+      "category": "CELULARES",
+      "price": "499.990",
+      "description": "",
+      "image": "/images/xiaomi_note_13_pro_plus_5g_de_256gb_y_8_de_ram.webp",
+      "images": [
+        "/images/xiaomi_note_13_pro_plus_5g_de_256gb_y_8_de_ram.webp",
+        "/images/xiaomi_note_13_pro_plus_5g_de_256gb_y_8_de_ram_1.webp",
+        "/images/xiaomi_note_13_pro_plus_5g_de_256gb_y_8_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "XIAOMI NOTE 14 DE 128GB Y 6 DE RAM ",
+      "category": "CELULARES",
+      "price": "299.990,00",
+      "description": "",
+      "image": "/images/xiaomi_note_14_de_128gb_y_6_de_ram.webp",
+      "images": [
+        "/images/xiaomi_note_14_de_128gb_y_6_de_ram.webp",
+        "/images/xiaomi_note_14_de_128gb_y_6_de_ram_1.webp",
+        "/images/xiaomi_note_14_de_128gb_y_6_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "XIAOMI NOTE 14 DE 256GB Y 8 DE RAM ",
+      "category": "CELULARES",
+      "price": "349.990",
+      "description": "",
+      "image": "/images/xiaomi_note_14_de_256gb_y_8_de_ram.webp",
+      "images": [
+        "/images/xiaomi_note_14_de_256gb_y_8_de_ram.webp",
+        "/images/xiaomi_note_14_de_256gb_y_8_de_ram_1.webp",
+        "/images/xiaomi_note_14_de_256gb_y_8_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "XIAOMI NOTE 14S DE 256GB Y 8 DE RAM ",
+      "category": "CELULARES",
+      "price": "389.990",
+      "description": "",
+      "image": "/images/xiaomi_note_14s_de_256gb_y_8_de_ram.webp",
+      "images": [
+        "/images/xiaomi_note_14s_de_256gb_y_8_de_ram.webp",
+        "/images/xiaomi_note_14s_de_256gb_y_8_de_ram_1.webp",
+        "/images/xiaomi_note_14s_de_256gb_y_8_de_ram_2.webp"
+      ]
+    },
+    
+
+    {
+      "name": "XIAOMI NOTE 14 PRO DE 256GB Y 8 DE RAM ",
+      "category": "CELULARES",
+      "price": "419.990",
+      "description": "",
+      "image": "/images/xiaomi_note_14_pro_de_256gb_y_8_de_ram.webp",
+      "images": [
+        "/images/xiaomi_note_14_pro_de_256gb_y_8_de_ram.webp",
+        "/images/xiaomi_note_14_pro_de_256gb_y_8_de_ram_1.webp",
+        "/images/xiaomi_note_14_pro_de_256gb_y_8_de_ram_2.webp"
+      ]
+    },
+
+    {
+      "name": "XIAOMI NOTE 14 PRO 5G DE 256GB Y 8 DE RAM ",
+      "category": "CELULARES",
+      "price": "480.000",
+      "description": "",
+      "image": "/images/xiaomi_note_14_pro_5g_de_256gb_y_8_de_ram.webp",
+      "images": [
+        "/images/xiaomi_note_14_pro_5g_de_256gb_y_8_de_ram.webp",
+        "/images/xiaomi_note_14_pro_5g_de_256gb_y_8_de_ram_1.webp",
+        "/images/xiaomi_note_14_pro_5g_de_256gb_y_8_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "XIAOMI NOTE 14 PRO PLUS 5G DE 256GB Y 8 DE RAM ",
+      "category": "CELULARES",
+      "price": "549.990",
+      "description": "",
+      "image": "/images/xiaomi_note_14_pro_plus_5g_de_256gb_y_8_de_ram.webp",
+      "images": [
+        "/images/xiaomi_note_14_pro_plus_5g_de_256gb_y_8_de_ram.webp",
+        "/images/xiaomi_note_14_pro_plus_5g_de_256gb_y_8_de_ram_1.webp",
+        "/images/xiaomi_note_14_pro_plus_5g_de_256gb_y_8_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "XIAOMI NOTE 14 PRO PLUS 5G DE 256GB Y 12 DE RAM ",
+      "category": "CELULARES",
+      "price": "650.000",
+      "description": "",
+      "image": "/images/xiaomi_note_14_pro_plus_5g_de_256gb_y_12_de_ram.webp",
+      "images": [
+        "/images/xiaomi_note_14_pro_plus_5g_de_256gb_y_12_de_ram.webp",
+        "/images/xiaomi_note_14_pro_plus_5g_de_256gb_y_12_de_ram_1.webp",
+        "/images/xiaomi_note_14_pro_plus_5g_de_256gb_y_12_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "XIAOMI POCO C71 DE 128GB Y 4 DE RAM ",
+      "category": "CELULARES",
+      "price": "199.990",
+      "description": "",
+      "image": "/images/xiaomi_poco_c71_de_128gb_y_4_de_ram.webp",
+      "images": [
+        "/images/xiaomi_poco_c71_de_128gb_y_4_de_ram.webp",
+        "/images/xiaomi_poco_c71_de_128gb_y_4_de_ram_1.webp",
+        "/images/xiaomi_poco_c71_de_128gb_y_4_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "XIAOMI POCO C75 DE 128GB Y 6 DE RAM ",
+      "category": "CELULARES",
+      "price": "249.990",
+      "description": "",
+      "image": "/images/xiaomi_poco_c75_de_128gb_y_6_de_ram.webp",
+      "images": [
+        "/images/xiaomi_poco_c75_de_128gb_y_6_de_ram.webp",
+        "/images/xiaomi_poco_c75_de_128gb_y_6_de_ram_1.webp",
+        "/images/xiaomi_poco_c75_de_128gb_y_6_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "XIAOMI POCO C75 DE 256GB Y 8 DE RAM",
+      "category": "CELULARES",
+      "price": "270.000",
+      "description": "",
+      "image": "/images/xiaomi_poco_c75_de_256gb_y_8_de_ram.webp",
+      "images": [
+        "/images/xiaomi_poco_c75_de_256gb_y_8_de_ram.webp",
+        "/images/xiaomi_poco_c75_de_256gb_y_8_de_ram_1.webp",
+        "/images/xiaomi_poco_c75_de_256gb_y_8_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "XIAOMI POCO M7 PRO 5G DE 256GB Y 8 DE RAM ",
+      "category": "CELULARES",
+      "price": "349.990",
+      "description": "",
+      "image": "/images/xiaomi_poco_m7_pro_5g_de_256gb_y_8_de_ram.webp",
+      "images": [
+        "/images/xiaomi_poco_m7_pro_5g_de_256gb_y_8_de_ram.webp",
+        "/images/xiaomi_poco_m7_pro_5g_de_256gb_y_8_de_ram_1.webp",
+        "/images/xiaomi_poco_m7_pro_5g_de_256gb_y_8_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "XIAOMI POCO M7 PRO 5G DE 256GB Y 12 DE RAM",
+      "category": "CELULARES",
+      "price": "399.990",
+      "description": "",
+      "image": "/images/xiaomi_poco_m7_pro_5g_de_256gb_y_12_de_ram.webp",
+      "images": [
+        "/images/xiaomi_poco_m7_pro_5g_de_256gb_y_12_de_ram.webp",
+        "/images/xiaomi_poco_m7_pro_5g_de_256gb_y_12_de_ram_1.webp",
+        "/images/xiaomi_poco_m7_pro_5g_de_256gb_y_12_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "XIAOMI POCO X6 PRO 5G  DE 512GB Y 12 DE RAM ",
+      "category": "CELULARES",
+      "price": "499.990",
+      "description": "",
+      "image": "/images/xiaomi_poco_x6_pro_5g_de_512gb_y_12_de_ram.webp",
+      "images": [
+        "/images/xiaomi_poco_x6_pro_5g_de_512gb_y_12_de_ram.webp",
+        "/images/xiaomi_poco_x6_pro_5g_de_512gb_y_12_de_ram_1.webp",
+        "/images/xiaomi_poco_x6_pro_5g_de_512gb_y_12_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "XIAOMI POCO X7 5G DE 512GB Y 12 DE RAM ",
+      "category": "CELULARES",
+      "price": "480.000",
+      "description": "",
+      "image": "/images/xiaomi_poco_x7_5g_de_512gb_y_12_de_ram.webp",
+      "images": [
+        "/images/xiaomi_poco_x7_5g_de_512gb_y_12_de_ram.webp",
+        "/images/xiaomi_poco_x7_5g_de_512gb_y_12_de_ram_1.webp",
+        "/images/xiaomi_poco_x7_5g_de_512gb_y_12_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "XIAOMI POCO X7 PRO 5G DE 512GB Y 12 DE RAM",
+      "category": "CELULARES",
+      "price": "599.990",
+      "description": "",
+      "image": "/images/xiaomi_poco_x7_pro_5g_de_512gb_y_12_de_ram.webp",
+      "images": [
+        "/images/xiaomi_poco_x7_pro_5g_de_512gb_y_12_de_ram.webp",
+        "/images/xiaomi_poco_x7_pro_5g_de_512gb_y_12_de_ram_1.webp",
+        "/images/xiaomi_poco_x7_pro_5g_de_512gb_y_12_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "XIAOMI POCO F6 5G DE 256GB Y 8 DE RAM",
+      "category": "CELULARES",
+      "price": "520.000",
+      "description": "",
+      "image": "/images/xiaomi_poco_f6_5g_de_256gb_y_8_de_ram.webp",
+      "images": [
+        "/images/xiaomi_poco_f6_5g_de_256gb_y_8_de_ram.webp",
+        "/images/xiaomi_poco_f6_5g_de_256gb_y_8_de_ram_1.webp",
+        "/images/xiaomi_poco_f6_5g_de_256gb_y_8_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "XIAOMI POCO F6 PRO 5G DE 256GB Y 12 DE RAM ",
+      "category": "CELULARES",
+      "price": "599.990",
+      "description": "",
+      "image": "/images/xiaomi_poco_f6_pro_5g_de_256gb_y_12_de_ram.webp",
+      "images": [
+        "/images/xiaomi_poco_f6_pro_5g_de_256gb_y_12_de_ram.webp",
+        "/images/xiaomi_poco_f6_pro_5g_de_256gb_y_12_de_ram_1.webp",
+        "/images/xiaomi_poco_f6_pro_5g_de_256gb_y_12_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "SAMSUNG A05 DE 64GB Y 4 DE RAM ",
+      "category": "CELULARES",
+      "price": "159.990",
+      "description": "",
+      "image": "/images/samsung_a05_de_64gb_y_4_de_ram.webp",
+      "images": [
+        "/images/samsung_a05_de_64gb_y_4_de_ram.webp",
+        "/images/samsung_a05_de_64gb_y_4_de_ram_1.webp",
+        "/images/samsung_a05_de_64gb_y_4_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "SAMSUNG A16 DE 128GB Y 6 DE RAM ",
+      "category": "CELULARES",
+      "price": "299.990",
+      "description": "",
+      "image": "/images/samsung_a16_de_128gb_y_6_de_ram.webp",
+      "images": [
+        "/images/samsung_a16_de_128gb_y_6_de_ram.webp",
+        "/images/samsung_a16_de_128gb_y_6_de_ram_1.webp",
+        "/images/samsung_a16_de_128gb_y_6_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "SAMSUNG A16 5G DE 128GB Y 6 DE RAM ",
+      "category": "CELULARES",
+      "price": "349.990",
+      "description": "",
+      "image": "/images/samsung_a16_5g_de_128gb_y_6_de_ram.webp",
+      "images": [
+        "/images/samsung_a16_5g_de_128gb_y_6_de_ram.webp",
+        "/images/samsung_a16_5g_de_128gb_y_6_de_ram_1.webp",
+        "/images/samsung_a16_5g_de_128gb_y_6_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "SAMSUNG A16 5G DE 256GB Y 8 DE RAM ",
+      "category": "CELULARES",
+      "price": "399.990",
+      "description": "",
+      "image": "/images/samsung_a16_5g_de_256gb_y_8_de_ram.webp",
+      "images": [
+        "/images/samsung_a16_5g_de_256gb_y_8_de_ram.webp",
+        "/images/samsung_a16_5g_de_256gb_y_8_de_ram_1.webp",
+        "/images/samsung_a16_5g_de_256gb_y_8_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "SAMSUNG A35 5G DE 128GB Y 6 DE RAM ",
+      "category": "CELULARES",
+      "price": "459.990",
+      "description": "",
+      "image": "/images/samsung_a35_5g_de_128gb_y_6_de_ram.webp",
+      "images": [
+        "/images/samsung_a35_5g_de_128gb_y_6_de_ram.webp",
+        "/images/samsung_a35_5g_de_128gb_y_6_de_ram_1.webp",
+        "/images/samsung_a35_5g_de_128gb_y_6_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "SAMSUNG A35 5G DE 256GB Y 8 DE RAM ",
+      "category": "CELULARES",
+      "price": "499.990",
+      "description": "",
+      "image": "/images/samsung_a35_5g_de_256gb_y_8_de_ram.webp",
+      "images": [
+        "/images/samsung_a35_5g_de_256gb_y_8_de_ram.webp",
+        "/images/samsung_a35_5g_de_256gb_y_8_de_ram_1.webp",
+        "/images/samsung_a35_5g_de_256gb_y_8_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "SAMSUNG S21FE 5G DE 128GB Y 8 DE RAM ",
+      "category": "CELULARES",
+      "price": "549.990",
+      "description": "",
+      "image": "/images/samsung_s21fe_5g_de_128gb_y_8_de_ram.webp",
+      "images": [
+        "/images/samsung_s21fe_5g_de_128gb_y_8_de_ram.webp",
+        "/images/samsung_s21fe_5g_de_128gb_y_8_de_ram_1.webp",
+        "/images/samsung_s21fe_5g_de_128gb_y_8_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "SAMSUNG S24 PLUS 5G DE 256GB Y 12 DE RAM ",
+      "category": "CELULARES",
+      "price": "1.150.000",
+      "description": "",
+      "image": "/images/samsung_s24_plus_5g_de_256gb_y_12_de_ram.webp",
+      "images": [
+        "/images/samsung_s24_plus_5g_de_256gb_y_12_de_ram.webp",
+        "/images/samsung_s24_plus_5g_de_256gb_y_12_de_ram_1.webp",
+        "/images/samsung_s24_plus_5g_de_256gb_y_12_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "SAMSUNG S24 PLUS 5G DE 512GB Y 12 DE RAM ",
+      "category": "CELULARES",
+      "price": "1.299.990",
+      "description": "",
+      "image": "/images/samsung_s24_plus_5g_de_512gb_y_12_de_ram.webp",
+      "images": [
+        "/images/samsung_s24_plus_5g_de_512gb_y_12_de_ram.webp",
+        "/images/samsung_s24_plus_5g_de_512gb_y_12_de_ram_1.webp",
+        "/images/samsung_s24_plus_5g_de_512gb_y_12_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "SAMSUNG Z FLIP 6 5G DE 256GB Y 12 DE RAM ",
+      "category": "CELULARES",
+      "price": "1.390.000",
+      "description": "",
+      "image": "/images/samsung_z_flip_6_5g_de_256gb_y_12_de_ram.webp",
+      "images": [
+        "/images/samsung_z_flip_6_5g_de_256gb_y_12_de_ram.webp",
+        "/images/samsung_z_flip_6_5g_de_256gb_y_12_de_ram_1.webp",
+        "/images/samsung_z_flip_6_5g_de_256gb_y_12_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "SAMSUNG 2 FLIP 6 5G DE 512GB Y 12 DE RAM ",
+      "category": "CELULARES",
+      "price": "1.499.000",
+      "description": "",
+      "image": "/images/samsung_2_flip_6_5g_de_512gb_y_12_de_ram.webp",
+      "images": [
+        "/images/samsung_2_flip_6_5g_de_512gb_y_12_de_ram.webp",
+        "/images/samsung_2_flip_6_5g_de_512gb_y_12_de_ram_1.webp",
+        "/images/samsung_2_flip_6_5g_de_512gb_y_12_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "SAMSUNG FOLD 5 5G DE 512GB Y 12 DE RAM ",
+      "category": "CELULARES",
+      "price": "1.950.000",
+      "description": "",
+      "image": "/images/samsung_fold_5_5g_de_512gb_y_12_de_ram.webp",
+      "images": [
+        "/images/samsung_fold_5_5g_de_512gb_y_12_de_ram.webp",
+        "/images/samsung_fold_5_5g_de_512gb_y_12_de_ram_1.webp",
+        "/images/samsung_fold_5_5g_de_512gb_y_12_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "SAMSUNG FOLD 6 5G DE 256GB Y 12 DE RAM ",
+      "category": "CELULARES",
+      "price": "2.050.000",
+      "description": "",
+      "image": "/images/samsung_fold_6_5g_de_256gb_y_12_de_ram.webp",
+      "images": [
+        "/images/samsung_fold_6_5g_de_256gb_y_12_de_ram.webp",
+        "/images/samsung_fold_6_5g_de_256gb_y_12_de_ram_1.webp",
+        "/images/samsung_fold_6_5g_de_256gb_y_12_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "SAMSUNG FOLD 6 5G DE 512GB Y 12 DE RAM ",
+      "category": "CELULARES",
+      "price": "2.100.000",
+      "description": "",
+      "image": "/images/samsung_fold_6_5g_de_512gb_y_12_de_ram.webp",
+      "images": [
+        "/images/samsung_fold_6_5g_de_512gb_y_12_de_ram.webp",
+        "/images/samsung_fold_6_5g_de_512gb_y_12_de_ram_1.webp",
+        "/images/samsung_fold_6_5g_de_512gb_y_12_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "MOTOROLA GO4 DE 64GB Y 4 DE RAM ",
+      "category": "CELULARES",
+      "price": "169.990",
+      "description": "",
+      "image": "/images/motorola_go4_de_64gb_y_4_de_ram.webp",
+      "images": [
+        "/images/motorola_go4_de_64gb_y_4_de_ram.webp",
+        "/images/motorola_go4_de_64gb_y_4_de_ram_1.webp",
+        "/images/motorola_go4_de_64gb_y_4_de_ram_2.webp"
+      ]
+    },
+
+    {
+      "name": "MOTOROLA GO5 DE 128GB Y 4 DE RAM ",
+      "category": "CELULARES",
+      "price": "220.000",
+      "description": "",
+      "image": "/images/motorola_go5_de_128gb_y_4_de_ram.webp",
+      "images": [
+        "/images/motorola_go5_de_128gb_y_4_de_ram.webp",
+        "/images/motorola_go5_de_128gb_y_4_de_ram_1.webp",
+        "/images/motorola_go5_de_128gb_y_4_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "MOTOROLA G14 DE 128GB Y 4 DE RAM ",
+      "category": "CELULARES",
+      "price": "229.990",
+      "description": "",
+      "image": "/images/motorola_g14_de_128gb_y_4_de_ram.webp",
+      "images": [
+        "/images/motorola_g14_de_128gb_y_4_de_ram.webp",
+        "/images/motorola_g14_de_128gb_y_4_de_ram_1.webp",
+        "/images/motorola_g14_de_128gb_y_4_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "MOTOROLA G24 DE 256GB Y 4 DE RAM ",
+      "category": "CELULARES",
+      "price": "259.990",
+      "description": "",
+      "image": "/images/motorola_G24_de_256gb_y_4_de_ram.webp",
+      "images": [
+        "/images/motorola_24_de_256gb_y_4_de_ram.webp",
+        "/images/motorola_G24_de_256gb_y_4_de_ram_1.webp",
+        "/images/motorola_G24_de_256gb_y_4_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "MOTOROLA G35 5G DE 256GB Y 8 DE RAM ",
+      "category": "CELULARES",
+      "price": "320.000",
+      "description": "",
+      "image": "/images/motorola_g35_5g_de_256gb_y_8_de_ram.webp",
+      "images": [
+        "/images/motorola_g35_5g_de_256gb_y_8_de_ram.webp",
+        "/images/motorola_g35_5g_de_256gb_y_8_de_ram_1.webp",
+        "/images/motorola_g35_5g_de_256gb_y_8_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "MOTOROLA G54 5G DE 128GB Y 4 DE RAM ",
+      "category": "CELULARES",
+      "price": "299.990",
+      "description": "",
+      "image": "/images/motorola_g54_5g_de_128gb_y_4_de_ram.webp",
+      "images": [
+        "/images/motorola_g54_5g_de_128gb_y_4_de_ram.webp",
+        "/images/motorola_g54_5g_de_128gb_y_4_de_ram_1.webp",
+        "/images/motorola_g54_5g_de_128gb_y_4_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "MOTOROLA G54 POWER 5G DE 256GB Y 8 DE RAM ",
+      "category": "CELULARES",
+      "price": "350.000",
+      "description": "",
+      "image": "/images/motorola_g54_power_5g_de_256gb_y_8_de_ram.webp",
+      "images": [
+        "/images/motorola_g54_power_5g_de_256gb_y_8_de_ram.webp",
+        "/images/motorola_g54_power_5g_de_256gb_y_8_de_ram_1.webp",
+        "/images/motorola_g54_power_5g_de_256gb_y_8_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "MOTOROLA G55 5G DE 256GB Y 8 DE RAM ",
+      "category": "CELULARES",
+      "price": "350.000",
+      "description": "",
+      "image": "/images/motorola_g55_5g_de_256gb_y_8_de_ram.webp",
+      "images": [
+        "/images/motorola_g55_5g_de_256gb_y_8_de_ram.webp",
+        "/images/motorola_g55_5g_de_256gb_y_8_de_ram_1.webp",
+        "/images/motorola_g55_5g_de_256gb_y_8_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "MOTOROLA G84 5G DE 256GB Y 8 DE RAM ",
+      "category": "CELULARES",
+      "price": "399.990",
+      "description": "",
+      "image": "/images/motorola_g84_5g_de_256gb_y_8_de_ram.webp",
+      "images": [
+        "/images/motorola_g84_5g_de_256gb_y_8_de_ram.webp",
+        "/images/motorola_g84_5g_de_256gb_y_8_de_ram_1.webp",
+        "/images/motorola_g84_5g_de_256gb_y_8_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "MOTOROLA G84 5G DE 256GB Y12 DE RAM ",
+      "category": "CELULARES",
+      "price": "450.000",
+      "description": "",
+      "image": "/images/motorola_g84_5g_de_256gb_y12_de_ram.webp",
+      "images": [
+        "/images/motorola_g84_5g_de_256gb_y12_de_ram.webp",
+        "/images/motorola_g84_5g_de_256gb_y12_de_ram_1.webp",
+        "/images/motorola_g84_5g_de_256gb_y12_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "MOTOROLA EDGE 40 NEO 5G DE 256GB Y 8 DE RAM",
+      "category": "CELULARES",
+      "price": "450.000",
+      "description": "",
+      "image": "/images/motorola_edge_40_neo_5g_de_256gb_y_8_de_ram.webp",
+      "images": [
+        "/images/motorola_edge_40_neo_5g_de_256gb_y_8_de_ram.webp",
+        "/images/motorola_edge_40_neo_5g_de_256gb_y_8_de_ram_1.webp",
+        "/images/motorola_edge_40_neo_5g_de_256gb_y_8_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "MOTOROLA EDGE 40 5G DE 256GB Y DE 8 DE RAM ",
+      "category": "CELULARES",
+      "price": "450.000",
+      "description": "",
+      "image": "/images/motorola_edge_40_5g_de_256gb_y_de_8_de_ram.webp",
+      "images": [
+        "/images/motorola_edge_40_5g_de_256gb_y_de_8_de_ram.webp",
+        "/images/motorola_edge_40_5g_de_256gb_y_de_8_de_ram_1.webp",
+        "/images/motorola_edge_40_5g_de_256gb_y_de_8_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "MOTOROLA EDGE 40 PRO 5G DE 256GB Y 12 DE RAM ",
+      "category": "CELULARES",
+      "price": "599.990",
+      "description": "",
+      "image": "/images/motorola_edge_40_pro_5g_de_256gb_y_12_de_ram.webp",
+      "images": [
+        "/images/motorola_edge_40_pro_5g_de_256gb_y_12_de_ram.webp",
+        "/images/motorola_edge_40_pro_5g_de_256gb_y_12_de_ram_1.webp",
+        "/images/motorola_edge_40_pro_5g_de_256gb_y_12_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "MOTOROLA EDGE 50 NEO 5G DE 256GB Y 8 DE RAM ",
+      "category": "CELULARES",
+      "price": "499.990",
+      "description": "",
+      "image": "/images/motorola_edge_50_neo_5g_de_256gb_y_8_de_ram.webp",
+      "images": [
+        "/images/motorola_edge_50_neo_5g_de_256gb_y_8_de_ram.webp",
+        "/images/motorola_edge_50_neo_5g_de_256gb_y_8_de_ram_1.webp",
+        "/images/motorola_edge_50_neo_5g_de_256gb_y_8_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "MOTOROLA EDGE 50 FUSION 5G DE 256GB Y 8 DE RAM ",
+      "category": "CELULARES",
+      "price": "499.990",
+      "description": "",
+      "image": "/images/motorola_edge_50_fusion_5g_de_256gb_y_8_de_ram.webp",
+      "images": [
+        "/images/motorola_edge_50_fusion_5g_de_256gb_y_8_de_ram.webp",
+        "/images/motorola_edge_50_fusion_5g_de_256gb_y_8_de_ram_1.webp",
+        "/images/motorola_edge_50_fusion_5g_de_256gb_y_8_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "MOTOROLA EDGE 50 FUSION 5G DE 512GB Y 12 DE RAM",
+      "category": "CELULARES",
+      "price": "550.000",
+      "description": "",
+      "image": "/images/motorola_edge_50_fusion_5g_de_512gb_y_12_de_ram.webp",
+      "images": [
+        "/images/motorola_edge_50_fusion_5g_de_512gb_y_12_de_ram.webp",
+        "/images/motorola_edge_50_fusion_5g_de_512gb_y_12_de_ram_1.webp",
+        "/images/motorola_edge_50_fusion_5g_de_512gb_y_12_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "MOTOROLA EDGE 50 5G DE 256GB Y 12 DE RAM ",
+      "category": "CELULARES",
+      "price": "599.990",
+      "description": "",
+      "image": "/images/motorola_edge_50_5g_de_256gb_y_12_de_ram.webp",
+      "images": [
+        "/images/motorola_edge_50_5g_de_256gb_y_12_de_ram.webp",
+        "/images/motorola_edge_50_5g_de_256gb_y_12_de_ram_1.webp",
+        "/images/motorola_edge_50_5g_de_256gb_y_12_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "MOTOROLA EDGE 50 5G DE 512 GB Y 12 DE RAM ",
+      "category": "CELULARES",
+      "price": "630.000",
+      "description": "",
+      "image": "/images/motorola_edge_50_5g_de_512_gb_y_12_de_ram.webp",
+      "images": [
+        "/images/motorola_edge_50_5g_de_512_gb_y_12_de_ram.webp",
+        "/images/motorola_edge_50_5g_de_512_gb_y_12_de_ram_1.webp",
+        "/images/motorola_edge_50_5g_de_512_gb_y_12_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "MOTOROLA EDGE 50 PRO 5G DE 512GB Y 12 DE RAM ",
+      "category": "CELULARES",
+      "price": "750.000",
+      "description": "",
+      "image": "/images/motorola_edge_50_pro_5g_de_512gb_y_12_de_ram.webp",
+      "images": [
+        "/images/motorola_edge_50_pro_5g_de_512gb_y_12_de_ram.webp",
+        "/images/motorola_edge_50_pro_5g_de_512gb_y_12_de_ram_1.webp",
+        "/images/motorola_edge_50_pro_5g_de_512gb_y_12_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "MOTOROLA EDGE 50 ULTRA 5G DE 1TB Y 12 DE RAM ",
+      "category": "CELULARES",
+      "price": "1.200.000",
+      "description": "",
+      "image": "/images/motorola_edge_50_ultra_5g_de_1tb_y_12_de_ram.webp",
+      "images": [
+        "/images/motorola_edge_50_ultra_5g_de_1tb_y_12_de_ram.webp",
+        "/images/motorola_edge_50_ultra_5g_de_1tb_y_12_de_ram_1.webp",
+        "/images/motorola_edge_50_ultra_5g_de_1tb_y_12_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "MOTOROLA RAZR ULTRA 5G DE 512GB Y 12 DE RAM ",
+      "category": "CELULARES",
+      "price": "1.300.000",
+      "description": "",
+      "image": "/images/motorola_razr_ultra_5g_de_512gb_y_12_de_ram.webp",
+      "images": [
+        "/images/motorola_razr_ultra_5g_de_512gb_y_12_de_ram.webp",
+        "/images/motorola_razr_ultra_5g_de_512gb_y_12_de_ram_1.webp",
+        "/images/motorola_razr_ultra_5g_de_512gb_y_12_de_ram_2.webp"
+      ]
+    },
     {
       "name": "SMART TV QUINT 32”",
       "category": "TELEVISORES",
@@ -5717,1090 +6801,5 @@
         "/images/multimetro_digital_1.webp",
         "/images/multimetro_digital_2.webp"
       ]
-    },
-    {
-      "name": "IPHONE 12 DE 128GB",
-      "category": "CELULARES",
-      "price": "499.990",
-      "description": "",
-      "image": "/images/iphone_12_de_128gb.webp",
-      "images": [
-        "/images/iphone_12_de_128gb.webp",
-        "/images/iphone_12_de_128gb_1.webp",
-        "/images/iphone_12_de_128gb_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 13 DE 128GB",
-      "category": "CELULARES",
-      "price": "649.990",
-      "description": "",
-      "image": "/images/iphone_13_de_128gb.webp",
-      "images": [
-        "/images/iphone_13_de_128gb.webp",
-        "/images/iphone_13_de_128gb_1.webp",
-        "/images/iphone_13_de_128gb_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 13 PRO DE 128GB",
-      "category": "CELULARES",
-      "price": "779.990",
-      "description": "",
-      "image": "/images/iphone_13_pro_de_128gb.webp",
-      "images": [
-        "/images/iphone_13_pro_de_128gb.webp",
-        "/images/iphone_13_pro_de_128gb_1.webp",
-        "/images/iphone_13_pro_de_128gb_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 13 PRO MAX DE 128GB ",
-      "category": "CELULARES",
-      "price": "899.990",
-      "description": "",
-      "image": "/images/iphone_13_pro_max_de_128gb.webp",
-      "images": [
-        "/images/iphone_13_pro_max_de_128gb.webp",
-        "/images/iphone_13_pro_max_de_128gb_1.webp",
-        "/images/iphone_13_pro_max_de_128gb_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 14 DE 128GB ",
-      "category": "CELULARES",
-      "price": "699.990",
-      "description": "",
-      "image": "/images/iphone_14_de_128gb.webp",
-      "images": [
-        "/images/iphone_14_de_128gb.webp",
-        "/images/iphone_14_de_128gb_1.webp",
-        "/images/iphone_14_de_128gb_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 15 DE 128GB",
-      "category": "CELULARES",
-      "price": "844.990",
-      "description": "",
-      "image": "/images/iphone_15_de_128gb.webp",
-      "images": [
-        "/images/iphone_15_de_128gb.webp",
-        "/images/iphone_15_de_128gb_1.webp",
-        "/images/iphone_15_de_128gb_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 15 DE 256GB",
-      "category": "CELULARES",
-      "price": "889.990",
-      "description": "",
-      "image": "/images/iphone_15_de_256gb.webp",
-      "images": [
-        "/images/iphone_15_de_256gb.webp",
-        "/images/iphone_15_de_256gb_1.webp",
-        "/images/iphone_15_de_256gb_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 16 DE 128GB NUEVO EN CAJA SELLADA ",
-      "category": "CELULARES",
-      "price": "1.144.000",
-      "description": "",
-      "image": "/images/iphone_16_de_128gb_nuevo_en_caja_sellada.webp",
-      "images": [
-        "/images/iphone_16_de_128gb_nuevo_en_caja_sellada.webp",
-        "/images/iphone_16_de_128gb_nuevo_en_caja_sellada_1.webp",
-        "/images/iphone_16_de_128gb_nuevo_en_caja_sellada_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 16 DE 256GB NUEVO EN CAJA SELLADA ",
-      "category": "CELULARES",
-      "price": "1.294.000",
-      "description": "",
-      "image": "/images/iphone_16_de_256gb_nuevo_en_caja_sellada.webp",
-      "images": [
-        "/images/iphone_16_de_256gb_nuevo_en_caja_sellada.webp",
-        "/images/iphone_16_de_256gb_nuevo_en_caja_sellada_1.webp",
-        "/images/iphone_16_de_256gb_nuevo_en_caja_sellada_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 16E DE 128GB NUEVO EN CAJA SELLADA",
-      "category": "CELULARES",
-      "price": "845.000",
-      "description": "",
-      "image": "/images/iphone_16e_de_128gb_nuevo_en_caja_sellada.webp",
-      "images": [
-        "/images/iphone_16e_de_128gb_nuevo_en_caja_sellada.webp",
-        "/images/iphone_16e_de_128gb_nuevo_en_caja_sellada_1.webp",
-        "/images/iphone_16e_de_128gb_nuevo_en_caja_sellada_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 16E DE 256GB NUEVO EN CAJA SELLADA ",
-      "category": "CELULARES",
-      "price": "995.000",
-      "description": "",
-      "image": "/images/iphone_16e_de_256gb_nuevo_en_caja_sellada.webp",
-      "images": [
-        "/images/iphone_16e_de_256gb_nuevo_en_caja_sellada.webp",
-        "/images/iphone_16e_de_256gb_nuevo_en_caja_sellada_1.webp",
-        "/images/iphone_16e_de_256gb_nuevo_en_caja_sellada_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 16 PRO DE 128GB NUEVO EN CAJA SELLADA ",
-      "category": "CELULARES",
-      "price": "1.340.000",
-      "description": "",
-      "image": "/images/iphone_16_pro_de_128gb_nuevo_en_caja_sellada.webp",
-      "images": [
-        "/images/iphone_16_pro_de_128gb_nuevo_en_caja_sellada.webp",
-        "/images/iphone_16_pro_de_128gb_nuevo_en_caja_sellada_1.webp",
-        "/images/iphone_16_pro_de_128gb_nuevo_en_caja_sellada_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 16 PRO DE 256GB NUEVO EN CAJA SELLADA",
-      "category": "CELULARES",
-      "price": "1.465.000",
-      "description": "",
-      "image": "/images/iphone_16_pro_de_256gb_nuevo_en_caja_sellada.webp",
-      "images": [
-        "/images/iphone_16_pro_de_256gb_nuevo_en_caja_sellada.webp",
-        "/images/iphone_16_pro_de_256gb_nuevo_en_caja_sellada_1.webp",
-        "/images/iphone_16_pro_de_256gb_nuevo_en_caja_sellada_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 16 PRO MAX DE 256GB NUEVO EN CAJA SELLADA ",
-      "category": "CELULARES",
-      "price": "1.590.000",
-      "description": "",
-      "image": "/images/iphone_16_pro_max_de_256gb_nuevo_en_caja_sellada.webp",
-      "images": [
-        "/images/iphone_16_pro_max_de_256gb_nuevo_en_caja_sellada.webp",
-        "/images/iphone_16_pro_max_de_256gb_nuevo_en_caja_sellada_1.webp",
-        "/images/iphone_16_pro_max_de_256gb_nuevo_en_caja_sellada_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 16 PRO MAX DE 512GB NUEVO EN CAJA SELLADA ",
-      "category": "CELULARES",
-      "price": "1.890.000",
-      "description": "",
-      "image": "/images/iphone_16_pro_max_de_512gb_nuevo_en_caja_sellada.webp",
-      "images": [
-        "/images/iphone_16_pro_max_de_512gb_nuevo_en_caja_sellada.webp",
-        "/images/iphone_16_pro_max_de_512gb_nuevo_en_caja_sellada_1.webp",
-        "/images/iphone_16_pro_max_de_512gb_nuevo_en_caja_sellada_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 16 PRO MAX DE 1TB NUEVO EN CAJA SELLADA ",
-      "category": "CELULARES",
-      "price": "2.210.000",
-      "description": "",
-      "image": "/images/iphone_16_pro_max_de_1tb_nuevo_en_caja_sellada.webp",
-      "images": [
-        "/images/iphone_16_pro_max_de_1tb_nuevo_en_caja_sellada.webp",
-        "/images/iphone_16_pro_max_de_1tb_nuevo_en_caja_sellada_1.webp",
-        "/images/iphone_16_pro_max_de_1tb_nuevo_en_caja_sellada_2.webp"
-      ]
-    },
-    {
-      "name": "SAMSUNG A26 5G DE 128GB Y 6 DE RAM ",
-      "category": "CELULARES",
-      "price": "399.990",
-      "description": "",
-      "image": "/images/samsung_a26_5g_de_128gb_y_6_de_ram.webp",
-      "images": [
-        "/images/samsung_a26_5g_de_128gb_y_6_de_ram.webp",
-        "/images/samsung_a26_5g_de_128gb_y_6_de_ram_1.webp",
-        "/images/samsung_a26_5g_de_128gb_y_6_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "SAMSUNG A26 5G DE 256GB Y 8 DE RAM ",
-      "category": "CELULARES",
-      "price": "429.990,00",
-      "description": "",
-      "image": "/images/samsung_a26_5g_de_256gb_y_8_de_ram.webp",
-      "images": [
-        "/images/samsung_a26_5g_de_256gb_y_8_de_ram.webp",
-        "/images/samsung_a26_5g_de_256gb_y_8_de_ram_1.webp",
-        "/images/samsung_a26_5g_de_256gb_y_8_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "SAMSUNG A36 5G DE 128GB Y 6 DE RAM ",
-      "category": "CELULARES",
-      "price": "470.000,00",
-      "description": "",
-      "image": "/images/samsung_a36_5g_de_128gb_y_6_de_ram.webp",
-      "images": [
-        "/images/samsung_a36_5g_de_128gb_y_6_de_ram.webp",
-        "/images/samsung_a36_5g_de_128gb_y_6_de_ram_1.webp",
-        "/images/samsung_a36_5g_de_128gb_y_6_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "SAMSUNG A36 5G DE 256GB Y 8 DE RAM",
-      "category": "CELULARES",
-      "price": "520.000",
-      "description": "",
-      "image": "/images/samsung_a36_5g_de_256gb_y_8_de_ram.webp",
-      "images": [
-        "/images/samsung_a36_5g_de_256gb_y_8_de_ram.webp",
-        "/images/samsung_a36_5g_de_256gb_y_8_de_ram_1.webp",
-        "/images/samsung_a36_5g_de_256gb_y_8_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "SAMSUNG A56 5G DE 256GB Y 8 DE RAM ",
-      "category": "CELULARES",
-      "price": "650.000",
-      "description": "",
-      "image": "/images/samsung_a56_5g_de_256gb_y_8_de_ram.webp",
-      "images": [
-        "/images/samsung_a56_5g_de_256gb_y_8_de_ram.webp",
-        "/images/samsung_a56_5g_de_256gb_y_8_de_ram_1.webp",
-        "/images/samsung_a56_5g_de_256gb_y_8_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "SAMSUNG A56 5G DE 256GB Y 12 DE RAM",
-      "category": "CELULARES",
-      "price": "680.000",
-      "description": "",
-      "image": "/images/samsung_a56_5g_de_256gb_y_12_de_ram.webp",
-      "images": [
-        "/images/samsung_a56_5g_de_256gb_y_12_de_ram.webp",
-        "/images/samsung_a56_5g_de_256gb_y_12_de_ram_1.webp",
-        "/images/samsung_a56_5g_de_256gb_y_12_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "SAMSUNG M55 5G DE 256GB Y 8 DE RAM ",
-      "category": "CELULARES",
-      "price": "470.000",
-      "description": "",
-      "image": "/images/samsung_m55_5g_de_256gb_y_8_de_ram.webp",
-      "images": [
-        "/images/samsung_m55_5g_de_256gb_y_8_de_ram.webp",
-        "/images/samsung_m55_5g_de_256gb_y_8_de_ram_1.webp",
-        "/images/samsung_m55_5g_de_256gb_y_8_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "SAMSUNG S24 DE 128GB Y 8 DE RAM ",
-      "category": "CELULARES",
-      "price": "790.000",
-      "description": "",
-      "image": "/images/samsung_s24_de_128gb_y_8_de_ram.webp",
-      "images": [
-        "/images/samsung_s24_de_128gb_y_8_de_ram.webp",
-        "/images/samsung_s24_de_128gb_y_8_de_ram_1.webp",
-        "/images/samsung_s24_de_128gb_y_8_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "SAMSUNG S24 FE DE 256GB Y 8 DE RAM",
-      "category": "CELULARES",
-      "price": "830.000",
-      "description": "",
-      "image": "/images/samsung_s24_fe_de_256gb_y_8_de_ram.webp",
-      "images": [
-        "/images/samsung_s24_fe_de_256gb_y_8_de_ram.webp",
-        "/images/samsung_s24_fe_de_256gb_y_8_de_ram_1.webp",
-        "/images/samsung_s24_fe_de_256gb_y_8_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "SAMSUNG S24 FE DE 512GB Y 8 DE RAM ",
-      "category": "CELULARES",
-      "price": "870.000",
-      "description": "",
-      "image": "/images/samsung_s24_fe_de_512gb_y_8_de_ram.webp",
-      "images": [
-        "/images/samsung_s24_fe_de_512gb_y_8_de_ram.webp",
-        "/images/samsung_s24_fe_de_512gb_y_8_de_ram_1.webp",
-        "/images/samsung_s24_fe_de_512gb_y_8_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "SAMSUNG S24 ULTRA DE 256GB Y 12 DE RAM ",
-      "category": "CELULARES",
-      "price": "1.350.000",
-      "description": "",
-      "image": "/images/samsung_s24_ultra_de_256gb_y_12_de_ram.webp",
-      "images": [
-        "/images/samsung_s24_ultra_de_256gb_y_12_de_ram.webp",
-        "/images/samsung_s24_ultra_de_256gb_y_12_de_ram_1.webp",
-        "/images/samsung_s24_ultra_de_256gb_y_12_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "SAMSUNG S24 ULTRA DE 512GB Y 12 DE RAM ",
-      "category": "CELULARES",
-      "price": "1.399.000",
-      "description": "",
-      "image": "/images/samsung_s24_ultra_de_512gb_y_12_de_ram.webp",
-      "images": [
-        "/images/samsung_s24_ultra_de_512gb_y_12_de_ram.webp",
-        "/images/samsung_s24_ultra_de_512gb_y_12_de_ram_1.webp",
-        "/images/samsung_s24_ultra_de_512gb_y_12_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "SAMSUNG S25 DE 128GB Y 12 DE RAM ",
-      "category": "CELULARES",
-      "price": "999.990",
-      "description": "",
-      "image": "/images/samsung_s25_de_128gb_y_12_de_ram.webp",
-      "images": [
-        "/images/samsung_s25_de_128gb_y_12_de_ram.webp",
-        "/images/samsung_s25_de_128gb_y_12_de_ram_1.webp",
-        "/images/samsung_s25_de_128gb_y_12_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "SAMSUNG S25 DE 256GB Y 12 DE RAM ",
-      "category": "CELULARES",
-      "price": "1.099.000",
-      "description": "",
-      "image": "/images/samsung_s25_de_256gb_y_12_de_ram.webp",
-      "images": [
-        "/images/samsung_s25_de_256gb_y_12_de_ram.webp",
-        "/images/samsung_s25_de_256gb_y_12_de_ram_1.webp",
-        "/images/samsung_s25_de_256gb_y_12_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "SAMSUNG S25 PLUS DE 256GB Y 12 DE RAM ",
-      "category": "CELULARES",
-      "price": "1.320.000",
-      "description": "",
-      "image": "/images/samsung_s25_plus_de_256gb_y_12_de_ram.webp",
-      "images": [
-        "/images/samsung_s25_plus_de_256gb_y_12_de_ram.webp",
-        "/images/samsung_s25_plus_de_256gb_y_12_de_ram_1.webp",
-        "/images/samsung_s25_plus_de_256gb_y_12_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "SAMSUNG S25 PLUS DE 512GB Y 12 DE RAM ",
-      "category": "CELULARES",
-      "price": "1.399.000",
-      "description": "",
-      "image": "/images/samsung_s25_plus_de_512gb_y_12_de_ram.webp",
-      "images": [
-        "/images/samsung_s25_plus_de_512gb_y_12_de_ram.webp",
-        "/images/samsung_s25_plus_de_512gb_y_12_de_ram_1.webp",
-        "/images/samsung_s25_plus_de_512gb_y_12_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "SAMSUNG S25 ULTRA DE 256GB Y 12 DE RAM ",
-      "category": "CELULARES",
-      "price": "1.540.000",
-      "description": "",
-      "image": "/images/samsung_s25_ultra_de_256gb_y_12_de_ram.webp",
-      "images": [
-        "/images/samsung_s25_ultra_de_256gb_y_12_de_ram.webp",
-        "/images/samsung_s25_ultra_de_256gb_y_12_de_ram_1.webp",
-        "/images/samsung_s25_ultra_de_256gb_y_12_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "SAMSUNG S25 DE 512 GB  Y 12 DE RAM ",
-      "category": "CELULARES",
-      "price": "1.599.000",
-      "description": "",
-      "image": "/images/samsung_s25_de_512_gb_y_12_de_ram.webp",
-      "images": [
-        "/images/samsung_s25_de_512_gb_y_12_de_ram.webp",
-        "/images/samsung_s25_de_512_gb_y_12_de_ram_1.webp",
-        "/images/samsung_s25_de_512_gb_y_12_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "SAMSUNG S25 DE 1TB Y 12 DE RAM ",
-      "category": "CELULARES",
-      "price": "1.899.000",
-      "description": "",
-      "image": "/images/samsung_s25_de_1tb_y_12_de_ram.webp",
-      "images": [
-        "/images/samsung_s25_de_1tb_y_12_de_ram.webp",
-        "/images/samsung_s25_de_1tb_y_12_de_ram_1.webp",
-        "/images/samsung_s25_de_1tb_y_12_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "XIAOMI A3X DE 128GB Y 4 DE RAM",
-      "category": "CELULARES",
-      "price": "189.990",
-      "description": "",
-      "image": "/images/xiaomi_a3x_de_128gb_y_4_de_ram.webp",
-      "images": [
-        "/images/xiaomi_a3x_de_128gb_y_4_de_ram.webp",
-        "/images/xiaomi_a3x_de_128gb_y_4_de_ram_1.webp",
-        "/images/xiaomi_a3x_de_128gb_y_4_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "XIAOMI A5 DE 128GB Y 4 DE RAM ",
-      "category": "CELULARES",
-      "price": "199.990",
-      "description": "",
-      "image": "/images/xiaomi_a5_de_128gb_y_4_de_ram.webp",
-      "images": [
-        "/images/xiaomi_a5_de_128gb_y_4_de_ram.webp",
-        "/images/xiaomi_a5_de_128gb_y_4_de_ram_1.webp",
-        "/images/xiaomi_a5_de_128gb_y_4_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "XIAOMI NOTE 13 PRO PLUS 5G DE 256GB Y 8 DE RAM",
-      "category": "CELULARES",
-      "price": "499.990",
-      "description": "",
-      "image": "/images/xiaomi_note_13_pro_plus_5g_de_256gb_y_8_de_ram.webp",
-      "images": [
-        "/images/xiaomi_note_13_pro_plus_5g_de_256gb_y_8_de_ram.webp",
-        "/images/xiaomi_note_13_pro_plus_5g_de_256gb_y_8_de_ram_1.webp",
-        "/images/xiaomi_note_13_pro_plus_5g_de_256gb_y_8_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "XIAOMI NOTE 14 DE 128GB Y 6 DE RAM ",
-      "category": "CELULARES",
-      "price": "299.990,00",
-      "description": "",
-      "image": "/images/xiaomi_note_14_de_128gb_y_6_de_ram.webp",
-      "images": [
-        "/images/xiaomi_note_14_de_128gb_y_6_de_ram.webp",
-        "/images/xiaomi_note_14_de_128gb_y_6_de_ram_1.webp",
-        "/images/xiaomi_note_14_de_128gb_y_6_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "XIAOMI NOTE 14 DE 256GB Y 8 DE RAM ",
-      "category": "CELULARES",
-      "price": "349.990",
-      "description": "",
-      "image": "/images/xiaomi_note_14_de_256gb_y_8_de_ram.webp",
-      "images": [
-        "/images/xiaomi_note_14_de_256gb_y_8_de_ram.webp",
-        "/images/xiaomi_note_14_de_256gb_y_8_de_ram_1.webp",
-        "/images/xiaomi_note_14_de_256gb_y_8_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "XIAOMI NOTE 14S DE 256GB Y 8 DE RAM ",
-      "category": "CELULARES",
-      "price": "389.990",
-      "description": "",
-      "image": "/images/xiaomi_note_14s_de_256gb_y_8_de_ram.webp",
-      "images": [
-        "/images/xiaomi_note_14s_de_256gb_y_8_de_ram.webp",
-        "/images/xiaomi_note_14s_de_256gb_y_8_de_ram_1.webp",
-        "/images/xiaomi_note_14s_de_256gb_y_8_de_ram_2.webp"
-      ]
-    },
-    
-
-    {
-      "name": "XIAOMI NOTE 14 PRO DE 256GB Y 8 DE RAM ",
-      "category": "CELULARES",
-      "price": "419.990",
-      "description": "",
-      "image": "/images/xiaomi_note_14_pro_de_256gb_y_8_de_ram.webp",
-      "images": [
-        "/images/xiaomi_note_14_pro_de_256gb_y_8_de_ram.webp",
-        "/images/xiaomi_note_14_pro_de_256gb_y_8_de_ram_1.webp",
-        "/images/xiaomi_note_14_pro_de_256gb_y_8_de_ram_2.webp"
-      ]
-    },
-
-    {
-      "name": "XIAOMI NOTE 14 PRO 5G DE 256GB Y 8 DE RAM ",
-      "category": "CELULARES",
-      "price": "480.000",
-      "description": "",
-      "image": "/images/xiaomi_note_14_pro_5g_de_256gb_y_8_de_ram.webp",
-      "images": [
-        "/images/xiaomi_note_14_pro_5g_de_256gb_y_8_de_ram.webp",
-        "/images/xiaomi_note_14_pro_5g_de_256gb_y_8_de_ram_1.webp",
-        "/images/xiaomi_note_14_pro_5g_de_256gb_y_8_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "XIAOMI NOTE 14 PRO PLUS 5G DE 256GB Y 8 DE RAM ",
-      "category": "CELULARES",
-      "price": "549.990",
-      "description": "",
-      "image": "/images/xiaomi_note_14_pro_plus_5g_de_256gb_y_8_de_ram.webp",
-      "images": [
-        "/images/xiaomi_note_14_pro_plus_5g_de_256gb_y_8_de_ram.webp",
-        "/images/xiaomi_note_14_pro_plus_5g_de_256gb_y_8_de_ram_1.webp",
-        "/images/xiaomi_note_14_pro_plus_5g_de_256gb_y_8_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "XIAOMI NOTE 14 PRO PLUS 5G DE 256GB Y 12 DE RAM ",
-      "category": "CELULARES",
-      "price": "650.000",
-      "description": "",
-      "image": "/images/xiaomi_note_14_pro_plus_5g_de_256gb_y_12_de_ram.webp",
-      "images": [
-        "/images/xiaomi_note_14_pro_plus_5g_de_256gb_y_12_de_ram.webp",
-        "/images/xiaomi_note_14_pro_plus_5g_de_256gb_y_12_de_ram_1.webp",
-        "/images/xiaomi_note_14_pro_plus_5g_de_256gb_y_12_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "XIAOMI POCO C71 DE 128GB Y 4 DE RAM ",
-      "category": "CELULARES",
-      "price": "199.990",
-      "description": "",
-      "image": "/images/xiaomi_poco_c71_de_128gb_y_4_de_ram.webp",
-      "images": [
-        "/images/xiaomi_poco_c71_de_128gb_y_4_de_ram.webp",
-        "/images/xiaomi_poco_c71_de_128gb_y_4_de_ram_1.webp",
-        "/images/xiaomi_poco_c71_de_128gb_y_4_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "XIAOMI POCO C75 DE 128GB Y 6 DE RAM ",
-      "category": "CELULARES",
-      "price": "249.990",
-      "description": "",
-      "image": "/images/xiaomi_poco_c75_de_128gb_y_6_de_ram.webp",
-      "images": [
-        "/images/xiaomi_poco_c75_de_128gb_y_6_de_ram.webp",
-        "/images/xiaomi_poco_c75_de_128gb_y_6_de_ram_1.webp",
-        "/images/xiaomi_poco_c75_de_128gb_y_6_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "XIAOMI POCO C75 DE 256GB Y 8 DE RAM",
-      "category": "CELULARES",
-      "price": "270.000",
-      "description": "",
-      "image": "/images/xiaomi_poco_c75_de_256gb_y_8_de_ram.webp",
-      "images": [
-        "/images/xiaomi_poco_c75_de_256gb_y_8_de_ram.webp",
-        "/images/xiaomi_poco_c75_de_256gb_y_8_de_ram_1.webp",
-        "/images/xiaomi_poco_c75_de_256gb_y_8_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "XIAOMI POCO M7 PRO 5G DE 256GB Y 8 DE RAM ",
-      "category": "CELULARES",
-      "price": "349.990",
-      "description": "",
-      "image": "/images/xiaomi_poco_m7_pro_5g_de_256gb_y_8_de_ram.webp",
-      "images": [
-        "/images/xiaomi_poco_m7_pro_5g_de_256gb_y_8_de_ram.webp",
-        "/images/xiaomi_poco_m7_pro_5g_de_256gb_y_8_de_ram_1.webp",
-        "/images/xiaomi_poco_m7_pro_5g_de_256gb_y_8_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "XIAOMI POCO M7 PRO 5G DE 256GB Y 12 DE RAM",
-      "category": "CELULARES",
-      "price": "399.990",
-      "description": "",
-      "image": "/images/xiaomi_poco_m7_pro_5g_de_256gb_y_12_de_ram.webp",
-      "images": [
-        "/images/xiaomi_poco_m7_pro_5g_de_256gb_y_12_de_ram.webp",
-        "/images/xiaomi_poco_m7_pro_5g_de_256gb_y_12_de_ram_1.webp",
-        "/images/xiaomi_poco_m7_pro_5g_de_256gb_y_12_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "XIAOMI POCO X6 PRO 5G  DE 512GB Y 12 DE RAM ",
-      "category": "CELULARES",
-      "price": "499.990",
-      "description": "",
-      "image": "/images/xiaomi_poco_x6_pro_5g_de_512gb_y_12_de_ram.webp",
-      "images": [
-        "/images/xiaomi_poco_x6_pro_5g_de_512gb_y_12_de_ram.webp",
-        "/images/xiaomi_poco_x6_pro_5g_de_512gb_y_12_de_ram_1.webp",
-        "/images/xiaomi_poco_x6_pro_5g_de_512gb_y_12_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "XIAOMI POCO X7 5G DE 512GB Y 12 DE RAM ",
-      "category": "CELULARES",
-      "price": "480.000",
-      "description": "",
-      "image": "/images/xiaomi_poco_x7_5g_de_512gb_y_12_de_ram.webp",
-      "images": [
-        "/images/xiaomi_poco_x7_5g_de_512gb_y_12_de_ram.webp",
-        "/images/xiaomi_poco_x7_5g_de_512gb_y_12_de_ram_1.webp",
-        "/images/xiaomi_poco_x7_5g_de_512gb_y_12_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "XIAOMI POCO X7 PRO 5G DE 512GB Y 12 DE RAM",
-      "category": "CELULARES",
-      "price": "599.990",
-      "description": "",
-      "image": "/images/xiaomi_poco_x7_pro_5g_de_512gb_y_12_de_ram.webp",
-      "images": [
-        "/images/xiaomi_poco_x7_pro_5g_de_512gb_y_12_de_ram.webp",
-        "/images/xiaomi_poco_x7_pro_5g_de_512gb_y_12_de_ram_1.webp",
-        "/images/xiaomi_poco_x7_pro_5g_de_512gb_y_12_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "XIAOMI POCO F6 5G DE 256GB Y 8 DE RAM",
-      "category": "CELULARES",
-      "price": "520.000",
-      "description": "",
-      "image": "/images/xiaomi_poco_f6_5g_de_256gb_y_8_de_ram.webp",
-      "images": [
-        "/images/xiaomi_poco_f6_5g_de_256gb_y_8_de_ram.webp",
-        "/images/xiaomi_poco_f6_5g_de_256gb_y_8_de_ram_1.webp",
-        "/images/xiaomi_poco_f6_5g_de_256gb_y_8_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "XIAOMI POCO F6 PRO 5G DE 256GB Y 12 DE RAM ",
-      "category": "CELULARES",
-      "price": "599.990",
-      "description": "",
-      "image": "/images/xiaomi_poco_f6_pro_5g_de_256gb_y_12_de_ram.webp",
-      "images": [
-        "/images/xiaomi_poco_f6_pro_5g_de_256gb_y_12_de_ram.webp",
-        "/images/xiaomi_poco_f6_pro_5g_de_256gb_y_12_de_ram_1.webp",
-        "/images/xiaomi_poco_f6_pro_5g_de_256gb_y_12_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "SAMSUNG A05 DE 64GB Y 4 DE RAM ",
-      "category": "CELULARES",
-      "price": "159.990",
-      "description": "",
-      "image": "/images/samsung_a05_de_64gb_y_4_de_ram.webp",
-      "images": [
-        "/images/samsung_a05_de_64gb_y_4_de_ram.webp",
-        "/images/samsung_a05_de_64gb_y_4_de_ram_1.webp",
-        "/images/samsung_a05_de_64gb_y_4_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "SAMSUNG A16 DE 128GB Y 6 DE RAM ",
-      "category": "CELULARES",
-      "price": "299.990",
-      "description": "",
-      "image": "/images/samsung_a16_de_128gb_y_6_de_ram.webp",
-      "images": [
-        "/images/samsung_a16_de_128gb_y_6_de_ram.webp",
-        "/images/samsung_a16_de_128gb_y_6_de_ram_1.webp",
-        "/images/samsung_a16_de_128gb_y_6_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "SAMSUNG A16 5G DE 128GB Y 6 DE RAM ",
-      "category": "CELULARES",
-      "price": "349.990",
-      "description": "",
-      "image": "/images/samsung_a16_5g_de_128gb_y_6_de_ram.webp",
-      "images": [
-        "/images/samsung_a16_5g_de_128gb_y_6_de_ram.webp",
-        "/images/samsung_a16_5g_de_128gb_y_6_de_ram_1.webp",
-        "/images/samsung_a16_5g_de_128gb_y_6_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "SAMSUNG A16 5G DE 256GB Y 8 DE RAM ",
-      "category": "CELULARES",
-      "price": "399.990",
-      "description": "",
-      "image": "/images/samsung_a16_5g_de_256gb_y_8_de_ram.webp",
-      "images": [
-        "/images/samsung_a16_5g_de_256gb_y_8_de_ram.webp",
-        "/images/samsung_a16_5g_de_256gb_y_8_de_ram_1.webp",
-        "/images/samsung_a16_5g_de_256gb_y_8_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "SAMSUNG A35 5G DE 128GB Y 6 DE RAM ",
-      "category": "CELULARES",
-      "price": "459.990",
-      "description": "",
-      "image": "/images/samsung_a35_5g_de_128gb_y_6_de_ram.webp",
-      "images": [
-        "/images/samsung_a35_5g_de_128gb_y_6_de_ram.webp",
-        "/images/samsung_a35_5g_de_128gb_y_6_de_ram_1.webp",
-        "/images/samsung_a35_5g_de_128gb_y_6_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "SAMSUNG A35 5G DE 256GB Y 8 DE RAM ",
-      "category": "CELULARES",
-      "price": "499.990",
-      "description": "",
-      "image": "/images/samsung_a35_5g_de_256gb_y_8_de_ram.webp",
-      "images": [
-        "/images/samsung_a35_5g_de_256gb_y_8_de_ram.webp",
-        "/images/samsung_a35_5g_de_256gb_y_8_de_ram_1.webp",
-        "/images/samsung_a35_5g_de_256gb_y_8_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "SAMSUNG S21FE 5G DE 128GB Y 8 DE RAM ",
-      "category": "CELULARES",
-      "price": "549.990",
-      "description": "",
-      "image": "/images/samsung_s21fe_5g_de_128gb_y_8_de_ram.webp",
-      "images": [
-        "/images/samsung_s21fe_5g_de_128gb_y_8_de_ram.webp",
-        "/images/samsung_s21fe_5g_de_128gb_y_8_de_ram_1.webp",
-        "/images/samsung_s21fe_5g_de_128gb_y_8_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "SAMSUNG S24 PLUS 5G DE 256GB Y 12 DE RAM ",
-      "category": "CELULARES",
-      "price": "1.150.000",
-      "description": "",
-      "image": "/images/samsung_s24_plus_5g_de_256gb_y_12_de_ram.webp",
-      "images": [
-        "/images/samsung_s24_plus_5g_de_256gb_y_12_de_ram.webp",
-        "/images/samsung_s24_plus_5g_de_256gb_y_12_de_ram_1.webp",
-        "/images/samsung_s24_plus_5g_de_256gb_y_12_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "SAMSUNG S24 PLUS 5G DE 512GB Y 12 DE RAM ",
-      "category": "CELULARES",
-      "price": "1.299.990",
-      "description": "",
-      "image": "/images/samsung_s24_plus_5g_de_512gb_y_12_de_ram.webp",
-      "images": [
-        "/images/samsung_s24_plus_5g_de_512gb_y_12_de_ram.webp",
-        "/images/samsung_s24_plus_5g_de_512gb_y_12_de_ram_1.webp",
-        "/images/samsung_s24_plus_5g_de_512gb_y_12_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "SAMSUNG Z FLIP 6 5G DE 256GB Y 12 DE RAM ",
-      "category": "CELULARES",
-      "price": "1.390.000",
-      "description": "",
-      "image": "/images/samsung_z_flip_6_5g_de_256gb_y_12_de_ram.webp",
-      "images": [
-        "/images/samsung_z_flip_6_5g_de_256gb_y_12_de_ram.webp",
-        "/images/samsung_z_flip_6_5g_de_256gb_y_12_de_ram_1.webp",
-        "/images/samsung_z_flip_6_5g_de_256gb_y_12_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "SAMSUNG 2 FLIP 6 5G DE 512GB Y 12 DE RAM ",
-      "category": "CELULARES",
-      "price": "1.499.000",
-      "description": "",
-      "image": "/images/samsung_2_flip_6_5g_de_512gb_y_12_de_ram.webp",
-      "images": [
-        "/images/samsung_2_flip_6_5g_de_512gb_y_12_de_ram.webp",
-        "/images/samsung_2_flip_6_5g_de_512gb_y_12_de_ram_1.webp",
-        "/images/samsung_2_flip_6_5g_de_512gb_y_12_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "SAMSUNG FOLD 5 5G DE 512GB Y 12 DE RAM ",
-      "category": "CELULARES",
-      "price": "1.950.000",
-      "description": "",
-      "image": "/images/samsung_fold_5_5g_de_512gb_y_12_de_ram.webp",
-      "images": [
-        "/images/samsung_fold_5_5g_de_512gb_y_12_de_ram.webp",
-        "/images/samsung_fold_5_5g_de_512gb_y_12_de_ram_1.webp",
-        "/images/samsung_fold_5_5g_de_512gb_y_12_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "SAMSUNG FOLD 6 5G DE 256GB Y 12 DE RAM ",
-      "category": "CELULARES",
-      "price": "2.050.000",
-      "description": "",
-      "image": "/images/samsung_fold_6_5g_de_256gb_y_12_de_ram.webp",
-      "images": [
-        "/images/samsung_fold_6_5g_de_256gb_y_12_de_ram.webp",
-        "/images/samsung_fold_6_5g_de_256gb_y_12_de_ram_1.webp",
-        "/images/samsung_fold_6_5g_de_256gb_y_12_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "SAMSUNG FOLD 6 5G DE 512GB Y 12 DE RAM ",
-      "category": "CELULARES",
-      "price": "2.100.000",
-      "description": "",
-      "image": "/images/samsung_fold_6_5g_de_512gb_y_12_de_ram.webp",
-      "images": [
-        "/images/samsung_fold_6_5g_de_512gb_y_12_de_ram.webp",
-        "/images/samsung_fold_6_5g_de_512gb_y_12_de_ram_1.webp",
-        "/images/samsung_fold_6_5g_de_512gb_y_12_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "MOTOROLA GO4 DE 64GB Y 4 DE RAM ",
-      "category": "CELULARES",
-      "price": "169.990",
-      "description": "",
-      "image": "/images/motorola_go4_de_64gb_y_4_de_ram.webp",
-      "images": [
-        "/images/motorola_go4_de_64gb_y_4_de_ram.webp",
-        "/images/motorola_go4_de_64gb_y_4_de_ram_1.webp",
-        "/images/motorola_go4_de_64gb_y_4_de_ram_2.webp"
-      ]
-    },
-
-    {
-      "name": "MOTOROLA GO5 DE 128GB Y 4 DE RAM ",
-      "category": "CELULARES",
-      "price": "220.000",
-      "description": "",
-      "image": "/images/motorola_go5_de_128gb_y_4_de_ram.webp",
-      "images": [
-        "/images/motorola_go5_de_128gb_y_4_de_ram.webp",
-        "/images/motorola_go5_de_128gb_y_4_de_ram_1.webp",
-        "/images/motorola_go5_de_128gb_y_4_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "MOTOROLA G14 DE 128GB Y 4 DE RAM ",
-      "category": "CELULARES",
-      "price": "229.990",
-      "description": "",
-      "image": "/images/motorola_g14_de_128gb_y_4_de_ram.webp",
-      "images": [
-        "/images/motorola_g14_de_128gb_y_4_de_ram.webp",
-        "/images/motorola_g14_de_128gb_y_4_de_ram_1.webp",
-        "/images/motorola_g14_de_128gb_y_4_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "MOTOROLA G24 DE 256GB Y 4 DE RAM ",
-      "category": "CELULARES",
-      "price": "259.990",
-      "description": "",
-      "image": "/images/motorola_G24_de_256gb_y_4_de_ram.webp",
-      "images": [
-        "/images/motorola_24_de_256gb_y_4_de_ram.webp",
-        "/images/motorola_G24_de_256gb_y_4_de_ram_1.webp",
-        "/images/motorola_G24_de_256gb_y_4_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "MOTOROLA G35 5G DE 256GB Y 8 DE RAM ",
-      "category": "CELULARES",
-      "price": "320.000",
-      "description": "",
-      "image": "/images/motorola_g35_5g_de_256gb_y_8_de_ram.webp",
-      "images": [
-        "/images/motorola_g35_5g_de_256gb_y_8_de_ram.webp",
-        "/images/motorola_g35_5g_de_256gb_y_8_de_ram_1.webp",
-        "/images/motorola_g35_5g_de_256gb_y_8_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "MOTOROLA G54 5G DE 128GB Y 4 DE RAM ",
-      "category": "CELULARES",
-      "price": "299.990",
-      "description": "",
-      "image": "/images/motorola_g54_5g_de_128gb_y_4_de_ram.webp",
-      "images": [
-        "/images/motorola_g54_5g_de_128gb_y_4_de_ram.webp",
-        "/images/motorola_g54_5g_de_128gb_y_4_de_ram_1.webp",
-        "/images/motorola_g54_5g_de_128gb_y_4_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "MOTOROLA G54 POWER 5G DE 256GB Y 8 DE RAM ",
-      "category": "CELULARES",
-      "price": "350.000",
-      "description": "",
-      "image": "/images/motorola_g54_power_5g_de_256gb_y_8_de_ram.webp",
-      "images": [
-        "/images/motorola_g54_power_5g_de_256gb_y_8_de_ram.webp",
-        "/images/motorola_g54_power_5g_de_256gb_y_8_de_ram_1.webp",
-        "/images/motorola_g54_power_5g_de_256gb_y_8_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "MOTOROLA G55 5G DE 256GB Y 8 DE RAM ",
-      "category": "CELULARES",
-      "price": "350.000",
-      "description": "",
-      "image": "/images/motorola_g55_5g_de_256gb_y_8_de_ram.webp",
-      "images": [
-        "/images/motorola_g55_5g_de_256gb_y_8_de_ram.webp",
-        "/images/motorola_g55_5g_de_256gb_y_8_de_ram_1.webp",
-        "/images/motorola_g55_5g_de_256gb_y_8_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "MOTOROLA G84 5G DE 256GB Y 8 DE RAM ",
-      "category": "CELULARES",
-      "price": "399.990",
-      "description": "",
-      "image": "/images/motorola_g84_5g_de_256gb_y_8_de_ram.webp",
-      "images": [
-        "/images/motorola_g84_5g_de_256gb_y_8_de_ram.webp",
-        "/images/motorola_g84_5g_de_256gb_y_8_de_ram_1.webp",
-        "/images/motorola_g84_5g_de_256gb_y_8_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "MOTOROLA G84 5G DE 256GB Y12 DE RAM ",
-      "category": "CELULARES",
-      "price": "450.000",
-      "description": "",
-      "image": "/images/motorola_g84_5g_de_256gb_y12_de_ram.webp",
-      "images": [
-        "/images/motorola_g84_5g_de_256gb_y12_de_ram.webp",
-        "/images/motorola_g84_5g_de_256gb_y12_de_ram_1.webp",
-        "/images/motorola_g84_5g_de_256gb_y12_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "MOTOROLA EDGE 40 NEO 5G DE 256GB Y 8 DE RAM",
-      "category": "CELULARES",
-      "price": "450.000",
-      "description": "",
-      "image": "/images/motorola_edge_40_neo_5g_de_256gb_y_8_de_ram.webp",
-      "images": [
-        "/images/motorola_edge_40_neo_5g_de_256gb_y_8_de_ram.webp",
-        "/images/motorola_edge_40_neo_5g_de_256gb_y_8_de_ram_1.webp",
-        "/images/motorola_edge_40_neo_5g_de_256gb_y_8_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "MOTOROLA EDGE 40 5G DE 256GB Y DE 8 DE RAM ",
-      "category": "CELULARES",
-      "price": "450.000",
-      "description": "",
-      "image": "/images/motorola_edge_40_5g_de_256gb_y_de_8_de_ram.webp",
-      "images": [
-        "/images/motorola_edge_40_5g_de_256gb_y_de_8_de_ram.webp",
-        "/images/motorola_edge_40_5g_de_256gb_y_de_8_de_ram_1.webp",
-        "/images/motorola_edge_40_5g_de_256gb_y_de_8_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "MOTOROLA EDGE 40 PRO 5G DE 256GB Y 12 DE RAM ",
-      "category": "CELULARES",
-      "price": "599.990",
-      "description": "",
-      "image": "/images/motorola_edge_40_pro_5g_de_256gb_y_12_de_ram.webp",
-      "images": [
-        "/images/motorola_edge_40_pro_5g_de_256gb_y_12_de_ram.webp",
-        "/images/motorola_edge_40_pro_5g_de_256gb_y_12_de_ram_1.webp",
-        "/images/motorola_edge_40_pro_5g_de_256gb_y_12_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "MOTOROLA EDGE 50 NEO 5G DE 256GB Y 8 DE RAM ",
-      "category": "CELULARES",
-      "price": "499.990",
-      "description": "",
-      "image": "/images/motorola_edge_50_neo_5g_de_256gb_y_8_de_ram.webp",
-      "images": [
-        "/images/motorola_edge_50_neo_5g_de_256gb_y_8_de_ram.webp",
-        "/images/motorola_edge_50_neo_5g_de_256gb_y_8_de_ram_1.webp",
-        "/images/motorola_edge_50_neo_5g_de_256gb_y_8_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "MOTOROLA EDGE 50 FUSION 5G DE 256GB Y 8 DE RAM ",
-      "category": "CELULARES",
-      "price": "499.990",
-      "description": "",
-      "image": "/images/motorola_edge_50_fusion_5g_de_256gb_y_8_de_ram.webp",
-      "images": [
-        "/images/motorola_edge_50_fusion_5g_de_256gb_y_8_de_ram.webp",
-        "/images/motorola_edge_50_fusion_5g_de_256gb_y_8_de_ram_1.webp",
-        "/images/motorola_edge_50_fusion_5g_de_256gb_y_8_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "MOTOROLA EDGE 50 FUSION 5G DE 512GB Y 12 DE RAM",
-      "category": "CELULARES",
-      "price": "550.000",
-      "description": "",
-      "image": "/images/motorola_edge_50_fusion_5g_de_512gb_y_12_de_ram.webp",
-      "images": [
-        "/images/motorola_edge_50_fusion_5g_de_512gb_y_12_de_ram.webp",
-        "/images/motorola_edge_50_fusion_5g_de_512gb_y_12_de_ram_1.webp",
-        "/images/motorola_edge_50_fusion_5g_de_512gb_y_12_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "MOTOROLA EDGE 50 5G DE 256GB Y 12 DE RAM ",
-      "category": "CELULARES",
-      "price": "599.990",
-      "description": "",
-      "image": "/images/motorola_edge_50_5g_de_256gb_y_12_de_ram.webp",
-      "images": [
-        "/images/motorola_edge_50_5g_de_256gb_y_12_de_ram.webp",
-        "/images/motorola_edge_50_5g_de_256gb_y_12_de_ram_1.webp",
-        "/images/motorola_edge_50_5g_de_256gb_y_12_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "MOTOROLA EDGE 50 5G DE 512 GB Y 12 DE RAM ",
-      "category": "CELULARES",
-      "price": "630.000",
-      "description": "",
-      "image": "/images/motorola_edge_50_5g_de_512_gb_y_12_de_ram.webp",
-      "images": [
-        "/images/motorola_edge_50_5g_de_512_gb_y_12_de_ram.webp",
-        "/images/motorola_edge_50_5g_de_512_gb_y_12_de_ram_1.webp",
-        "/images/motorola_edge_50_5g_de_512_gb_y_12_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "MOTOROLA EDGE 50 PRO 5G DE 512GB Y 12 DE RAM ",
-      "category": "CELULARES",
-      "price": "750.000",
-      "description": "",
-      "image": "/images/motorola_edge_50_pro_5g_de_512gb_y_12_de_ram.webp",
-      "images": [
-        "/images/motorola_edge_50_pro_5g_de_512gb_y_12_de_ram.webp",
-        "/images/motorola_edge_50_pro_5g_de_512gb_y_12_de_ram_1.webp",
-        "/images/motorola_edge_50_pro_5g_de_512gb_y_12_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "MOTOROLA EDGE 50 ULTRA 5G DE 1TB Y 12 DE RAM ",
-      "category": "CELULARES",
-      "price": "1.200.000",
-      "description": "",
-      "image": "/images/motorola_edge_50_ultra_5g_de_1tb_y_12_de_ram.webp",
-      "images": [
-        "/images/motorola_edge_50_ultra_5g_de_1tb_y_12_de_ram.webp",
-        "/images/motorola_edge_50_ultra_5g_de_1tb_y_12_de_ram_1.webp",
-        "/images/motorola_edge_50_ultra_5g_de_1tb_y_12_de_ram_2.webp"
-      ]
-    },
-    {
-      "name": "MOTOROLA RAZR ULTRA 5G DE 512GB Y 12 DE RAM ",
-      "category": "CELULARES",
-      "price": "1.300.000",
-      "description": "",
-      "image": "/images/motorola_razr_ultra_5g_de_512gb_y_12_de_ram.webp",
-      "images": [
-        "/images/motorola_razr_ultra_5g_de_512gb_y_12_de_ram.webp",
-        "/images/motorola_razr_ultra_5g_de_512gb_y_12_de_ram_1.webp",
-        "/images/motorola_razr_ultra_5g_de_512gb_y_12_de_ram_2.webp"
-      ]
-    }
-  ]
+    }  ]
 }
