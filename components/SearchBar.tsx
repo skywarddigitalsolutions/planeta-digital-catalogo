@@ -1,37 +1,53 @@
 "use client"
-import type React from "react"
-import { useState, useEffect } from "react"
-import { Search } from "lucide-react" // Importa el icono de búsqueda de Lucide React
+
+import React, { useState, useEffect } from "react"
+import { Search, X } from "lucide-react" // Iconos de búsqueda y limpiar
 
 interface SearchBarProps {
   onSearch: (term: string) => void
-  initialSearchTerm?: string // <--- ¡Añadimos esta prop!
+  initialSearchTerm?: string
 }
 
 export const SearchBar: React.FC<SearchBarProps> = ({ onSearch, initialSearchTerm = "" }) => {
-  const [term, setTerm] = useState(initialSearchTerm) // <--- Inicializamos el estado con la prop
+  const [term, setTerm] = useState(initialSearchTerm)
 
-  // Usamos useEffect para sincronizar el estado interno si initialSearchTerm cambia desde el padre
+  // Sincronizar si cambia initialSearchTerm desde el padre
   useEffect(() => {
     setTerm(initialSearchTerm)
   }, [initialSearchTerm])
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    setTerm(e.target.value)
-    onSearch(e.target.value) // Mantenemos tu lógica de búsqueda en cada cambio
+    const value = e.target.value
+    setTerm(value)
+    onSearch(value)
+  }
+
+  const handleClear = () => {
+    setTerm("")
+    onSearch("")
   }
 
   return (
-    <div className="px-4 py-2 mt-3 border-b border-gray-200 flex items-center">
-      <Search size={18} className="text-gray-500 mr-2" /> {/* Icono de búsqueda */}
+    <div className="relative px-4 py-2 mt-3 border-b border-gray-200">
+      {/* Icono de búsqueda */}
+      <Search size={18} className="absolute left-1 top-1/2 transform -translate-y-1/2 text-gray-500" />
       <input
-        type="search"
+        type="text"
         placeholder="Buscar productos"
         value={term}
         onChange={handleChange}
-        className="w-full border-none focus:ring-0 text-sm text-gray-700 placeholder-gray-400"
+        className="w-full pl-5 pr-5 bg-transparent border-none appearance-none focus:outline-none focus:ring-0 text-sm text-gray-700 placeholder-gray-400"
         aria-label="Buscar productos"
       />
+      {term && (
+        <button
+          onClick={handleClear}
+          aria-label="Limpiar búsqueda"
+          className="absolute right-4 top-1/2 transform -translate-y-1/2 focus:outline-none"
+        >
+          <X size={18} className="text-gray-500 hover:text-gray-700" />
+        </button>
+      )}
     </div>
   )
 }

@@ -79,7 +79,7 @@ export const FilterBar: React.FC<FilterBarProps> = ({ categories, onFilterChange
         {/* Botón flotante */}
         <button
           onClick={() => setPanelOpen(true)}
-          className={`fixed bottom-6 left-6 z-40 p-3 rounded-full shadow-lg text-white focus:outline-none transition-colors ${
+          className={`fixed bottom-20 left-6 z-40 p-3 rounded-full shadow-lg text-white focus:outline-none transition-colors ${
             hasFilters ? 'bg-red-600' : 'bg-gray-800'
           }`}
           aria-label="Abrir filtros"
