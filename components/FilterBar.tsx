@@ -157,7 +157,7 @@ export const FilterBar: React.FC<FilterBarProps> = ({ categories, onFilterChange
                   else router.push(`/categoria/${slugify(category)}`)
                 }}
                 className={`w-full text-left px-3 py-2 rounded-md text-sm font-medium transition ${
-                  category === cat ? 'bg-gray-800 text-white' : 'bg-gray-50 text-gray-700 hover:bg-gray-100'
+                  category === cat ? 'bg-gray-800 text-white' : 'bg-gray-50 text-gray-700 hover:bg-gray-200 hover:cursor-pointer'
                 }`}
               >
                 {category}
