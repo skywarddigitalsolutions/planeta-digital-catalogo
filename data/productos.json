@@ -1,5 +1,5 @@
 {
-  "total": 587,
+  "total": 601,
   "products": [
     {
       "name": "IPHONE 11 DE 64GB",
@@ -6797,5 +6797,174 @@
         "/images/multimetro_digital_1.webp",
         "/images/multimetro_digital_2.webp"
       ]
-    }  ]
+    },
+    {
+      "name": "LAVARROPA DREAN 7 KG",
+      "category": "HOGAR",
+      "price": "$399.990",
+      "description": "7KG DE CAPACIDAD, UNICO CON SISTEMA DE LAVADO EUROPEO, TAMBOR DE ACERO INOXIDABLE , 35% DE AHORRO DE ENERGIA Y 70% AHORRO DE AGUA.",
+      "image": "/images/lavarropa_drean_7_kg.webp",
+      "images": [
+        "/images/lavarropa_drean_7_kg.webp",
+        "/images/lavarropa_drean_7_kg_1.webp",
+        "/images/lavarropa_drean_7_kg_2.webp"
+      ]
+    },
+    {
+      "name": "LAVARROPA DREAN 6 KG",
+      "category": "HOGAR",
+      "price": "$799.990",
+      "description": "A+ MAXICA EFICANCIA, 30´ EL MEJOR LAVADO EN TIEMPO RECORD, ELIMINA EL 99,9% DE BACTERIAS, AQUA SENSE Y AUTOBALANCE , 6KG DE LAVADO.",
+      "image": "/images/lavarropa_drean_6_kg.webp",
+      "images": [
+        "/images/lavarropa_drean_6_kg.webp",
+        "/images/lavarropa_drean_6_kg_1.webp",
+        "/images/lavarropa_drean_6_kg_2.webp"
+      ]
+    },
+    {
+      "name": "LAVARROPA PHILCO SILVER",
+      "category": "HOGAR",
+      "price": "$750.000",
+      "description": "6.5KG DE LAVADO ",
+      "image": "/images/lavarropa_philco_silver.webp",
+      "images": [
+        "/images/lavarropa_philco_silver.webp",
+        "/images/lavarropa_philco_silver_1.webp",
+        "/images/lavarropa_philco_silver_2.webp"
+      ]
+    },
+    {
+      "name": "LAVARROPA PHILCO 6.5 KG",
+      "category": "HOGAR",
+      "price": "$750.000",
+      "description": "CARGA FLONTAL, 6.5KG DE LAVADO.",
+      "image": "/images/lavarropa_philco_65_kg.webp",
+      "images": [
+        "/images/lavarropa_philco_65_kg.webp",
+        "/images/lavarropa_philco_65_kg_1.webp",
+        "/images/lavarropa_philco_65_kg_2.webp"
+      ]
+    },
+    {
+      "name": "LAVARROPA PHILCO 8 KG",
+      "category": "HOGAR",
+      "price": "$870.000",
+      "description": " CARGA FRONTAL DE  8GK INVERTER 1400RPM",
+      "image": "/images/lavarropa_philco_8_kg.webp",
+      "images": [
+        "/images/lavarropa_philco_8_kg.webp",
+        "/images/lavarropa_philco_8_kg_1.webp",
+        "/images/lavarropa_philco_8_kg_2.webp"
+      ]
+    },
+    {
+      "name": "SECARROPA CODINI ",
+      "category": "HOGAR",
+      "price": "$250.000",
+      "description": "6,5K.",
+      "image": "/images/secarropa_codini.webp",
+      "images": [
+        "/images/secarropa_codini.webp",
+        "/images/secarropa_codini_1.webp",
+        "/images/secarropa_codini_2.webp"
+      ]
+    },
+    {
+      "name": "LAVARROPA SEMIAUTOMATICO CODINI ",
+      "category": "HOGAR",
+      "price": "$250.000",
+      "description": "10K.",
+      "image": "/images/lavarropa_semiautomatico_codini.webp",
+      "images": [
+        "/images/lavarropa_semiautomatico_codini.webp",
+        "/images/lavarropa_semiautomatico_codini_1.webp",
+        "/images/lavarropa_semiautomatico_codini_2.webp"
+      ]
+    },
+    {
+      "name": "COCINA COCINEX ",
+      "category": "HOGAR",
+      "price": "$399.990",
+      "description": "4 hornallas con robinete, metal reforzado, puerta de vidrio templado.Alto 86cm, ancho 50,5cm , profundidad 45cm,GAS ENVASADO!",
+      "image": "/images/cocina_cocinex.webp",
+      "images": [
+        "/images/cocina_cocinex.webp",
+        "/images/cocina_cocinex_1.webp",
+        "/images/cocina_cocinex_2.webp"
+      ]
+    },
+    {
+      "name": "COCINA CALABRIA ",
+      "category": "HOGAR",
+      "price": "$359.990",
+      "description": "",
+      "image": "/images/cocina_calabria.webp",
+      "images": [
+        "/images/cocina_calabria.webp",
+        "/images/cocina_calabria_1.webp",
+        "/images/cocina_calabria_2.webp"
+      ]
+    },
+    {
+      "name": "COCINA MORELLI KUMA 510",
+      "category": "HOGAR",
+      "price": "$499.990",
+      "description": "GAS NATURAL Y ACERO INOXIDABLE.",
+      "image": "/images/cocina_morelli_kuma_510.webp",
+      "images": [
+        "/images/cocina_morelli_kuma_510.webp",
+        "/images/cocina_morelli_kuma_510_1.webp",
+        "/images/cocina_morelli_kuma_510_2.webp"
+      ]
+    },
+    {
+      "name": "HELADERA LACAR 216 LITROS ",
+      "category": "HOGAR",
+      "price": "$599.990",
+      "description": "",
+      "image": "/images/heladera_lacar_216_litros.webp",
+      "images": [
+        "/images/heladera_lacar_216_litros.webp",
+        "/images/heladera_lacar_216_litros_1.webp",
+        "/images/heladera_lacar_216_litros_2.webp"
+      ]
+    },
+    {
+      "name": "HELADERA LACAR 280 LITROS ",
+      "category": "HOGAR",
+      "price": "$749.990",
+      "description": "",
+      "image": "/images/heladera_lacar_280_litros.webp",
+      "images": [
+        "/images/heladera_lacar_280_litros.webp",
+        "/images/heladera_lacar_280_litros_1.webp",
+        "/images/heladera_lacar_280_litros_2.webp"
+      ]
+    },
+    {
+      "name": "HELADERA SIAM 340 LITROS",
+      "category": "HOGAR",
+      "price": "$799.990",
+      "description": "",
+      "image": "/images/heladera_siam_340_litros.webp",
+      "images": [
+        "/images/heladera_siam_340_litros.webp",
+        "/images/heladera_siam_340_litros_1.webp",
+        "/images/heladera_siam_340_litros_2.webp"
+      ]
+    },
+    {
+      "name": "HELADERA PHILCO 200 LITROS",
+      "category": "HOGAR",
+      "price": "$630.000",
+      "description": "",
+      "image": "/images/heladera_philco_200_litros.webp",
+      "images": [
+        "/images/heladera_philco_200_litros.webp",
+        "/images/heladera_philco_200_litros_1.webp",
+        "/images/heladera_philco_200_litros_2.webp"
+      ]
+    }
+  ]
 }
