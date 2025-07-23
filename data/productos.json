@@ -2,231 +2,6 @@
   "total": 601,
   "products": [
     {
-      "name": "IPHONE 11 DE 64GB",
-      "category": "CELULARES",
-      "price": "399.900,00",
-      "description": "",
-      "image": "/images/iphone_11.webp",
-      "images": [
-        "/images/iphone_11.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 11 DE 128GB",
-      "category": "CELULARES",
-      "price": "439.900,00",
-      "description": "",
-      "image": "/images/iphone_11.webp",
-      "images": [
-        "/images/iphone_11.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 12 DE 64GB",
-      "category": "CELULARES",
-      "price": "470.000,00",
-      "description": "",
-      "image": "/images/iphone_12.webp",
-      "images": [
-        "/images/iphone_12.webp",
-        "/images/iphone_12_1.webp",
-        "/images/iphone_12_2.webp",
-        "/images/iphone_12_3.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 12 DE 128GB",
-      "category": "CELULARES",
-      "price": "499.990",
-      "description": "",
-      "image": "/images/iphone_12_de_128gb.webp",
-      "images": [
-        "/images/iphone_12_de_128gb.webp",
-        "/images/iphone_12_de_128gb_1.webp",
-        "/images/iphone_12_de_128gb_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 13 DE 128GB",
-      "category": "CELULARES",
-      "price": "649.990",
-      "description": "",
-      "image": "/images/iphone_13_de_128gb.webp",
-      "images": [
-        "/images/iphone_13_de_128gb.webp",
-        "/images/iphone_13_de_128gb_1.webp",
-        "/images/iphone_13_de_128gb_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 14 DE 128GB",
-      "category": "CELULARES",
-      "price": "699.990",
-      "description": "",
-      "image": "/images/iphone_14_de_128gb.webp",
-      "images": [
-        "/images/iphone_14_de_128gb.webp",
-        "/images/iphone_14_de_128gb_1.webp",
-        "/images/iphone_14_de_128gb_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 13 PRO DE 128GB",
-      "category": "CELULARES",
-      "price": "779.990",
-      "description": "",
-      "image": "/images/iphone_13_pro_de_128gb.webp",
-      "images": [
-        "/images/iphone_13_pro_de_128gb.webp",
-        "/images/iphone_13_pro_de_128gb_1.webp",
-        "/images/iphone_13_pro_de_128gb_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 15 DE 128GB",
-      "category": "CELULARES",
-      "price": "844.990",
-      "description": "",
-      "image": "/images/iphone_15_de_128gb.webp",
-      "images": [
-        "/images/iphone_15_de_128gb.webp",
-        "/images/iphone_15_de_128gb_1.webp",
-        "/images/iphone_15_de_128gb_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 16E DE 128GB NUEVO EN CAJA SELLADA",
-      "category": "CELULARES",
-      "price": "845.000",
-      "description": "",
-      "image": "/images/iphone_16e_de_128gb_nuevo_en_caja_sellada.webp",
-      "images": [
-        "/images/iphone_16e_de_128gb_nuevo_en_caja_sellada.webp",
-        "/images/iphone_16e_de_128gb_nuevo_en_caja_sellada_1.webp",
-        "/images/iphone_16e_de_128gb_nuevo_en_caja_sellada_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 15 DE 256GB",
-      "category": "CELULARES",
-      "price": "889.990",
-      "description": "",
-      "image": "/images/iphone_15_de_256gb.webp",
-      "images": [
-        "/images/iphone_15_de_256gb.webp",
-        "/images/iphone_15_de_256gb_1.webp",
-        "/images/iphone_15_de_256gb_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 13 PRO MAX DE 128GB",
-      "category": "CELULARES",
-      "price": "899.990",
-      "description": "",
-      "image": "/images/iphone_13_pro_max_de_128gb.webp",
-      "images": [
-        "/images/iphone_13_pro_max_de_128gb.webp",
-        "/images/iphone_13_pro_max_de_128gb_1.webp",
-        "/images/iphone_13_pro_max_de_128gb_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 16E DE 256GB NUEVO EN CAJA SELLADA",
-      "category": "CELULARES",
-      "price": "995.000",
-      "description": "",
-      "image": "/images/iphone_16e_de_256gb_nuevo_en_caja_sellada.webp",
-      "images": [
-        "/images/iphone_16e_de_256gb_nuevo_en_caja_sellada.webp",
-        "/images/iphone_16e_de_256gb_nuevo_en_caja_sellada_1.webp",
-        "/images/iphone_16e_de_256gb_nuevo_en_caja_sellada_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 16 DE 128GB NUEVO EN CAJA SELLADA",
-      "category": "CELULARES",
-      "price": "1.144.000",
-      "description": "",
-      "image": "/images/iphone_16_de_128gb_nuevo_en_caja_sellada.webp",
-      "images": [
-        "/images/iphone_16_de_128gb_nuevo_en_caja_sellada.webp",
-        "/images/iphone_16_de_128gb_nuevo_en_caja_sellada_1.webp",
-        "/images/iphone_16_de_128gb_nuevo_en_caja_sellada_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 16 DE 256GB NUEVO EN CAJA SELLADA",
-      "category": "CELULARES",
-      "price": "1.294.000",
-      "description": "",
-      "image": "/images/iphone_16_de_256gb_nuevo_en_caja_sellada.webp",
-      "images": [
-        "/images/iphone_16_de_256gb_nuevo_en_caja_sellada.webp",
-        "/images/iphone_16_de_256gb_nuevo_en_caja_sellada_1.webp",
-        "/images/iphone_16_de_256gb_nuevo_en_caja_sellada_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 16 PRO DE 128GB NUEVO EN CAJA SELLADA",
-      "category": "CELULARES",
-      "price": "1.340.000",
-      "description": "",
-      "image": "/images/iphone_16_pro_de_128gb_nuevo_en_caja_sellada.webp",
-      "images": [
-        "/images/iphone_16_pro_de_128gb_nuevo_en_caja_sellada.webp",
-        "/images/iphone_16_pro_de_128gb_nuevo_en_caja_sellada_1.webp",
-        "/images/iphone_16_pro_de_128gb_nuevo_en_caja_sellada_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 16 PRO DE 256GB NUEVO EN CAJA SELLADA",
-      "category": "CELULARES",
-      "price": "1.465.000",
-      "description": "",
-      "image": "/images/iphone_16_pro_de_256gb_nuevo_en_caja_sellada.webp",
-      "images": [
-        "/images/iphone_16_pro_de_256gb_nuevo_en_caja_sellada.webp",
-        "/images/iphone_16_pro_de_256gb_nuevo_en_caja_sellada_1.webp",
-        "/images/iphone_16_pro_de_256gb_nuevo_en_caja_sellada_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 16 PRO MAX DE 256GB NUEVO EN CAJA SELLADA",
-      "category": "CELULARES",
-      "price": "1.590.000",
-      "description": "",
-      "image": "/images/iphone_16_pro_max_de_256gb_nuevo_en_caja_sellada.webp",
-      "images": [
-        "/images/iphone_16_pro_max_de_256gb_nuevo_en_caja_sellada.webp",
-        "/images/iphone_16_pro_max_de_256gb_nuevo_en_caja_sellada_1.webp",
-        "/images/iphone_16_pro_max_de_256gb_nuevo_en_caja_sellada_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 16 PRO MAX DE 512GB NUEVO EN CAJA SELLADA",
-      "category": "CELULARES",
-      "price": "1.890.000",
-      "description": "",
-      "image": "/images/iphone_16_pro_max_de_512gb_nuevo_en_caja_sellada.webp",
-      "images": [
-        "/images/iphone_16_pro_max_de_512gb_nuevo_en_caja_sellada.webp",
-        "/images/iphone_16_pro_max_de_512gb_nuevo_en_caja_sellada_1.webp",
-        "/images/iphone_16_pro_max_de_512gb_nuevo_en_caja_sellada_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 16 PRO MAX DE 1TB NUEVO EN CAJA SELLADA",
-      "category": "CELULARES",
-      "price": "2.210.000",
-      "description": "",
-      "image": "/images/iphone_16_pro_max_de_1tb_nuevo_en_caja_sellada.webp",
-      "images": [
-        "/images/iphone_16_pro_max_de_1tb_nuevo_en_caja_sellada.webp",
-        "/images/iphone_16_pro_max_de_1tb_nuevo_en_caja_sellada_1.webp",
-        "/images/iphone_16_pro_max_de_1tb_nuevo_en_caja_sellada_2.webp"
-      ]
-    },
-    {
       "name": "MOTOROLA E14 DE 64GB Y 2 DE RAM",
       "category": "CELULARES",
       "price": "120.000,00",
@@ -1100,7 +875,7 @@
         "/images/samsung_fold_6_5g_de_512gb_y_12_de_ram_2.webp"
       ]
     },
-    {
+{
       "name": "XIAOMI REDMI A3 DE 64GB Y 3 DE RAM",
       "category": "CELULARES",
       "price": "169.990,00",
@@ -1377,6 +1152,231 @@
         "/images/xiaomi_note_14_pro_plus_5g_de_256gb_y_12_de_ram.webp",
         "/images/xiaomi_note_14_pro_plus_5g_de_256gb_y_12_de_ram_1.webp",
         "/images/xiaomi_note_14_pro_plus_5g_de_256gb_y_12_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 11 DE 64GB",
+      "category": "CELULARES",
+      "price": "399.900,00",
+      "description": "",
+      "image": "/images/iphone_11.webp",
+      "images": [
+        "/images/iphone_11.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 11 DE 128GB",
+      "category": "CELULARES",
+      "price": "439.900,00",
+      "description": "",
+      "image": "/images/iphone_11.webp",
+      "images": [
+        "/images/iphone_11.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 12 DE 64GB",
+      "category": "CELULARES",
+      "price": "470.000,00",
+      "description": "",
+      "image": "/images/iphone_12.webp",
+      "images": [
+        "/images/iphone_12.webp",
+        "/images/iphone_12_1.webp",
+        "/images/iphone_12_2.webp",
+        "/images/iphone_12_3.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 12 DE 128GB",
+      "category": "CELULARES",
+      "price": "499.990",
+      "description": "",
+      "image": "/images/iphone_12_de_128gb.webp",
+      "images": [
+        "/images/iphone_12_de_128gb.webp",
+        "/images/iphone_12_de_128gb_1.webp",
+        "/images/iphone_12_de_128gb_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 13 DE 128GB",
+      "category": "CELULARES",
+      "price": "649.990",
+      "description": "",
+      "image": "/images/iphone_13_de_128gb.webp",
+      "images": [
+        "/images/iphone_13_de_128gb.webp",
+        "/images/iphone_13_de_128gb_1.webp",
+        "/images/iphone_13_de_128gb_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 14 DE 128GB",
+      "category": "CELULARES",
+      "price": "699.990",
+      "description": "",
+      "image": "/images/iphone_14_de_128gb.webp",
+      "images": [
+        "/images/iphone_14_de_128gb.webp",
+        "/images/iphone_14_de_128gb_1.webp",
+        "/images/iphone_14_de_128gb_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 13 PRO DE 128GB",
+      "category": "CELULARES",
+      "price": "779.990",
+      "description": "",
+      "image": "/images/iphone_13_pro_de_128gb.webp",
+      "images": [
+        "/images/iphone_13_pro_de_128gb.webp",
+        "/images/iphone_13_pro_de_128gb_1.webp",
+        "/images/iphone_13_pro_de_128gb_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 15 DE 128GB",
+      "category": "CELULARES",
+      "price": "844.990",
+      "description": "",
+      "image": "/images/iphone_15_de_128gb.webp",
+      "images": [
+        "/images/iphone_15_de_128gb.webp",
+        "/images/iphone_15_de_128gb_1.webp",
+        "/images/iphone_15_de_128gb_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 16E DE 128GB NUEVO EN CAJA SELLADA",
+      "category": "CELULARES",
+      "price": "845.000",
+      "description": "",
+      "image": "/images/iphone_16e_de_128gb_nuevo_en_caja_sellada.webp",
+      "images": [
+        "/images/iphone_16e_de_128gb_nuevo_en_caja_sellada.webp",
+        "/images/iphone_16e_de_128gb_nuevo_en_caja_sellada_1.webp",
+        "/images/iphone_16e_de_128gb_nuevo_en_caja_sellada_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 15 DE 256GB",
+      "category": "CELULARES",
+      "price": "889.990",
+      "description": "",
+      "image": "/images/iphone_15_de_256gb.webp",
+      "images": [
+        "/images/iphone_15_de_256gb.webp",
+        "/images/iphone_15_de_256gb_1.webp",
+        "/images/iphone_15_de_256gb_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 13 PRO MAX DE 128GB",
+      "category": "CELULARES",
+      "price": "899.990",
+      "description": "",
+      "image": "/images/iphone_13_pro_max_de_128gb.webp",
+      "images": [
+        "/images/iphone_13_pro_max_de_128gb.webp",
+        "/images/iphone_13_pro_max_de_128gb_1.webp",
+        "/images/iphone_13_pro_max_de_128gb_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 16E DE 256GB NUEVO EN CAJA SELLADA",
+      "category": "CELULARES",
+      "price": "995.000",
+      "description": "",
+      "image": "/images/iphone_16e_de_256gb_nuevo_en_caja_sellada.webp",
+      "images": [
+        "/images/iphone_16e_de_256gb_nuevo_en_caja_sellada.webp",
+        "/images/iphone_16e_de_256gb_nuevo_en_caja_sellada_1.webp",
+        "/images/iphone_16e_de_256gb_nuevo_en_caja_sellada_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 16 DE 128GB NUEVO EN CAJA SELLADA",
+      "category": "CELULARES",
+      "price": "1.144.000",
+      "description": "",
+      "image": "/images/iphone_16_de_128gb_nuevo_en_caja_sellada.webp",
+      "images": [
+        "/images/iphone_16_de_128gb_nuevo_en_caja_sellada.webp",
+        "/images/iphone_16_de_128gb_nuevo_en_caja_sellada_1.webp",
+        "/images/iphone_16_de_128gb_nuevo_en_caja_sellada_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 16 DE 256GB NUEVO EN CAJA SELLADA",
+      "category": "CELULARES",
+      "price": "1.294.000",
+      "description": "",
+      "image": "/images/iphone_16_de_256gb_nuevo_en_caja_sellada.webp",
+      "images": [
+        "/images/iphone_16_de_256gb_nuevo_en_caja_sellada.webp",
+        "/images/iphone_16_de_256gb_nuevo_en_caja_sellada_1.webp",
+        "/images/iphone_16_de_256gb_nuevo_en_caja_sellada_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 16 PRO DE 128GB NUEVO EN CAJA SELLADA",
+      "category": "CELULARES",
+      "price": "1.340.000",
+      "description": "",
+      "image": "/images/iphone_16_pro_de_128gb_nuevo_en_caja_sellada.webp",
+      "images": [
+        "/images/iphone_16_pro_de_128gb_nuevo_en_caja_sellada.webp",
+        "/images/iphone_16_pro_de_128gb_nuevo_en_caja_sellada_1.webp",
+        "/images/iphone_16_pro_de_128gb_nuevo_en_caja_sellada_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 16 PRO DE 256GB NUEVO EN CAJA SELLADA",
+      "category": "CELULARES",
+      "price": "1.465.000",
+      "description": "",
+      "image": "/images/iphone_16_pro_de_256gb_nuevo_en_caja_sellada.webp",
+      "images": [
+        "/images/iphone_16_pro_de_256gb_nuevo_en_caja_sellada.webp",
+        "/images/iphone_16_pro_de_256gb_nuevo_en_caja_sellada_1.webp",
+        "/images/iphone_16_pro_de_256gb_nuevo_en_caja_sellada_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 16 PRO MAX DE 256GB NUEVO EN CAJA SELLADA",
+      "category": "CELULARES",
+      "price": "1.590.000",
+      "description": "",
+      "image": "/images/iphone_16_pro_max_de_256gb_nuevo_en_caja_sellada.webp",
+      "images": [
+        "/images/iphone_16_pro_max_de_256gb_nuevo_en_caja_sellada.webp",
+        "/images/iphone_16_pro_max_de_256gb_nuevo_en_caja_sellada_1.webp",
+        "/images/iphone_16_pro_max_de_256gb_nuevo_en_caja_sellada_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 16 PRO MAX DE 512GB NUEVO EN CAJA SELLADA",
+      "category": "CELULARES",
+      "price": "1.890.000",
+      "description": "",
+      "image": "/images/iphone_16_pro_max_de_512gb_nuevo_en_caja_sellada.webp",
+      "images": [
+        "/images/iphone_16_pro_max_de_512gb_nuevo_en_caja_sellada.webp",
+        "/images/iphone_16_pro_max_de_512gb_nuevo_en_caja_sellada_1.webp",
+        "/images/iphone_16_pro_max_de_512gb_nuevo_en_caja_sellada_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 16 PRO MAX DE 1TB NUEVO EN CAJA SELLADA",
+      "category": "CELULARES",
+      "price": "2.210.000",
+      "description": "",
+      "image": "/images/iphone_16_pro_max_de_1tb_nuevo_en_caja_sellada.webp",
+      "images": [
+        "/images/iphone_16_pro_max_de_1tb_nuevo_en_caja_sellada.webp",
+        "/images/iphone_16_pro_max_de_1tb_nuevo_en_caja_sellada_1.webp",
+        "/images/iphone_16_pro_max_de_1tb_nuevo_en_caja_sellada_2.webp"
       ]
     },
     {
