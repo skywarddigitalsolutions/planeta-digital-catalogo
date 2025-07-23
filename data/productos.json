@@ -1,231 +1,6 @@
 {
-  "total": 601,
+  "total": 613,
   "products": [
-    {
-      "name": "IPHONE 11 DE 64GB",
-      "category": "CELULARES",
-      "price": "399.900,00",
-      "description": "",
-      "image": "/images/iphone_11.webp",
-      "images": [
-        "/images/iphone_11.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 11 DE 128GB",
-      "category": "CELULARES",
-      "price": "439.900,00",
-      "description": "",
-      "image": "/images/iphone_11.webp",
-      "images": [
-        "/images/iphone_11.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 12 DE 64GB",
-      "category": "CELULARES",
-      "price": "470.000,00",
-      "description": "",
-      "image": "/images/iphone_12.webp",
-      "images": [
-        "/images/iphone_12.webp",
-        "/images/iphone_12_1.webp",
-        "/images/iphone_12_2.webp",
-        "/images/iphone_12_3.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 12 DE 128GB",
-      "category": "CELULARES",
-      "price": "499.990",
-      "description": "",
-      "image": "/images/iphone_12_de_128gb.webp",
-      "images": [
-        "/images/iphone_12_de_128gb.webp",
-        "/images/iphone_12_de_128gb_1.webp",
-        "/images/iphone_12_de_128gb_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 13 DE 128GB",
-      "category": "CELULARES",
-      "price": "649.990",
-      "description": "",
-      "image": "/images/iphone_13_de_128gb.webp",
-      "images": [
-        "/images/iphone_13_de_128gb.webp",
-        "/images/iphone_13_de_128gb_1.webp",
-        "/images/iphone_13_de_128gb_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 14 DE 128GB ",
-      "category": "CELULARES",
-      "price": "699.990",
-      "description": "",
-      "image": "/images/iphone_14_de_128gb.webp",
-      "images": [
-        "/images/iphone_14_de_128gb.webp",
-        "/images/iphone_14_de_128gb_1.webp",
-        "/images/iphone_14_de_128gb_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 13 PRO DE 128GB",
-      "category": "CELULARES",
-      "price": "779.990",
-      "description": "",
-      "image": "/images/iphone_13_pro_de_128gb.webp",
-      "images": [
-        "/images/iphone_13_pro_de_128gb.webp",
-        "/images/iphone_13_pro_de_128gb_1.webp",
-        "/images/iphone_13_pro_de_128gb_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 15 DE 128GB",
-      "category": "CELULARES",
-      "price": "844.990",
-      "description": "",
-      "image": "/images/iphone_15_de_128gb.webp",
-      "images": [
-        "/images/iphone_15_de_128gb.webp",
-        "/images/iphone_15_de_128gb_1.webp",
-        "/images/iphone_15_de_128gb_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 16E DE 128GB NUEVO EN CAJA SELLADA",
-      "category": "CELULARES",
-      "price": "845.000",
-      "description": "",
-      "image": "/images/iphone_16e_de_128gb_nuevo_en_caja_sellada.webp",
-      "images": [
-        "/images/iphone_16e_de_128gb_nuevo_en_caja_sellada.webp",
-        "/images/iphone_16e_de_128gb_nuevo_en_caja_sellada_1.webp",
-        "/images/iphone_16e_de_128gb_nuevo_en_caja_sellada_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 15 DE 256GB",
-      "category": "CELULARES",
-      "price": "889.990",
-      "description": "",
-      "image": "/images/iphone_15_de_256gb.webp",
-      "images": [
-        "/images/iphone_15_de_256gb.webp",
-        "/images/iphone_15_de_256gb_1.webp",
-        "/images/iphone_15_de_256gb_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 13 PRO MAX DE 128GB ",
-      "category": "CELULARES",
-      "price": "899.990",
-      "description": "",
-      "image": "/images/iphone_13_pro_max_de_128gb.webp",
-      "images": [
-        "/images/iphone_13_pro_max_de_128gb.webp",
-        "/images/iphone_13_pro_max_de_128gb_1.webp",
-        "/images/iphone_13_pro_max_de_128gb_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 16E DE 256GB NUEVO EN CAJA SELLADA ",
-      "category": "CELULARES",
-      "price": "995.000",
-      "description": "",
-      "image": "/images/iphone_16e_de_256gb_nuevo_en_caja_sellada.webp",
-      "images": [
-        "/images/iphone_16e_de_256gb_nuevo_en_caja_sellada.webp",
-        "/images/iphone_16e_de_256gb_nuevo_en_caja_sellada_1.webp",
-        "/images/iphone_16e_de_256gb_nuevo_en_caja_sellada_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 16 DE 128GB NUEVO EN CAJA SELLADA ",
-      "category": "CELULARES",
-      "price": "1.144.000",
-      "description": "",
-      "image": "/images/iphone_16_de_128gb_nuevo_en_caja_sellada.webp",
-      "images": [
-        "/images/iphone_16_de_128gb_nuevo_en_caja_sellada.webp",
-        "/images/iphone_16_de_128gb_nuevo_en_caja_sellada_1.webp",
-        "/images/iphone_16_de_128gb_nuevo_en_caja_sellada_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 16 DE 256GB NUEVO EN CAJA SELLADA ",
-      "category": "CELULARES",
-      "price": "1.294.000",
-      "description": "",
-      "image": "/images/iphone_16_de_256gb_nuevo_en_caja_sellada.webp",
-      "images": [
-        "/images/iphone_16_de_256gb_nuevo_en_caja_sellada.webp",
-        "/images/iphone_16_de_256gb_nuevo_en_caja_sellada_1.webp",
-        "/images/iphone_16_de_256gb_nuevo_en_caja_sellada_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 16 PRO DE 128GB NUEVO EN CAJA SELLADA ",
-      "category": "CELULARES",
-      "price": "1.340.000",
-      "description": "",
-      "image": "/images/iphone_16_pro_de_128gb_nuevo_en_caja_sellada.webp",
-      "images": [
-        "/images/iphone_16_pro_de_128gb_nuevo_en_caja_sellada.webp",
-        "/images/iphone_16_pro_de_128gb_nuevo_en_caja_sellada_1.webp",
-        "/images/iphone_16_pro_de_128gb_nuevo_en_caja_sellada_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 16 PRO DE 256GB NUEVO EN CAJA SELLADA",
-      "category": "CELULARES",
-      "price": "1.465.000",
-      "description": "",
-      "image": "/images/iphone_16_pro_de_256gb_nuevo_en_caja_sellada.webp",
-      "images": [
-        "/images/iphone_16_pro_de_256gb_nuevo_en_caja_sellada.webp",
-        "/images/iphone_16_pro_de_256gb_nuevo_en_caja_sellada_1.webp",
-        "/images/iphone_16_pro_de_256gb_nuevo_en_caja_sellada_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 16 PRO MAX DE 256GB NUEVO EN CAJA SELLADA ",
-      "category": "CELULARES",
-      "price": "1.590.000",
-      "description": "",
-      "image": "/images/iphone_16_pro_max_de_256gb_nuevo_en_caja_sellada.webp",
-      "images": [
-        "/images/iphone_16_pro_max_de_256gb_nuevo_en_caja_sellada.webp",
-        "/images/iphone_16_pro_max_de_256gb_nuevo_en_caja_sellada_1.webp",
-        "/images/iphone_16_pro_max_de_256gb_nuevo_en_caja_sellada_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 16 PRO MAX DE 512GB NUEVO EN CAJA SELLADA ",
-      "category": "CELULARES",
-      "price": "1.890.000",
-      "description": "",
-      "image": "/images/iphone_16_pro_max_de_512gb_nuevo_en_caja_sellada.webp",
-      "images": [
-        "/images/iphone_16_pro_max_de_512gb_nuevo_en_caja_sellada.webp",
-        "/images/iphone_16_pro_max_de_512gb_nuevo_en_caja_sellada_1.webp",
-        "/images/iphone_16_pro_max_de_512gb_nuevo_en_caja_sellada_2.webp"
-      ]
-    },
-    {
-      "name": "IPHONE 16 PRO MAX DE 1TB NUEVO EN CAJA SELLADA ",
-      "category": "CELULARES",
-      "price": "2.210.000",
-      "description": "",
-      "image": "/images/iphone_16_pro_max_de_1tb_nuevo_en_caja_sellada.webp",
-      "images": [
-        "/images/iphone_16_pro_max_de_1tb_nuevo_en_caja_sellada.webp",
-        "/images/iphone_16_pro_max_de_1tb_nuevo_en_caja_sellada_1.webp",
-        "/images/iphone_16_pro_max_de_1tb_nuevo_en_caja_sellada_2.webp"
-      ]
-    },
     {
       "name": "MOTOROLA E14 DE 64GB Y 2 DE RAM",
       "category": "CELULARES",
@@ -239,7 +14,7 @@
       ]
     },
     {
-      "name": "MOTOROLA GO4 DE 64GB Y 4 DE RAM ",
+      "name": "MOTOROLA GO4 DE 64GB Y 4 DE RAM",
       "category": "CELULARES",
       "price": "169.990",
       "description": "",
@@ -288,7 +63,7 @@
       ]
     },
     {
-      "name": "MOTOROLA GO5 DE 128GB Y 4 DE RAM ",
+      "name": "MOTOROLA GO5 DE 128GB Y 4 DE RAM",
       "category": "CELULARES",
       "price": "220.000",
       "description": "",
@@ -300,7 +75,7 @@
       ]
     },
     {
-      "name": "MOTOROLA G14 DE 128GB Y 4 DE RAM ",
+      "name": "MOTOROLA G14 DE 128GB Y 4 DE RAM",
       "category": "CELULARES",
       "price": "229.990",
       "description": "",
@@ -349,7 +124,7 @@
       ]
     },
     {
-      "name": "MOTOROLA G24 DE 256GB Y 4 DE RAM ",
+      "name": "MOTOROLA G24 DE 256GB Y 4 DE RAM",
       "category": "CELULARES",
       "price": "259.990",
       "description": "",
@@ -387,7 +162,7 @@
       ]
     },
     {
-      "name": "MOTOROLA G54 5G DE 128GB Y 4 DE RAM ",
+      "name": "MOTOROLA G54 5G DE 128GB Y 4 DE RAM",
       "category": "CELULARES",
       "price": "299.990",
       "description": "",
@@ -399,7 +174,7 @@
       ]
     },
     {
-      "name": "MOTOROLA G35 5G DE 256GB Y 8 DE RAM ",
+      "name": "MOTOROLA G35 5G DE 256GB Y 8 DE RAM",
       "category": "CELULARES",
       "price": "320.000",
       "description": "",
@@ -424,7 +199,7 @@
       ]
     },
     {
-      "name": "MOTOROLA G54 POWER 5G DE 256GB Y 8 DE RAM ",
+      "name": "MOTOROLA G54 POWER 5G DE 256GB Y 8 DE RAM",
       "category": "CELULARES",
       "price": "350.000",
       "description": "",
@@ -436,7 +211,7 @@
       ]
     },
     {
-      "name": "MOTOROLA G55 5G DE 256GB Y 8 DE RAM ",
+      "name": "MOTOROLA G55 5G DE 256GB Y 8 DE RAM",
       "category": "CELULARES",
       "price": "350.000",
       "description": "",
@@ -448,7 +223,7 @@
       ]
     },
     {
-      "name": "MOTOROLA G84 5G DE 256GB Y 8 DE RAM ",
+      "name": "MOTOROLA G84 5G DE 256GB Y 8 DE RAM",
       "category": "CELULARES",
       "price": "399.990",
       "description": "",
@@ -473,7 +248,7 @@
       ]
     },
     {
-      "name": "MOTOROLA G84 5G DE 256GB Y12 DE RAM ",
+      "name": "MOTOROLA G84 5G DE 256GB Y12 DE RAM",
       "category": "CELULARES",
       "price": "450.000",
       "description": "",
@@ -497,7 +272,7 @@
       ]
     },
     {
-      "name": "MOTOROLA EDGE 40 5G DE 256GB Y DE 8 DE RAM ",
+      "name": "MOTOROLA EDGE 40 5G DE 256GB Y DE 8 DE RAM",
       "category": "CELULARES",
       "price": "450.000",
       "description": "",
@@ -521,7 +296,7 @@
       ]
     },
     {
-      "name": "MOTOROLA EDGE 50 NEO 5G DE 256GB Y 8 DE RAM ",
+      "name": "MOTOROLA EDGE 50 NEO 5G DE 256GB Y 8 DE RAM",
       "category": "CELULARES",
       "price": "499.990",
       "description": "",
@@ -533,7 +308,7 @@
       ]
     },
     {
-      "name": "MOTOROLA EDGE 50 FUSION 5G DE 256GB Y 8 DE RAM ",
+      "name": "MOTOROLA EDGE 50 FUSION 5G DE 256GB Y 8 DE RAM",
       "category": "CELULARES",
       "price": "499.990",
       "description": "",
@@ -557,7 +332,7 @@
       ]
     },
     {
-      "name": "MOTOROLA EDGE 40 PRO 5G DE 256GB Y 12 DE RAM ",
+      "name": "MOTOROLA EDGE 40 PRO 5G DE 256GB Y 12 DE RAM",
       "category": "CELULARES",
       "price": "599.990",
       "description": "",
@@ -569,7 +344,7 @@
       ]
     },
     {
-      "name": "MOTOROLA EDGE 50 5G DE 256GB Y 12 DE RAM ",
+      "name": "MOTOROLA EDGE 50 5G DE 256GB Y 12 DE RAM",
       "category": "CELULARES",
       "price": "599.990",
       "description": "",
@@ -581,7 +356,7 @@
       ]
     },
     {
-      "name": "MOTOROLA EDGE 50 5G DE 512 GB Y 12 DE RAM ",
+      "name": "MOTOROLA EDGE 50 5G DE 512 GB Y 12 DE RAM",
       "category": "CELULARES",
       "price": "630.000",
       "description": "",
@@ -593,7 +368,7 @@
       ]
     },
     {
-      "name": "MOTOROLA EDGE 50 PRO 5G DE 512GB Y 12 DE RAM ",
+      "name": "MOTOROLA EDGE 50 PRO 5G DE 512GB Y 12 DE RAM",
       "category": "CELULARES",
       "price": "750.000",
       "description": "",
@@ -605,7 +380,7 @@
       ]
     },
     {
-      "name": "MOTOROLA EDGE 50 ULTRA 5G DE 1TB Y 12 DE RAM ",
+      "name": "MOTOROLA EDGE 50 ULTRA 5G DE 1TB Y 12 DE RAM",
       "category": "CELULARES",
       "price": "1.200.000",
       "description": "",
@@ -617,7 +392,7 @@
       ]
     },
     {
-      "name": "MOTOROLA RAZR ULTRA 5G DE 512GB Y 12 DE RAM ",
+      "name": "MOTOROLA RAZR ULTRA 5G DE 512GB Y 12 DE RAM",
       "category": "CELULARES",
       "price": "1.300.000",
       "description": "",
@@ -629,7 +404,7 @@
       ]
     },
     {
-      "name": "SAMSUNG A05 DE 64GB Y 4 DE RAM ",
+      "name": "SAMSUNG A05 DE 64GB Y 4 DE RAM",
       "category": "CELULARES",
       "price": "159.990",
       "description": "",
@@ -704,7 +479,7 @@
       ]
     },
     {
-      "name": "SAMSUNG A16 DE 128GB Y 6 DE RAM ",
+      "name": "SAMSUNG A16 DE 128GB Y 6 DE RAM",
       "category": "CELULARES",
       "price": "299.990",
       "description": "",
@@ -729,7 +504,7 @@
       ]
     },
     {
-      "name": "SAMSUNG A16 5G DE 128GB Y 6 DE RAM ",
+      "name": "SAMSUNG A16 5G DE 128GB Y 6 DE RAM",
       "category": "CELULARES",
       "price": "349.990",
       "description": "",
@@ -741,7 +516,7 @@
       ]
     },
     {
-      "name": "SAMSUNG A26 5G DE 128GB Y 6 DE RAM ",
+      "name": "SAMSUNG A26 5G DE 128GB Y 6 DE RAM",
       "category": "CELULARES",
       "price": "399.990",
       "description": "",
@@ -753,7 +528,7 @@
       ]
     },
     {
-      "name": "SAMSUNG A16 5G DE 256GB Y 8 DE RAM ",
+      "name": "SAMSUNG A16 5G DE 256GB Y 8 DE RAM",
       "category": "CELULARES",
       "price": "399.990",
       "description": "",
@@ -765,7 +540,7 @@
       ]
     },
     {
-      "name": "SAMSUNG A26 5G DE 256GB Y 8 DE RAM ",
+      "name": "SAMSUNG A26 5G DE 256GB Y 8 DE RAM",
       "category": "CELULARES",
       "price": "429.990,00",
       "description": "",
@@ -777,7 +552,7 @@
       ]
     },
     {
-      "name": "SAMSUNG A35 5G DE 128GB Y 6 DE RAM ",
+      "name": "SAMSUNG A35 5G DE 128GB Y 6 DE RAM",
       "category": "CELULARES",
       "price": "459.990",
       "description": "",
@@ -789,7 +564,7 @@
       ]
     },
     {
-      "name": "SAMSUNG A36 5G DE 128GB Y 6 DE RAM ",
+      "name": "SAMSUNG A36 5G DE 128GB Y 6 DE RAM",
       "category": "CELULARES",
       "price": "470.000,00",
       "description": "",
@@ -801,7 +576,7 @@
       ]
     },
     {
-      "name": "SAMSUNG M55 5G DE 256GB Y 8 DE RAM ",
+      "name": "SAMSUNG M55 5G DE 256GB Y 8 DE RAM",
       "category": "CELULARES",
       "price": "470.000",
       "description": "",
@@ -813,7 +588,7 @@
       ]
     },
     {
-      "name": "SAMSUNG A35 5G DE 256GB Y 8 DE RAM ",
+      "name": "SAMSUNG A35 5G DE 256GB Y 8 DE RAM",
       "category": "CELULARES",
       "price": "499.990",
       "description": "",
@@ -837,7 +612,7 @@
       ]
     },
     {
-      "name": "SAMSUNG S21FE 5G DE 128GB Y 8 DE RAM ",
+      "name": "SAMSUNG S21FE 5G DE 128GB Y 8 DE RAM",
       "category": "CELULARES",
       "price": "549.990",
       "description": "",
@@ -849,7 +624,7 @@
       ]
     },
     {
-      "name": "SAMSUNG A56 5G DE 256GB Y 8 DE RAM ",
+      "name": "SAMSUNG A56 5G DE 256GB Y 8 DE RAM",
       "category": "CELULARES",
       "price": "650.000",
       "description": "",
@@ -873,7 +648,7 @@
       ]
     },
     {
-      "name": "SAMSUNG S24 DE 128GB Y 8 DE RAM ",
+      "name": "SAMSUNG S24 DE 128GB Y 8 DE RAM",
       "category": "CELULARES",
       "price": "790.000",
       "description": "",
@@ -897,7 +672,7 @@
       ]
     },
     {
-      "name": "SAMSUNG S24 FE DE 512GB Y 8 DE RAM ",
+      "name": "SAMSUNG S24 FE DE 512GB Y 8 DE RAM",
       "category": "CELULARES",
       "price": "870.000",
       "description": "",
@@ -909,7 +684,7 @@
       ]
     },
     {
-      "name": "SAMSUNG S25 DE 128GB Y 12 DE RAM ",
+      "name": "SAMSUNG S25 DE 128GB Y 12 DE RAM",
       "category": "CELULARES",
       "price": "999.990",
       "description": "",
@@ -921,7 +696,7 @@
       ]
     },
     {
-      "name": "SAMSUNG S25 DE 256GB Y 12 DE RAM ",
+      "name": "SAMSUNG S25 DE 256GB Y 12 DE RAM",
       "category": "CELULARES",
       "price": "1.099.000",
       "description": "",
@@ -933,7 +708,7 @@
       ]
     },
     {
-      "name": "SAMSUNG S24 PLUS 5G DE 256GB Y 12 DE RAM ",
+      "name": "SAMSUNG S24 PLUS 5G DE 256GB Y 12 DE RAM",
       "category": "CELULARES",
       "price": "1.150.000",
       "description": "",
@@ -945,7 +720,7 @@
       ]
     },
     {
-      "name": "SAMSUNG S24 PLUS 5G DE 512GB Y 12 DE RAM ",
+      "name": "SAMSUNG S24 PLUS 5G DE 512GB Y 12 DE RAM",
       "category": "CELULARES",
       "price": "1.299.990",
       "description": "",
@@ -957,7 +732,7 @@
       ]
     },
     {
-      "name": "SAMSUNG S25 PLUS DE 256GB Y 12 DE RAM ",
+      "name": "SAMSUNG S25 PLUS DE 256GB Y 12 DE RAM",
       "category": "CELULARES",
       "price": "1.320.000",
       "description": "",
@@ -969,7 +744,7 @@
       ]
     },
     {
-      "name": "SAMSUNG S24 ULTRA DE 256GB Y 12 DE RAM ",
+      "name": "SAMSUNG S24 ULTRA DE 256GB Y 12 DE RAM",
       "category": "CELULARES",
       "price": "1.350.000",
       "description": "",
@@ -981,7 +756,7 @@
       ]
     },
     {
-      "name": "SAMSUNG Z FLIP 6 5G DE 256GB Y 12 DE RAM ",
+      "name": "SAMSUNG Z FLIP 6 5G DE 256GB Y 12 DE RAM",
       "category": "CELULARES",
       "price": "1.390.000",
       "description": "",
@@ -993,7 +768,7 @@
       ]
     },
     {
-      "name": "SAMSUNG S24 ULTRA DE 512GB Y 12 DE RAM ",
+      "name": "SAMSUNG S24 ULTRA DE 512GB Y 12 DE RAM",
       "category": "CELULARES",
       "price": "1.399.000",
       "description": "",
@@ -1005,7 +780,7 @@
       ]
     },
     {
-      "name": "SAMSUNG S25 PLUS DE 512GB Y 12 DE RAM ",
+      "name": "SAMSUNG S25 PLUS DE 512GB Y 12 DE RAM",
       "category": "CELULARES",
       "price": "1.399.000",
       "description": "",
@@ -1017,7 +792,7 @@
       ]
     },
     {
-      "name": "SAMSUNG 2 FLIP 6 5G DE 512GB Y 12 DE RAM ",
+      "name": "SAMSUNG 2 FLIP 6 5G DE 512GB Y 12 DE RAM",
       "category": "CELULARES",
       "price": "1.499.000",
       "description": "",
@@ -1029,7 +804,7 @@
       ]
     },
     {
-      "name": "SAMSUNG S25 ULTRA DE 256GB Y 12 DE RAM ",
+      "name": "SAMSUNG S25 ULTRA DE 256GB Y 12 DE RAM",
       "category": "CELULARES",
       "price": "1.540.000",
       "description": "",
@@ -1041,7 +816,7 @@
       ]
     },
     {
-      "name": "SAMSUNG S25 DE 512 GB  Y 12 DE RAM ",
+      "name": "SAMSUNG S25 DE 512 GB  Y 12 DE RAM",
       "category": "CELULARES",
       "price": "1.599.000",
       "description": "",
@@ -1053,7 +828,7 @@
       ]
     },
     {
-      "name": "SAMSUNG S25 DE 1TB Y 12 DE RAM ",
+      "name": "SAMSUNG S25 DE 1TB Y 12 DE RAM",
       "category": "CELULARES",
       "price": "1.899.000",
       "description": "",
@@ -1065,7 +840,7 @@
       ]
     },
     {
-      "name": "SAMSUNG FOLD 5 5G DE 512GB Y 12 DE RAM ",
+      "name": "SAMSUNG FOLD 5 5G DE 512GB Y 12 DE RAM",
       "category": "CELULARES",
       "price": "1.950.000",
       "description": "",
@@ -1077,7 +852,7 @@
       ]
     },
     {
-      "name": "SAMSUNG FOLD 6 5G DE 256GB Y 12 DE RAM ",
+      "name": "SAMSUNG FOLD 6 5G DE 256GB Y 12 DE RAM",
       "category": "CELULARES",
       "price": "2.050.000",
       "description": "",
@@ -1089,7 +864,7 @@
       ]
     },
     {
-      "name": "SAMSUNG FOLD 6 5G DE 512GB Y 12 DE RAM ",
+      "name": "SAMSUNG FOLD 6 5G DE 512GB Y 12 DE RAM",
       "category": "CELULARES",
       "price": "2.100.000",
       "description": "",
@@ -1139,7 +914,7 @@
       ]
     },
     {
-      "name": "XIAOMI A5 DE 128GB Y 4 DE RAM ",
+      "name": "XIAOMI A5 DE 128GB Y 4 DE RAM",
       "category": "CELULARES",
       "price": "199.990",
       "description": "",
@@ -1151,7 +926,7 @@
       ]
     },
     {
-      "name": "XIAOMI POCO C71 DE 128GB Y 4 DE RAM ",
+      "name": "XIAOMI POCO C71 DE 128GB Y 4 DE RAM",
       "category": "CELULARES",
       "price": "199.990",
       "description": "",
@@ -1163,7 +938,7 @@
       ]
     },
     {
-      "name": "XIAOMI POCO C75 DE 128GB Y 6 DE RAM ",
+      "name": "XIAOMI POCO C75 DE 128GB Y 6 DE RAM",
       "category": "CELULARES",
       "price": "249.990",
       "description": "",
@@ -1200,7 +975,7 @@
       ]
     },
     {
-      "name": "XIAOMI NOTE 14 DE 128GB Y 6 DE RAM ",
+      "name": "XIAOMI NOTE 14 DE 128GB Y 6 DE RAM",
       "category": "CELULARES",
       "price": "299.990,00",
       "description": "",
@@ -1212,7 +987,7 @@
       ]
     },
     {
-      "name": "XIAOMI NOTE 14 DE 256GB Y 8 DE RAM ",
+      "name": "XIAOMI NOTE 14 DE 256GB Y 8 DE RAM",
       "category": "CELULARES",
       "price": "349.990",
       "description": "",
@@ -1224,7 +999,7 @@
       ]
     },
     {
-      "name": "XIAOMI POCO M7 PRO 5G DE 256GB Y 8 DE RAM ",
+      "name": "XIAOMI POCO M7 PRO 5G DE 256GB Y 8 DE RAM",
       "category": "CELULARES",
       "price": "349.990",
       "description": "",
@@ -1236,7 +1011,7 @@
       ]
     },
     {
-      "name": "XIAOMI NOTE 14S DE 256GB Y 8 DE RAM ",
+      "name": "XIAOMI NOTE 14S DE 256GB Y 8 DE RAM",
       "category": "CELULARES",
       "price": "389.990",
       "description": "",
@@ -1260,7 +1035,7 @@
       ]
     },
     {
-      "name": "XIAOMI NOTE 14 PRO DE 256GB Y 8 DE RAM ",
+      "name": "XIAOMI NOTE 14 PRO DE 256GB Y 8 DE RAM",
       "category": "CELULARES",
       "price": "419.990",
       "description": "",
@@ -1272,7 +1047,7 @@
       ]
     },
     {
-      "name": "XIAOMI NOTE 14 PRO 5G DE 256GB Y 8 DE RAM ",
+      "name": "XIAOMI NOTE 14 PRO 5G DE 256GB Y 8 DE RAM",
       "category": "CELULARES",
       "price": "480.000",
       "description": "",
@@ -1284,7 +1059,7 @@
       ]
     },
     {
-      "name": "XIAOMI POCO X7 5G DE 512GB Y 12 DE RAM ",
+      "name": "XIAOMI POCO X7 5G DE 512GB Y 12 DE RAM",
       "category": "CELULARES",
       "price": "480.000",
       "description": "",
@@ -1308,7 +1083,7 @@
       ]
     },
     {
-      "name": "XIAOMI POCO X6 PRO 5G  DE 512GB Y 12 DE RAM ",
+      "name": "XIAOMI POCO X6 PRO 5G  DE 512GB Y 12 DE RAM",
       "category": "CELULARES",
       "price": "499.990",
       "description": "",
@@ -1332,7 +1107,7 @@
       ]
     },
     {
-      "name": "XIAOMI NOTE 14 PRO PLUS 5G DE 256GB Y 8 DE RAM ",
+      "name": "XIAOMI NOTE 14 PRO PLUS 5G DE 256GB Y 8 DE RAM",
       "category": "CELULARES",
       "price": "549.990",
       "description": "",
@@ -1356,7 +1131,7 @@
       ]
     },
     {
-      "name": "XIAOMI POCO F6 PRO 5G DE 256GB Y 12 DE RAM ",
+      "name": "XIAOMI POCO F6 PRO 5G DE 256GB Y 12 DE RAM",
       "category": "CELULARES",
       "price": "599.990",
       "description": "",
@@ -1368,7 +1143,7 @@
       ]
     },
     {
-      "name": "XIAOMI NOTE 14 PRO PLUS 5G DE 256GB Y 12 DE RAM ",
+      "name": "XIAOMI NOTE 14 PRO PLUS 5G DE 256GB Y 12 DE RAM",
       "category": "CELULARES",
       "price": "650.000",
       "description": "",
@@ -1377,6 +1152,231 @@
         "/images/xiaomi_note_14_pro_plus_5g_de_256gb_y_12_de_ram.webp",
         "/images/xiaomi_note_14_pro_plus_5g_de_256gb_y_12_de_ram_1.webp",
         "/images/xiaomi_note_14_pro_plus_5g_de_256gb_y_12_de_ram_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 11 DE 64GB",
+      "category": "CELULARES",
+      "price": "399.900,00",
+      "description": "",
+      "image": "/images/iphone_11.webp",
+      "images": [
+        "/images/iphone_11.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 11 DE 128GB",
+      "category": "CELULARES",
+      "price": "439.900,00",
+      "description": "",
+      "image": "/images/iphone_11.webp",
+      "images": [
+        "/images/iphone_11.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 12 DE 64GB",
+      "category": "CELULARES",
+      "price": "470.000,00",
+      "description": "",
+      "image": "/images/iphone_12.webp",
+      "images": [
+        "/images/iphone_12.webp",
+        "/images/iphone_12_1.webp",
+        "/images/iphone_12_2.webp",
+        "/images/iphone_12_3.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 12 DE 128GB",
+      "category": "CELULARES",
+      "price": "499.990",
+      "description": "",
+      "image": "/images/iphone_12_de_128gb.webp",
+      "images": [
+        "/images/iphone_12_de_128gb.webp",
+        "/images/iphone_12_de_128gb_1.webp",
+        "/images/iphone_12_de_128gb_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 13 DE 128GB",
+      "category": "CELULARES",
+      "price": "649.990",
+      "description": "",
+      "image": "/images/iphone_13_de_128gb.webp",
+      "images": [
+        "/images/iphone_13_de_128gb.webp",
+        "/images/iphone_13_de_128gb_1.webp",
+        "/images/iphone_13_de_128gb_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 14 DE 128GB",
+      "category": "CELULARES",
+      "price": "699.990",
+      "description": "",
+      "image": "/images/iphone_14_de_128gb.webp",
+      "images": [
+        "/images/iphone_14_de_128gb.webp",
+        "/images/iphone_14_de_128gb_1.webp",
+        "/images/iphone_14_de_128gb_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 13 PRO DE 128GB",
+      "category": "CELULARES",
+      "price": "779.990",
+      "description": "",
+      "image": "/images/iphone_13_pro_de_128gb.webp",
+      "images": [
+        "/images/iphone_13_pro_de_128gb.webp",
+        "/images/iphone_13_pro_de_128gb_1.webp",
+        "/images/iphone_13_pro_de_128gb_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 15 DE 128GB",
+      "category": "CELULARES",
+      "price": "844.990",
+      "description": "",
+      "image": "/images/iphone_15_de_128gb.webp",
+      "images": [
+        "/images/iphone_15_de_128gb.webp",
+        "/images/iphone_15_de_128gb_1.webp",
+        "/images/iphone_15_de_128gb_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 16E DE 128GB NUEVO EN CAJA SELLADA",
+      "category": "CELULARES",
+      "price": "845.000",
+      "description": "",
+      "image": "/images/iphone_16e_de_128gb_nuevo_en_caja_sellada.webp",
+      "images": [
+        "/images/iphone_16e_de_128gb_nuevo_en_caja_sellada.webp",
+        "/images/iphone_16e_de_128gb_nuevo_en_caja_sellada_1.webp",
+        "/images/iphone_16e_de_128gb_nuevo_en_caja_sellada_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 15 DE 256GB",
+      "category": "CELULARES",
+      "price": "889.990",
+      "description": "",
+      "image": "/images/iphone_15_de_256gb.webp",
+      "images": [
+        "/images/iphone_15_de_256gb.webp",
+        "/images/iphone_15_de_256gb_1.webp",
+        "/images/iphone_15_de_256gb_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 13 PRO MAX DE 128GB",
+      "category": "CELULARES",
+      "price": "899.990",
+      "description": "",
+      "image": "/images/iphone_13_pro_max_de_128gb.webp",
+      "images": [
+        "/images/iphone_13_pro_max_de_128gb.webp",
+        "/images/iphone_13_pro_max_de_128gb_1.webp",
+        "/images/iphone_13_pro_max_de_128gb_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 16E DE 256GB NUEVO EN CAJA SELLADA",
+      "category": "CELULARES",
+      "price": "995.000",
+      "description": "",
+      "image": "/images/iphone_16e_de_256gb_nuevo_en_caja_sellada.webp",
+      "images": [
+        "/images/iphone_16e_de_256gb_nuevo_en_caja_sellada.webp",
+        "/images/iphone_16e_de_256gb_nuevo_en_caja_sellada_1.webp",
+        "/images/iphone_16e_de_256gb_nuevo_en_caja_sellada_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 16 DE 128GB NUEVO EN CAJA SELLADA",
+      "category": "CELULARES",
+      "price": "1.144.000",
+      "description": "",
+      "image": "/images/iphone_16_de_128gb_nuevo_en_caja_sellada.webp",
+      "images": [
+        "/images/iphone_16_de_128gb_nuevo_en_caja_sellada.webp",
+        "/images/iphone_16_de_128gb_nuevo_en_caja_sellada_1.webp",
+        "/images/iphone_16_de_128gb_nuevo_en_caja_sellada_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 16 DE 256GB NUEVO EN CAJA SELLADA",
+      "category": "CELULARES",
+      "price": "1.294.000",
+      "description": "",
+      "image": "/images/iphone_16_de_256gb_nuevo_en_caja_sellada.webp",
+      "images": [
+        "/images/iphone_16_de_256gb_nuevo_en_caja_sellada.webp",
+        "/images/iphone_16_de_256gb_nuevo_en_caja_sellada_1.webp",
+        "/images/iphone_16_de_256gb_nuevo_en_caja_sellada_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 16 PRO DE 128GB NUEVO EN CAJA SELLADA",
+      "category": "CELULARES",
+      "price": "1.340.000",
+      "description": "",
+      "image": "/images/iphone_16_pro_de_128gb_nuevo_en_caja_sellada.webp",
+      "images": [
+        "/images/iphone_16_pro_de_128gb_nuevo_en_caja_sellada.webp",
+        "/images/iphone_16_pro_de_128gb_nuevo_en_caja_sellada_1.webp",
+        "/images/iphone_16_pro_de_128gb_nuevo_en_caja_sellada_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 16 PRO DE 256GB NUEVO EN CAJA SELLADA",
+      "category": "CELULARES",
+      "price": "1.465.000",
+      "description": "",
+      "image": "/images/iphone_16_pro_de_256gb_nuevo_en_caja_sellada.webp",
+      "images": [
+        "/images/iphone_16_pro_de_256gb_nuevo_en_caja_sellada.webp",
+        "/images/iphone_16_pro_de_256gb_nuevo_en_caja_sellada_1.webp",
+        "/images/iphone_16_pro_de_256gb_nuevo_en_caja_sellada_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 16 PRO MAX DE 256GB NUEVO EN CAJA SELLADA",
+      "category": "CELULARES",
+      "price": "1.590.000",
+      "description": "",
+      "image": "/images/iphone_16_pro_max_de_256gb_nuevo_en_caja_sellada.webp",
+      "images": [
+        "/images/iphone_16_pro_max_de_256gb_nuevo_en_caja_sellada.webp",
+        "/images/iphone_16_pro_max_de_256gb_nuevo_en_caja_sellada_1.webp",
+        "/images/iphone_16_pro_max_de_256gb_nuevo_en_caja_sellada_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 16 PRO MAX DE 512GB NUEVO EN CAJA SELLADA",
+      "category": "CELULARES",
+      "price": "1.890.000",
+      "description": "",
+      "image": "/images/iphone_16_pro_max_de_512gb_nuevo_en_caja_sellada.webp",
+      "images": [
+        "/images/iphone_16_pro_max_de_512gb_nuevo_en_caja_sellada.webp",
+        "/images/iphone_16_pro_max_de_512gb_nuevo_en_caja_sellada_1.webp",
+        "/images/iphone_16_pro_max_de_512gb_nuevo_en_caja_sellada_2.webp"
+      ]
+    },
+    {
+      "name": "IPHONE 16 PRO MAX DE 1TB NUEVO EN CAJA SELLADA",
+      "category": "CELULARES",
+      "price": "2.210.000",
+      "description": "",
+      "image": "/images/iphone_16_pro_max_de_1tb_nuevo_en_caja_sellada.webp",
+      "images": [
+        "/images/iphone_16_pro_max_de_1tb_nuevo_en_caja_sellada.webp",
+        "/images/iphone_16_pro_max_de_1tb_nuevo_en_caja_sellada_1.webp",
+        "/images/iphone_16_pro_max_de_1tb_nuevo_en_caja_sellada_2.webp"
       ]
     },
     {
@@ -3388,6 +3388,174 @@
       "image": "/images/balanza_personal_de_bao.webp",
       "images": [
         "/images/balanza_personal_de_bao.webp"
+      ]
+    },
+    {
+      "name": "LAVARROPA DREAN 7 KG",
+      "category": "HOGAR",
+      "price": "399.990",
+      "description": "7KG DE CAPACIDAD, UNICO CON SISTEMA DE LAVADO EUROPEO, TAMBOR DE ACERO INOXIDABLE , 35% DE AHORRO DE ENERGIA Y 70% AHORRO DE AGUA.",
+      "image": "/images/lavarropa_drean_7_kg.webp",
+      "images": [
+        "/images/lavarropa_drean_7_kg.webp",
+        "/images/lavarropa_drean_7_kg_1.webp",
+        "/images/lavarropa_drean_7_kg_2.webp"
+      ]
+    },
+    {
+      "name": "LAVARROPA DREAN 6 KG",
+      "category": "HOGAR",
+      "price": "799.990",
+      "description": "A+ MAXICA EFICANCIA, 30´ EL MEJOR LAVADO EN TIEMPO RECORD, ELIMINA EL 99,9% DE BACTERIAS, AQUA SENSE Y AUTOBALANCE , 6KG DE LAVADO.",
+      "image": "/images/lavarropa_drean_6_kg.webp",
+      "images": [
+        "/images/lavarropa_drean_6_kg.webp",
+        "/images/lavarropa_drean_6_kg_1.webp",
+        "/images/lavarropa_drean_6_kg_2.webp"
+      ]
+    },
+    {
+      "name": "LAVARROPA PHILCO SILVER",
+      "category": "HOGAR",
+      "price": "750.000",
+      "description": "6.5KG DE LAVADO",
+      "image": "/images/lavarropa_philco_silver.webp",
+      "images": [
+        "/images/lavarropa_philco_silver.webp",
+        "/images/lavarropa_philco_silver_1.webp",
+        "/images/lavarropa_philco_silver_2.webp"
+      ]
+    },
+    {
+      "name": "LAVARROPA PHILCO 6.5 KG",
+      "category": "HOGAR",
+      "price": "750.000",
+      "description": "CARGA FLONTAL, 6.5KG DE LAVADO.",
+      "image": "/images/lavarropa_philco_65_kg.webp",
+      "images": [
+        "/images/lavarropa_philco_65_kg.webp",
+        "/images/lavarropa_philco_65_kg_1.webp",
+        "/images/lavarropa_philco_65_kg_2.webp"
+      ]
+    },
+    {
+      "name": "LAVARROPA PHILCO 8 KG",
+      "category": "HOGAR",
+      "price": "870.000",
+      "description": " CARGA FRONTAL DE  8GK INVERTER 1400RPM",
+      "image": "/images/lavarropa_philco_8_kg.webp",
+      "images": [
+        "/images/lavarropa_philco_8_kg.webp",
+        "/images/lavarropa_philco_8_kg_1.webp",
+        "/images/lavarropa_philco_8_kg_2.webp"
+      ]
+    },
+    {
+      "name": "SECARROPA CODINI",
+      "category": "HOGAR",
+      "price": "250.000",
+      "description": "6,5K.",
+      "image": "/images/secarropa_codini.webp",
+      "images": [
+        "/images/secarropa_codini.webp",
+        "/images/secarropa_codini_1.webp",
+        "/images/secarropa_codini_2.webp"
+      ]
+    },
+    {
+      "name": "LAVARROPA SEMIAUTOMATICO CODINI",
+      "category": "HOGAR",
+      "price": "250.000",
+      "description": "10K.",
+      "image": "/images/lavarropa_semiautomatico_codini.webp",
+      "images": [
+        "/images/lavarropa_semiautomatico_codini.webp",
+        "/images/lavarropa_semiautomatico_codini_1.webp",
+        "/images/lavarropa_semiautomatico_codini_2.webp"
+      ]
+    },
+    {
+      "name": "COCINA COCINEX",
+      "category": "HOGAR",
+      "price": "399.990",
+      "description": "4 hornallas con robinete, metal reforzado, puerta de vidrio templado.Alto 86cm, ancho 50,5cm , profundidad 45cm,GAS ENVASADO!",
+      "image": "/images/cocina_cocinex.jpeg",
+      "images": [
+        "/images/cocina_cocinex.jpeg",
+        "/images/cocina_cocinex_1.webp",
+        "/images/cocina_cocinex_2.webp"
+      ]
+    },
+    {
+      "name": "COCINA CALABRIA",
+      "category": "HOGAR",
+      "price": "359.990",
+      "description": "",
+      "image": "/images/cocina_calabria.webp",
+      "images": [
+        "/images/cocina_calabria.webp",
+        "/images/cocina_calabria_1.webp",
+        "/images/cocina_calabria_2.webp"
+      ]
+    },
+    {
+      "name": "COCINA MORELLI KUMA 510",
+      "category": "HOGAR",
+      "price": "499.990",
+      "description": "GAS NATURAL Y ACERO INOXIDABLE.",
+      "image": "/images/cocina_morelli_kuma_510.webp",
+      "images": [
+        "/images/cocina_morelli_kuma_510.webp",
+        "/images/cocina_morelli_kuma_510_1.webp",
+        "/images/cocina_morelli_kuma_510_2.webp"
+      ]
+    },
+    {
+      "name": "HELADERA LACAR 216 LITROS",
+      "category": "HOGAR",
+      "price": "599.990",
+      "description": "",
+      "image": "/images/heladera_lacar_216_litros.webp",
+      "images": [
+        "/images/heladera_lacar_216_litros.webp",
+        "/images/heladera_lacar_216_litros_1.webp",
+        "/images/heladera_lacar_216_litros_2.webp"
+      ]
+    },
+    {
+      "name": "HELADERA LACAR 280 LITROS",
+      "category": "HOGAR",
+      "price": "749.990",
+      "description": "",
+      "image": "/images/heladera_lacar_280_litros.webp",
+      "images": [
+        "/images/heladera_lacar_280_litros.webp",
+        "/images/heladera_lacar_280_litros_1.webp",
+        "/images/heladera_lacar_280_litros_2.webp"
+      ]
+    },
+    {
+      "name": "HELADERA SIAM 340 LITROS",
+      "category": "HOGAR",
+      "price": "799.990",
+      "description": "",
+      "image": "/images/heladera_siam_340_litros.webp",
+      "images": [
+        "/images/heladera_siam_340_litros.webp",
+        "/images/heladera_siam_340_litros_1.webp",
+        "/images/heladera_siam_340_litros_2.webp"
+      ]
+    },
+    {
+      "name": "HELADERA PHILCO 200 LITROS",
+      "category": "HOGAR",
+      "price": "630.000",
+      "description": "",
+      "image": "/images/heladera_philco_200_litros.webp",
+      "images": [
+        "/images/heladera_philco_200_litros.webp",
+        "/images/heladera_philco_200_litros_1.webp",
+        "/images/heladera_philco_200_litros_2.webp"
       ]
     },
     {
@@ -6799,171 +6967,147 @@
       ]
     },
     {
-      "name": "LAVARROPA DREAN 7 KG",
-      "category": "HOGAR",
-      "price": "399.990",
-      "description": "7KG DE CAPACIDAD, UNICO CON SISTEMA DE LAVADO EUROPEO, TAMBOR DE ACERO INOXIDABLE , 35% DE AHORRO DE ENERGIA Y 70% AHORRO DE AGUA.",
-      "image": "/images/lavarropa_drean_7_kg.webp",
-      "images": [
-        "/images/lavarropa_drean_7_kg.webp",
-        "/images/lavarropa_drean_7_kg_1.webp",
-        "/images/lavarropa_drean_7_kg_2.webp"
-      ]
-    },
-    {
-      "name": "LAVARROPA DREAN 6 KG",
-      "category": "HOGAR",
-      "price": "799.990",
-      "description": "A+ MAXICA EFICANCIA, 30´ EL MEJOR LAVADO EN TIEMPO RECORD, ELIMINA EL 99,9% DE BACTERIAS, AQUA SENSE Y AUTOBALANCE , 6KG DE LAVADO.",
-      "image": "/images/lavarropa_drean_6_kg.webp",
-      "images": [
-        "/images/lavarropa_drean_6_kg.webp",
-        "/images/lavarropa_drean_6_kg_1.webp",
-        "/images/lavarropa_drean_6_kg_2.webp"
-      ]
-    },
-    {
-      "name": "LAVARROPA PHILCO SILVER",
-      "category": "HOGAR",
-      "price": "750.000",
-      "description": "6.5KG DE LAVADO ",
-      "image": "/images/lavarropa_philco_silver.webp",
-      "images": [
-        "/images/lavarropa_philco_silver.webp",
-        "/images/lavarropa_philco_silver_1.webp",
-        "/images/lavarropa_philco_silver_2.webp"
-      ]
-    },
-    {
-      "name": "LAVARROPA PHILCO 6.5 KG",
-      "category": "HOGAR",
-      "price": "750.000",
-      "description": "CARGA FLONTAL, 6.5KG DE LAVADO.",
-      "image": "/images/lavarropa_philco_65_kg.webp",
-      "images": [
-        "/images/lavarropa_philco_65_kg.webp",
-        "/images/lavarropa_philco_65_kg_1.webp",
-        "/images/lavarropa_philco_65_kg_2.webp"
-      ]
-    },
-    {
-      "name": "LAVARROPA PHILCO 8 KG",
-      "category": "HOGAR",
-      "price": "870.000",
-      "description": " CARGA FRONTAL DE  8GK INVERTER 1400RPM",
-      "image": "/images/lavarropa_philco_8_kg.webp",
-      "images": [
-        "/images/lavarropa_philco_8_kg.webp",
-        "/images/lavarropa_philco_8_kg_1.webp",
-        "/images/lavarropa_philco_8_kg_2.webp"
-      ]
-    },
-    {
-      "name": "SECARROPA CODINI ",
-      "category": "HOGAR",
-      "price": "250.000",
-      "description": "6,5K.",
-      "image": "/images/secarropa_codini.webp",
-      "images": [
-        "/images/secarropa_codini.webp",
-        "/images/secarropa_codini_1.webp",
-        "/images/secarropa_codini_2.webp"
-      ]
-    },
-    {
-      "name": "LAVARROPA SEMIAUTOMATICO CODINI ",
-      "category": "HOGAR",
-      "price": "250.000",
-      "description": "10K.",
-      "image": "/images/lavarropa_semiautomatico_codini.webp",
-      "images": [
-        "/images/lavarropa_semiautomatico_codini.webp",
-        "/images/lavarropa_semiautomatico_codini_1.webp",
-        "/images/lavarropa_semiautomatico_codini_2.webp"
-      ]
-    },
-    {
-      "name": "COCINA COCINEX ",
-      "category": "HOGAR",
-      "price": "399.990",
-      "description": "4 hornallas con robinete, metal reforzado, puerta de vidrio templado.Alto 86cm, ancho 50,5cm , profundidad 45cm,GAS ENVASADO!",
-      "image": "/images/cocina_cocinex.webp",
-      "images": [
-        "/images/cocina_cocinex.webp",
-        "/images/cocina_cocinex_1.webp",
-        "/images/cocina_cocinex_2.webp"
-      ]
-    },
-    {
-      "name": "COCINA CALABRIA ",
-      "category": "HOGAR",
-      "price": "359.990",
+      "name": "MINIPIMER 500W ",
+      "category": "COCINA",
+      "price": "$24.990",
       "description": "",
-      "image": "/images/cocina_calabria.webp",
+      "image": "/images/minipimer_500w.webp",
       "images": [
-        "/images/cocina_calabria.webp",
-        "/images/cocina_calabria_1.webp",
-        "/images/cocina_calabria_2.webp"
+        "/images/minipimer_500w.webp",
+        "/images/minipimer_500w_1.webp",
+        "/images/minipimer_500w_2.webp"
       ]
     },
     {
-      "name": "COCINA MORELLI KUMA 510",
-      "category": "HOGAR",
-      "price": "499.990",
-      "description": "GAS NATURAL Y ACERO INOXIDABLE.",
-      "image": "/images/cocina_morelli_kuma_510.webp",
-      "images": [
-        "/images/cocina_morelli_kuma_510.webp",
-        "/images/cocina_morelli_kuma_510_1.webp",
-        "/images/cocina_morelli_kuma_510_2.webp"
-      ]
-    },
-    {
-      "name": "HELADERA LACAR 216 LITROS ",
-      "category": "HOGAR",
-      "price": "599.990",
+      "name": "PANCHUQUERA OM",
+      "category": "COCINA",
+      "price": "$45.990",
       "description": "",
-      "image": "/images/heladera_lacar_216_litros.webp",
+      "image": "/images/panchuquera_om.webp",
       "images": [
-        "/images/heladera_lacar_216_litros.webp",
-        "/images/heladera_lacar_216_litros_1.webp",
-        "/images/heladera_lacar_216_litros_2.webp"
+        "/images/panchuquera_om.webp",
+        "/images/panchuquera_om_1.webp",
+        "/images/panchuquera_om_2.webp"
       ]
     },
     {
-      "name": "HELADERA LACAR 280 LITROS ",
-      "category": "HOGAR",
-      "price": "749.990",
+      "name": "DISPENSER DE CEREALES 2L",
+      "category": "COCINA",
+      "price": "$19.990",
       "description": "",
-      "image": "/images/heladera_lacar_280_litros.webp",
+      "image": "/images/dispenser_de_cereales_2l.webp",
       "images": [
-        "/images/heladera_lacar_280_litros.webp",
-        "/images/heladera_lacar_280_litros_1.webp",
-        "/images/heladera_lacar_280_litros_2.webp"
+        "/images/dispenser_de_cereales_2l.webp",
+        "/images/dispenser_de_cereales_2l_1.webp",
+        "/images/dispenser_de_cereales_2l_2.webp"
       ]
     },
     {
-      "name": "HELADERA SIAM 340 LITROS",
-      "category": "HOGAR",
-      "price": "799.990",
+      "name": "CONTADORA DE BILLETES HYTOSHY",
+      "category": "TECNOLOGIA ",
+      "price": "$159.990",
       "description": "",
-      "image": "/images/heladera_siam_340_litros.webp",
+      "image": "/images/contadora_de_billetes_hytoshy.webp",
       "images": [
-        "/images/heladera_siam_340_litros.webp",
-        "/images/heladera_siam_340_litros_1.webp",
-        "/images/heladera_siam_340_litros_2.webp"
+        "/images/contadora_de_billetes_hytoshy.webp",
+        "/images/contadora_de_billetes_hytoshy_1.webp",
+        "/images/contadora_de_billetes_hytoshy_2.webp"
       ]
     },
     {
-      "name": "HELADERA PHILCO 200 LITROS",
-      "category": "HOGAR",
-      "price": "630.000",
+      "name": "CONTADORA DE BILLETES GLOBAL",
+      "category": "TECNOLOGIA ",
+      "price": "$159.990",
       "description": "",
-      "image": "/images/heladera_philco_200_litros.webp",
+      "image": "/images/contadora_de_billetes_global.webp",
       "images": [
-        "/images/heladera_philco_200_litros.webp",
-        "/images/heladera_philco_200_litros_1.webp",
-        "/images/heladera_philco_200_litros_2.webp"
+        "/images/contadora_de_billetes_global.webp",
+        "/images/contadora_de_billetes_global_1.webp",
+        "/images/contadora_de_billetes_global_2.webp"
+      ]
+    },
+    {
+      "name": "DRONE 998 PRO 4K",
+      "category": "TECNOLOGIA ",
+      "price": "$54.990",
+      "description": "PUEDE ALCALZAR UNA VELOCIDAD MAXICA DE 36KM/H, OFRECE UN TIEMPO DE VUELO DE 20 A 30 MINUTOS Y SE CARGA EN APROXIMADAMENTE EN 45 MINUTOS ",
+      "image": "/images/drone_998_pro_4k.webp",
+      "images": [
+        "/images/drone_998_pro_4k.webp",
+        "/images/drone_998_pro_4k_1.webp",
+        "/images/drone_998_pro_4k_2.webp"
+      ]
+    },
+    {
+      "name": "DRONE Y3 ULTRA ",
+      "category": "TECNOLOGIA ",
+      "price": "$109.990",
+      "description": "",
+      "image": "/images/drone_y3_ultra.webp",
+      "images": [
+        "/images/drone_y3_ultra.webp",
+        "/images/drone_y3_ultra_1.webp",
+        "/images/drone_y3_ultra_2.webp"
+      ]
+    },
+    {
+      "name": "HORNO FREIDOR ELECTRICO",
+      "category": "COCINA",
+      "price": "$249.990",
+      "description": "",
+      "image": "/images/horno_freidor_electrico.webp",
+      "images": [
+        "/images/horno_freidor_electrico.webp",
+        "/images/horno_freidor_electrico_1.webp",
+        "/images/horno_freidor_electrico_2.webp"
+      ]
+    },
+    {
+      "name": "PLANCHA SECA WINCO",
+      "category": "HOGAR ",
+      "price": "$49.990",
+      "description": "",
+      "image": "/images/plancha_seca_winco.webp",
+      "images": [
+        "/images/plancha_seca_winco.webp",
+        "/images/plancha_seca_winco_1.webp",
+        "/images/plancha_seca_winco_2.webp"
+      ]
+    },
+    {
+      "name": "PLANCHA A VAPOR KANJI",
+      "category": "HOGAR ",
+      "price": "$59.990",
+      "description": "",
+      "image": "/images/plancha_a_vapor_kanji.webp",
+      "images": [
+        "/images/plancha_a_vapor_kanji.webp",
+        "/images/plancha_a_vapor_kanji_1.webp",
+        "/images/plancha_a_vapor_kanji_2.webp"
+      ]
+    },
+    {
+      "name": "MINI MAQUINA DE COSER ",
+      "category": "HOGAR ",
+      "price": "$29.990",
+      "description": "",
+      "image": "/images/mini_maquina_de_coser.webp",
+      "images": [
+        "/images/mini_maquina_de_coser.webp",
+        "/images/mini_maquina_de_coser_1.webp",
+        "/images/mini_maquina_de_coser_2.webp"
+      ]
+    },
+    {
+      "name": "MAQUINA DE COSER ORYX",
+      "category": "HOGAR ",
+      "price": "$89.990",
+      "description": "",
+      "image": "/images/maquina_de_coser_oryx.webp",
+      "images": [
+        "/images/maquina_de_coser_oryx.webp",
+        "/images/maquina_de_coser_oryx_1.webp",
+        "/images/maquina_de_coser_oryx_2.webp"
       ]
     }
   ]
