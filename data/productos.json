@@ -1607,6 +1607,54 @@
       ]
     },
     {
+      "name": "CONTADORA DE BILLETES HYTOSHY",
+      "category": "TECNOLOGIA",
+      "price": "159.990",
+      "description": "",
+      "image": "/images/contadora_de_billetes_hytoshy.webp",
+      "images": [
+        "/images/contadora_de_billetes_hytoshy.webp",
+        "/images/contadora_de_billetes_hytoshy_1.webp",
+        "/images/contadora_de_billetes_hytoshy_2.webp"
+      ]
+    },
+    {
+      "name": "CONTADORA DE BILLETES GLOBAL",
+      "category": "TECNOLOGIA",
+      "price": "159.990",
+      "description": "",
+      "image": "/images/contadora_de_billetes_global.webp",
+      "images": [
+        "/images/contadora_de_billetes_global.webp",
+        "/images/contadora_de_billetes_global_1.webp",
+        "/images/contadora_de_billetes_global_2.webp"
+      ]
+    },
+    {
+      "name": "DRONE 998 PRO 4K",
+      "category": "TECNOLOGIA",
+      "price": "54.990",
+      "description": "PUEDE ALCALZAR UNA VELOCIDAD MAXICA DE 36KM/H, OFRECE UN TIEMPO DE VUELO DE 20 A 30 MINUTOS Y SE CARGA EN APROXIMADAMENTE EN 45 MINUTOS ",
+      "image": "/images/drone_998_pro_4k.webp",
+      "images": [
+        "/images/drone_998_pro_4k.webp",
+        "/images/drone_998_pro_4k_1.webp",
+        "/images/drone_998_pro_4k_2.webp"
+      ]
+    },
+    {
+      "name": "DRONE Y3 ULTRA",
+      "category": "TECNOLOGIA",
+      "price": "109.990",
+      "description": "",
+      "image": "/images/drone_y3_ultra.webp",
+      "images": [
+        "/images/drone_y3_ultra.webp",
+        "/images/drone_y3_ultra_1.webp",
+        "/images/drone_y3_ultra_2.webp"
+      ]
+    },
+    {
       "name": "CAMARA FALSA SOLAR DOMO",
       "category": "CAMARAS",
       "price": "10.990,00",
@@ -1908,6 +1956,18 @@
         "/images/secaplatos_2_niveles_65cm_con_tapa_2.webp",
         "/images/secaplatos_2_niveles_65cm_con_tapa_3.webp",
         "/images/secaplatos_2_niveles_65cm_con_tapa_4.webp"
+      ]
+    },
+    {
+      "name": "HORNO FREIDOR ELECTRICO",
+      "category": "COCINA",
+      "price": "249.990",
+      "description": "",
+      "image": "/images/horno_freidor_electrico.webp",
+      "images": [
+        "/images/horno_freidor_electrico.webp",
+        "/images/horno_freidor_electrico_1.webp",
+        "/images/horno_freidor_electrico_2.webp"
       ]
     },
     {
@@ -2448,6 +2508,42 @@
         "/images/balanza_de_cocina.webp",
         "/images/balanza_de_cocina_1.webp",
         "/images/balanza_de_cocina_2.webp"
+      ]
+    },
+    {
+      "name": "MINIPIMER 500W ",
+      "category": "COCINA",
+      "price": "24.990",
+      "description": "",
+      "image": "/images/minipimer_500w.webp",
+      "images": [
+        "/images/minipimer_500w.webp",
+        "/images/minipimer_500w_1.webp",
+        "/images/minipimer_500w_2.webp"
+      ]
+    },
+    {
+      "name": "PANCHUQUERA OM",
+      "category": "COCINA",
+      "price": "45.990",
+      "description": "",
+      "image": "/images/panchuquera_om.webp",
+      "images": [
+        "/images/panchuquera_om.webp",
+        "/images/panchuquera_om_1.webp",
+        "/images/panchuquera_om_2.webp"
+      ]
+    },
+    {
+      "name": "DISPENSER DE CEREALES 2L",
+      "category": "COCINA",
+      "price": "19.990",
+      "description": "",
+      "image": "/images/dispenser_de_cereales_2l.webp",
+      "images": [
+        "/images/dispenser_de_cereales_2l.webp",
+        "/images/dispenser_de_cereales_2l_1.webp",
+        "/images/dispenser_de_cereales_2l_2.webp"
       ]
     },
     {
@@ -3559,6 +3655,54 @@
       ]
     },
     {
+      "name": "PLANCHA SECA WINCO",
+      "category": "HOGAR",
+      "price": "49.990",
+      "description": "",
+      "image": "/images/plancha_seca_winco.webp",
+      "images": [
+        "/images/plancha_seca_winco.webp",
+        "/images/plancha_seca_winco_1.webp",
+        "/images/plancha_seca_winco_2.webp"
+      ]
+    },
+    {
+      "name": "PLANCHA A VAPOR KANJI",
+      "category": "HOGAR",
+      "price": "59.990",
+      "description": "",
+      "image": "/images/plancha_a_vapor_kanji.webp",
+      "images": [
+        "/images/plancha_a_vapor_kanji.webp",
+        "/images/plancha_a_vapor_kanji_1.webp",
+        "/images/plancha_a_vapor_kanji_2.webp"
+      ]
+    },
+    {
+      "name": "MINI MAQUINA DE COSER ",
+      "category": "HOGAR",
+      "price": "29.990",
+      "description": "",
+      "image": "/images/mini_maquina_de_coser.webp",
+      "images": [
+        "/images/mini_maquina_de_coser.webp",
+        "/images/mini_maquina_de_coser_1.webp",
+        "/images/mini_maquina_de_coser_2.webp"
+      ]
+    },
+    {
+      "name": "MAQUINA DE COSER ORYX",
+      "category": "HOGAR",
+      "price": "89.990",
+      "description": "",
+      "image": "/images/maquina_de_coser_oryx.webp",
+      "images": [
+        "/images/maquina_de_coser_oryx.webp",
+        "/images/maquina_de_coser_oryx_1.webp",
+        "/images/maquina_de_coser_oryx_2.webp"
+      ]
+    },
+    {
       "name": "Linterna Busca Hulla Recargable (CAJAS DAÑADAS)",
       "category": "Linternas",
       "price": "19.900,00",
@@ -4430,7 +4574,7 @@
       ]
     },
     {
-      "name": "Porta Rollo de Film de COCINAcon Cortador",
+      "name": "Porta Rollo de Film de COCINA con Cortador",
       "category": "Pequeños De Cocina",
       "price": "12.990,00",
       "description": "",
@@ -6964,150 +7108,6 @@
         "/images/multimetro_digital.webp",
         "/images/multimetro_digital_1.webp",
         "/images/multimetro_digital_2.webp"
-      ]
-    },
-    {
-      "name": "MINIPIMER 500W ",
-      "category": "COCINA",
-      "price": "24.990",
-      "description": "",
-      "image": "/images/minipimer_500w.webp",
-      "images": [
-        "/images/minipimer_500w.webp",
-        "/images/minipimer_500w_1.webp",
-        "/images/minipimer_500w_2.webp"
-      ]
-    },
-    {
-      "name": "PANCHUQUERA OM",
-      "category": "COCINA",
-      "price": "45.990",
-      "description": "",
-      "image": "/images/panchuquera_om.webp",
-      "images": [
-        "/images/panchuquera_om.webp",
-        "/images/panchuquera_om_1.webp",
-        "/images/panchuquera_om_2.webp"
-      ]
-    },
-    {
-      "name": "DISPENSER DE CEREALES 2L",
-      "category": "COCINA",
-      "price": "19.990",
-      "description": "",
-      "image": "/images/dispenser_de_cereales_2l.webp",
-      "images": [
-        "/images/dispenser_de_cereales_2l.webp",
-        "/images/dispenser_de_cereales_2l_1.webp",
-        "/images/dispenser_de_cereales_2l_2.webp"
-      ]
-    },
-    {
-      "name": "CONTADORA DE BILLETES HYTOSHY",
-      "category": "TECNOLOGIA ",
-      "price": "159.990",
-      "description": "",
-      "image": "/images/contadora_de_billetes_hytoshy.webp",
-      "images": [
-        "/images/contadora_de_billetes_hytoshy.webp",
-        "/images/contadora_de_billetes_hytoshy_1.webp",
-        "/images/contadora_de_billetes_hytoshy_2.webp"
-      ]
-    },
-    {
-      "name": "CONTADORA DE BILLETES GLOBAL",
-      "category": "TECNOLOGIA ",
-      "price": "159.990",
-      "description": "",
-      "image": "/images/contadora_de_billetes_global.webp",
-      "images": [
-        "/images/contadora_de_billetes_global.webp",
-        "/images/contadora_de_billetes_global_1.webp",
-        "/images/contadora_de_billetes_global_2.webp"
-      ]
-    },
-    {
-      "name": "DRONE 998 PRO 4K",
-      "category": "TECNOLOGIA ",
-      "price": "54.990",
-      "description": "PUEDE ALCALZAR UNA VELOCIDAD MAXICA DE 36KM/H, OFRECE UN TIEMPO DE VUELO DE 20 A 30 MINUTOS Y SE CARGA EN APROXIMADAMENTE EN 45 MINUTOS ",
-      "image": "/images/drone_998_pro_4k.webp",
-      "images": [
-        "/images/drone_998_pro_4k.webp",
-        "/images/drone_998_pro_4k_1.webp",
-        "/images/drone_998_pro_4k_2.webp"
-      ]
-    },
-    {
-      "name": "DRONE Y3 ULTRA ",
-      "category": "TECNOLOGIA ",
-      "price": "109.990",
-      "description": "",
-      "image": "/images/drone_y3_ultra.webp",
-      "images": [
-        "/images/drone_y3_ultra.webp",
-        "/images/drone_y3_ultra_1.webp",
-        "/images/drone_y3_ultra_2.webp"
-      ]
-    },
-    {
-      "name": "HORNO FREIDOR ELECTRICO",
-      "category": "COCINA",
-      "price": "249.990",
-      "description": "",
-      "image": "/images/horno_freidor_electrico.webp",
-      "images": [
-        "/images/horno_freidor_electrico.webp",
-        "/images/horno_freidor_electrico_1.webp",
-        "/images/horno_freidor_electrico_2.webp"
-      ]
-    },
-    {
-      "name": "PLANCHA SECA WINCO",
-      "category": "HOGAR ",
-      "price": "49.990",
-      "description": "",
-      "image": "/images/plancha_seca_winco.webp",
-      "images": [
-        "/images/plancha_seca_winco.webp",
-        "/images/plancha_seca_winco_1.webp",
-        "/images/plancha_seca_winco_2.webp"
-      ]
-    },
-    {
-      "name": "PLANCHA A VAPOR KANJI",
-      "category": "HOGAR ",
-      "price": "59.990",
-      "description": "",
-      "image": "/images/plancha_a_vapor_kanji.webp",
-      "images": [
-        "/images/plancha_a_vapor_kanji.webp",
-        "/images/plancha_a_vapor_kanji_1.webp",
-        "/images/plancha_a_vapor_kanji_2.webp"
-      ]
-    },
-    {
-      "name": "MINI MAQUINA DE COSER ",
-      "category": "HOGAR ",
-      "price": "29.990",
-      "description": "",
-      "image": "/images/mini_maquina_de_coser.webp",
-      "images": [
-        "/images/mini_maquina_de_coser.webp",
-        "/images/mini_maquina_de_coser_1.webp",
-        "/images/mini_maquina_de_coser_2.webp"
-      ]
-    },
-    {
-      "name": "MAQUINA DE COSER ORYX",
-      "category": "HOGAR ",
-      "price": "89.990",
-      "description": "",
-      "image": "/images/maquina_de_coser_oryx.webp",
-      "images": [
-        "/images/maquina_de_coser_oryx.webp",
-        "/images/maquina_de_coser_oryx_1.webp",
-        "/images/maquina_de_coser_oryx_2.webp"
       ]
     }
   ]
