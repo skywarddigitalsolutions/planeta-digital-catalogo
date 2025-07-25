@@ -6969,7 +6969,7 @@
     {
       "name": "MINIPIMER 500W ",
       "category": "COCINA",
-      "price": "$24.990",
+      "price": "24.990",
       "description": "",
       "image": "/images/minipimer_500w.webp",
       "images": [
@@ -6981,7 +6981,7 @@
     {
       "name": "PANCHUQUERA OM",
       "category": "COCINA",
-      "price": "$45.990",
+      "price": "45.990",
       "description": "",
       "image": "/images/panchuquera_om.webp",
       "images": [
@@ -6993,7 +6993,7 @@
     {
       "name": "DISPENSER DE CEREALES 2L",
       "category": "COCINA",
-      "price": "$19.990",
+      "price": "19.990",
       "description": "",
       "image": "/images/dispenser_de_cereales_2l.webp",
       "images": [
@@ -7005,7 +7005,7 @@
     {
       "name": "CONTADORA DE BILLETES HYTOSHY",
       "category": "TECNOLOGIA ",
-      "price": "$159.990",
+      "price": "159.990",
       "description": "",
       "image": "/images/contadora_de_billetes_hytoshy.webp",
       "images": [
@@ -7017,7 +7017,7 @@
     {
       "name": "CONTADORA DE BILLETES GLOBAL",
       "category": "TECNOLOGIA ",
-      "price": "$159.990",
+      "price": "159.990",
       "description": "",
       "image": "/images/contadora_de_billetes_global.webp",
       "images": [
@@ -7029,7 +7029,7 @@
     {
       "name": "DRONE 998 PRO 4K",
       "category": "TECNOLOGIA ",
-      "price": "$54.990",
+      "price": "54.990",
       "description": "PUEDE ALCALZAR UNA VELOCIDAD MAXICA DE 36KM/H, OFRECE UN TIEMPO DE VUELO DE 20 A 30 MINUTOS Y SE CARGA EN APROXIMADAMENTE EN 45 MINUTOS ",
       "image": "/images/drone_998_pro_4k.webp",
       "images": [
@@ -7041,7 +7041,7 @@
     {
       "name": "DRONE Y3 ULTRA ",
       "category": "TECNOLOGIA ",
-      "price": "$109.990",
+      "price": "109.990",
       "description": "",
       "image": "/images/drone_y3_ultra.webp",
       "images": [
@@ -7053,7 +7053,7 @@
     {
       "name": "HORNO FREIDOR ELECTRICO",
       "category": "COCINA",
-      "price": "$249.990",
+      "price": "249.990",
       "description": "",
       "image": "/images/horno_freidor_electrico.webp",
       "images": [
@@ -7065,7 +7065,7 @@
     {
       "name": "PLANCHA SECA WINCO",
       "category": "HOGAR ",
-      "price": "$49.990",
+      "price": "49.990",
       "description": "",
       "image": "/images/plancha_seca_winco.webp",
       "images": [
@@ -7077,7 +7077,7 @@
     {
       "name": "PLANCHA A VAPOR KANJI",
       "category": "HOGAR ",
-      "price": "$59.990",
+      "price": "59.990",
       "description": "",
       "image": "/images/plancha_a_vapor_kanji.webp",
       "images": [
@@ -7089,7 +7089,7 @@
     {
       "name": "MINI MAQUINA DE COSER ",
       "category": "HOGAR ",
-      "price": "$29.990",
+      "price": "29.990",
       "description": "",
       "image": "/images/mini_maquina_de_coser.webp",
       "images": [
@@ -7101,7 +7101,7 @@
     {
       "name": "MAQUINA DE COSER ORYX",
       "category": "HOGAR ",
-      "price": "$89.990",
+      "price": "89.990",
       "description": "",
       "image": "/images/maquina_de_coser_oryx.webp",
       "images": [
