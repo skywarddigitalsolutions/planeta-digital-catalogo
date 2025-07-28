@@ -1,5 +1,5 @@
 {
-  "total": 613,
+  "total": 763,
   "products": [
     {
       "name": "MOTOROLA E14 DE 64GB Y 2 DE RAM",
@@ -7064,7 +7064,7 @@
     },
     {
       "name": "PLANCHA SECA WINCO",
-      "category": "HOGAR ",
+      "category": "HOGAR",
       "price": "49.990",
       "description": "",
       "image": "/images/plancha_seca_winco.webp",
@@ -7076,7 +7076,7 @@
     },
     {
       "name": "PLANCHA A VAPOR KANJI",
-      "category": "HOGAR ",
+      "category": "HOGAR",
       "price": "59.990",
       "description": "",
       "image": "/images/plancha_a_vapor_kanji.webp",
@@ -7088,7 +7088,7 @@
     },
     {
       "name": "MINI MAQUINA DE COSER ",
-      "category": "HOGAR ",
+      "category": "HOGAR",
       "price": "29.990",
       "description": "",
       "image": "/images/mini_maquina_de_coser.webp",
@@ -7100,7 +7100,7 @@
     },
     {
       "name": "MAQUINA DE COSER ORYX",
-      "category": "HOGAR ",
+      "category": "HOGAR",
       "price": "89.990",
       "description": "",
       "image": "/images/maquina_de_coser_oryx.webp",
@@ -7108,6 +7108,1806 @@
         "/images/maquina_de_coser_oryx.webp",
         "/images/maquina_de_coser_oryx_1.webp",
         "/images/maquina_de_coser_oryx_2.webp"
+      ]
+    },
+    {
+      "name": "ESPADA + ESCUDO ",
+      "category": "LOS + CHICOS",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/espada__escudo.webp",
+      "images": [
+        "/images/espada__escudo.webp",
+        "/images/espada__escudo_1.webp",
+        "/images/espada__escudo_2.webp"
+      ]
+    },
+    {
+      "name": "PISTOLA LANZADORA CON DISCO VOLADOR CON HELICE",
+      "category": "LOS + CHICOS",
+      "price": "2.990",
+      "description": "",
+      "image": "/images/pistola_lanzadora_con_disco_volador_con_helice.webp",
+      "images": [
+        "/images/pistola_lanzadora_con_disco_volador_con_helice.webp",
+        "/images/pistola_lanzadora_con_disco_volador_con_helice_1.webp",
+        "/images/pistola_lanzadora_con_disco_volador_con_helice_2.webp"
+      ]
+    },
+    {
+      "name": "PELOTA DIDACTICA",
+      "category": "LOS + CHICOS",
+      "price": "4.990",
+      "description": "",
+      "image": "/images/pelota_didactica.webp",
+      "images": [
+        "/images/pelota_didactica.webp",
+        "/images/pelota_didactica_1.webp",
+        "/images/pelota_didactica_2.webp"
+      ]
+    },
+    {
+      "name": "MOTO DE JUGUETE ",
+      "category": "LOS + CHICOS",
+      "price": "5.990",
+      "description": "",
+      "image": "/images/moto_de_juguete.webp",
+      "images": [
+        "/images/moto_de_juguete.webp",
+        "/images/moto_de_juguete_1.webp",
+        "/images/moto_de_juguete_2.webp"
+      ]
+    },
+    {
+      "name": "PISTOLA DE CEBITA CHICA",
+      "category": "LOS + CHICOS",
+      "price": "3.990",
+      "description": "",
+      "image": "/images/pistola_de_cebita_chica.webp",
+      "images": [
+        "/images/pistola_de_cebita_chica.webp",
+        "/images/pistola_de_cebita_chica_1.webp",
+        "/images/pistola_de_cebita_chica_2.webp"
+      ]
+    },
+    {
+      "name": "PISTOLA DE BALINES ",
+      "category": "LOS + CHICOS",
+      "price": "6.500",
+      "description": "",
+      "image": "/images/pistola_de_balines.webp",
+      "images": [
+        "/images/pistola_de_balines.webp",
+        "/images/pistola_de_balines_1.webp",
+        "/images/pistola_de_balines_2.webp"
+      ]
+    },
+    {
+      "name": "ANIMALITOS CON MUSICA, LUCES Y MOVIMIENTO ",
+      "category": "LOS + CHICOS",
+      "price": "13.990",
+      "description": "A PILA ",
+      "image": "/images/animalitos_con_musica_luces_y_movimiento.webp",
+      "images": [
+        "/images/animalitos_con_musica_luces_y_movimiento.webp",
+        "/images/animalitos_con_musica_luces_y_movimiento_1.webp",
+        "/images/animalitos_con_musica_luces_y_movimiento_2.webp"
+      ]
+    },
+    {
+      "name": "TAMAGOTCHI",
+      "category": "LOS + CHICOS",
+      "price": "7.990",
+      "description": "",
+      "image": "/images/tamagotchi.webp",
+      "images": [
+        "/images/tamagotchi.webp",
+        "/images/tamagotchi_1.webp",
+        "/images/tamagotchi_2.webp"
+      ]
+    },
+    {
+      "name": "AUTO DE JUGUETE",
+      "category": "LOS + CHICOS",
+      "price": "4.990",
+      "description": "",
+      "image": "/images/auto_de_juguete.webp",
+      "images": [
+        "/images/auto_de_juguete.webp",
+        "/images/auto_de_juguete_1.webp",
+        "/images/auto_de_juguete_2.webp"
+      ]
+    },
+    {
+      "name": "SET DE PALETAS DE PING-PONG",
+      "category": "LOS +CHICOS",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/set_de_paletas_de_pingpong.webp",
+      "images": [
+        "/images/set_de_paletas_de_pingpong.webp",
+        "/images/set_de_paletas_de_pingpong_1.webp",
+        "/images/set_de_paletas_de_pingpong_2.webp"
+      ]
+    },
+    {
+      "name": "SOGA 210CM",
+      "category": "LOS + CHICOS",
+      "price": "5.990",
+      "description": "",
+      "image": "/images/soga_210cm.webp",
+      "images": [
+        "/images/soga_210cm.webp",
+        "/images/soga_210cm_1.webp",
+        "/images/soga_210cm_2.webp"
+      ]
+    },
+    {
+      "name": "SET DE PELUQUERIA DE JUGUETE",
+      "category": "LOS + CHICOS",
+      "price": "14.990",
+      "description": "",
+      "image": "/images/set_de_peluqueria_de_juguete.webp",
+      "images": [
+        "/images/set_de_peluqueria_de_juguete.webp",
+        "/images/set_de_peluqueria_de_juguete_1.webp",
+        "/images/set_de_peluqueria_de_juguete_2.webp"
+      ]
+    },
+    {
+      "name": "SET DE PRINCESA",
+      "category": "LOS + CHICOS",
+      "price": "3.990",
+      "description": "",
+      "image": "/images/set_de_princesa.webp",
+      "images": [
+        "/images/set_de_princesa.webp",
+        "/images/set_de_princesa_1.webp",
+        "/images/set_de_princesa_2.webp"
+      ]
+    },
+    {
+      "name": "SET DE ENFERMERIA DE JUGUETES ",
+      "category": "LOS + CHICOS",
+      "price": "4.990",
+      "description": "",
+      "image": "/images/set_de_enfermeria_de_juguetes.webp",
+      "images": [
+        "/images/set_de_enfermeria_de_juguetes.webp",
+        "/images/set_de_enfermeria_de_juguetes_1.webp",
+        "/images/set_de_enfermeria_de_juguetes_2.webp"
+      ]
+    },
+    {
+      "name": "GUANTE LANZA DARDOS ",
+      "category": "LOS + CHICOS",
+      "price": "15.990",
+      "description": "",
+      "image": "/images/guante_lanza_dardos.webp",
+      "images": [
+        "/images/guante_lanza_dardos.webp",
+        "/images/guante_lanza_dardos_1.webp",
+        "/images/guante_lanza_dardos_2.webp"
+      ]
+    },
+    {
+      "name": "GUANTE LANZA DISCOS ",
+      "category": "LOS + CHICOS",
+      "price": "15.990",
+      "description": "",
+      "image": "/images/guante_lanza_discos.webp",
+      "images": [
+        "/images/guante_lanza_discos.webp",
+        "/images/guante_lanza_discos_1.webp",
+        "/images/guante_lanza_discos_2.webp"
+      ]
+    },
+    {
+      "name": "SIRENA DE JUGUETE ",
+      "category": "LOS + CHICOS",
+      "price": "3.990",
+      "description": "",
+      "image": "/images/sirena_de_juguete.webp",
+      "images": [
+        "/images/sirena_de_juguete.webp",
+        "/images/sirena_de_juguete_1.webp",
+        "/images/sirena_de_juguete_2.webp"
+      ]
+    },
+    {
+      "name": "SET DE COCINA DE JUGUETE",
+      "category": "LOS + CHICOS",
+      "price": "3.990",
+      "description": "",
+      "image": "/images/set_de_cocina_de_juguete.webp",
+      "images": [
+        "/images/set_de_cocina_de_juguete.webp",
+        "/images/set_de_cocina_de_juguete_1.webp",
+        "/images/set_de_cocina_de_juguete_2.webp"
+      ]
+    },
+    {
+      "name": "SET DE BELLEZA DE JUGUETE",
+      "category": "LOS + CHICOS",
+      "price": "3.990",
+      "description": "",
+      "image": "/images/set_de_belleza_de_juguete.webp",
+      "images": [
+        "/images/set_de_belleza_de_juguete.webp",
+        "/images/set_de_belleza_de_juguete_1.webp",
+        "/images/set_de_belleza_de_juguete_2.webp"
+      ]
+    },
+    {
+      "name": "BARBIE ",
+      "category": "LOS + CHICOS",
+      "price": "3.990",
+      "description": "",
+      "image": "/images/barbie.webp",
+      "images": [
+        "/images/barbie.webp",
+        "/images/barbie_1.webp",
+        "/images/barbie_2.webp"
+      ]
+    },
+    {
+      "name": "SIRENA CON ACCESORIOS ",
+      "category": "LOS + CHICOS",
+      "price": "4.990",
+      "description": "",
+      "image": "/images/sirena_con_accesorios.webp",
+      "images": [
+        "/images/sirena_con_accesorios.webp",
+        "/images/sirena_con_accesorios_1.webp",
+        "/images/sirena_con_accesorios_2.webp"
+      ]
+    },
+    {
+      "name": "SET DE PESCA DE JUGUETE",
+      "category": "LOS + CHICOS",
+      "price": "6.990",
+      "description": "",
+      "image": "/images/set_de_pesca_de_juguete.webp",
+      "images": [
+        "/images/set_de_pesca_de_juguete.webp",
+        "/images/set_de_pesca_de_juguete_1.webp",
+        "/images/set_de_pesca_de_juguete_2.webp"
+      ]
+    },
+    {
+      "name": "MEDIAS CAPIBARA  COMBO POR DIEZ ",
+      "category": "LOS + CHICOS",
+      "price": "12.500",
+      "description": "",
+      "image": "/images/medias_capibara_combo_por_diez.webp",
+      "images": [
+        "/images/medias_capibara_combo_por_diez.webp",
+        "/images/medias_capibara_combo_por_diez_1.webp",
+        "/images/medias_capibara_combo_por_diez_2.webp"
+      ]
+    },
+    {
+      "name": "SET DE TREN DE JUGUETE ",
+      "category": "LOS + CHICOS",
+      "price": "14.990",
+      "description": "",
+      "image": "/images/set_de_tren_de_juguete.webp",
+      "images": [
+        "/images/set_de_tren_de_juguete.webp",
+        "/images/set_de_tren_de_juguete_1.webp",
+        "/images/set_de_tren_de_juguete_2.webp"
+      ]
+    },
+    {
+      "name": "SET DE CONSTRUCCION DE JUGUETE ",
+      "category": "LOS + CHICOS",
+      "price": "14.990",
+      "description": "",
+      "image": "/images/set_de_construccion_de_juguete.webp",
+      "images": [
+        "/images/set_de_construccion_de_juguete.webp",
+        "/images/set_de_construccion_de_juguete_1.webp",
+        "/images/set_de_construccion_de_juguete_2.webp"
+      ]
+    },
+    {
+      "name": "BICI RODADO 12 ",
+      "category": "LOS + CHICOS",
+      "price": "99.990,00",
+      "description": "",
+      "image": "/images/bici_rodado_12.webp",
+      "images": [
+        "/images/bici_rodado_12.webp",
+        "/images/bici_rodado_12_1.webp",
+        "/images/bici_rodado_12_2.webp"
+      ]
+    },
+    {
+      "name": "SET DE MILITAR DE JUGUETE ",
+      "category": "LOS + CHICOS",
+      "price": "7.990",
+      "description": "",
+      "image": "/images/set_de_militar_de_juguete.webp",
+      "images": [
+        "/images/set_de_militar_de_juguete.webp",
+        "/images/set_de_militar_de_juguete_1.webp",
+        "/images/set_de_militar_de_juguete_2.webp"
+      ]
+    },
+    {
+      "name": "PELOTAS ",
+      "category": "LOS + CHICOS",
+      "price": "9.990",
+      "description": "",
+      "image": "/images/pelotas.webp",
+      "images": [
+        "/images/pelotas.webp",
+        "/images/pelotas_1.webp",
+        "/images/pelotas_2.webp"
+      ]
+    },
+    {
+      "name": "SET DE POLICIA DE JUGUETE ",
+      "category": "LOS + CHICOS",
+      "price": "8.990",
+      "description": "",
+      "image": "/images/set_de_policia_de_juguete.webp",
+      "images": [
+        "/images/set_de_policia_de_juguete.webp",
+        "/images/set_de_policia_de_juguete_1.webp",
+        "/images/set_de_policia_de_juguete_2.webp"
+      ]
+    },
+    {
+      "name": "PISTOLA + ESPOSAS DE JUGUETE ",
+      "category": "LOS + CHICOS",
+      "price": "5.990",
+      "description": "",
+      "image": "/images/pistola__esposas_de_juguete.webp",
+      "images": [
+        "/images/pistola__esposas_de_juguete.webp",
+        "/images/pistola__esposas_de_juguete_1.webp",
+        "/images/pistola__esposas_de_juguete_2.webp"
+      ]
+    },
+    {
+      "name": "SET DE POLICIA TIRO AL BLANCO DE JUGUETE ",
+      "category": "LOS + CHICOS",
+      "price": "7.990",
+      "description": "",
+      "image": "/images/set_de_policia_tiro_al_blanco_de_juguete.webp",
+      "images": [
+        "/images/set_de_policia_tiro_al_blanco_de_juguete.webp",
+        "/images/set_de_policia_tiro_al_blanco_de_juguete_1.webp",
+        "/images/set_de_policia_tiro_al_blanco_de_juguete_2.webp"
+      ]
+    },
+    {
+      "name": "AUTITO POLICIA DE JUGUETE ",
+      "category": "LOS + CHICOS",
+      "price": "4.990",
+      "description": "",
+      "image": "/images/autito_policia_de_juguete.webp",
+      "images": [
+        "/images/autito_policia_de_juguete.webp",
+        "/images/autito_policia_de_juguete_1.webp",
+        "/images/autito_policia_de_juguete_2.webp"
+      ]
+    },
+    {
+      "name": "OREJERAS DE PELUCHE ",
+      "category": "LOS + CHICOS",
+      "price": "5.990",
+      "description": "",
+      "image": "/images/orejeras_de_peluche.webp",
+      "images": [
+        "/images/orejeras_de_peluche.webp",
+        "/images/orejeras_de_peluche_1.webp",
+        "/images/orejeras_de_peluche_2.webp"
+      ]
+    },
+    {
+      "name": " RELOJ DESPERTADOR A PILA ",
+      "category": "LOS + CHICOS",
+      "price": "",
+      "description": "",
+      "image": "/images/reloj_despertador_a_pila.webp",
+      "images": [
+        "/images/reloj_despertador_a_pila.webp",
+        "/images/reloj_despertador_a_pila_1.webp",
+        "/images/reloj_despertador_a_pila_2.webp"
+      ]
+    },
+    {
+      "name": " RELOJ DESPERTADOR A PILA CHICO ",
+      "category": "LOS + CHICOS",
+      "price": "4.500",
+      "description": "",
+      "image": "/images/reloj_despertador_a_pila_chico.webp",
+      "images": [
+        "/images/reloj_despertador_a_pila_chico.webp",
+        "/images/reloj_despertador_a_pila_chico_1.webp",
+        "/images/reloj_despertador_a_pila_chico_2.webp"
+      ]
+    },
+    {
+      "name": " RELOJ DESPERTADOR  HONGO A PILA ",
+      "category": "LOS + CHICOS",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/reloj_despertador_hongo_a_pila.webp",
+      "images": [
+        "/images/reloj_despertador_hongo_a_pila.webp",
+        "/images/reloj_despertador_hongo_a_pila_1.webp",
+        "/images/reloj_despertador_hongo_a_pila_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ DESPERTADOR CORAZON ",
+      "category": "LOS + CHICOS",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/reloj_despertador_corazon.webp",
+      "images": [
+        "/images/reloj_despertador_corazon.webp",
+        "/images/reloj_despertador_corazon_1.webp",
+        "/images/reloj_despertador_corazon_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ DESPERTADOR ASTRONAUTA",
+      "category": "LOS + CHICOS",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/reloj_despertador_astronauta.webp",
+      "images": [
+        "/images/reloj_despertador_astronauta.webp",
+        "/images/reloj_despertador_astronauta_1.webp",
+        "/images/reloj_despertador_astronauta_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ DESPERTADOR INFANTIL ",
+      "category": "LOS+ CHICOS ",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/reloj_despertador_infantil.webp",
+      "images": [
+        "/images/reloj_despertador_infantil.webp",
+        "/images/reloj_despertador_infantil_1.webp",
+        "/images/reloj_despertador_infantil_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ DESPERTADOR DE SAPITO ",
+      "category": "LOS + CHICOS",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/reloj_despertador_de_sapito.webp",
+      "images": [
+        "/images/reloj_despertador_de_sapito.webp",
+        "/images/reloj_despertador_de_sapito_1.webp",
+        "/images/reloj_despertador_de_sapito_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ DESPERTADOR ",
+      "category": "LOS + CHICOS",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/reloj_despertador.webp",
+      "images": [
+        "/images/reloj_despertador.webp",
+        "/images/reloj_despertador_1.webp",
+        "/images/reloj_despertador_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ DESPERTADOR ROSA",
+      "category": "LOS + CHICOS",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/reloj_despertador_rosa.webp",
+      "images": [
+        "/images/reloj_despertador_rosa.webp",
+        "/images/reloj_despertador_rosa_1.webp",
+        "/images/reloj_despertador_rosa_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ DESPETADOR TREN ",
+      "category": "LOS + CHICOS",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/reloj_despetador_tren.webp",
+      "images": [
+        "/images/reloj_despetador_tren.webp",
+        "/images/reloj_despetador_tren_1.webp",
+        "/images/reloj_despetador_tren_2.webp"
+      ]
+    },
+    {
+      "name": "SPINER VOLADOR CON LUCES Y CONTROL",
+      "category": "LOS + CHICOS",
+      "price": "25.990",
+      "description": "",
+      "image": "/images/spiner_volador_con_luces_y_control.webp",
+      "images": [
+        "/images/spiner_volador_con_luces_y_control.webp",
+        "/images/spiner_volador_con_luces_y_control_1.webp",
+        "/images/spiner_volador_con_luces_y_control_2.webp"
+      ]
+    },
+    {
+      "name": "CONSOLA 2 JUGADORES RECARGABLE CON 500 JUEGOS RETRO ",
+      "category": "LOS + CHICOS",
+      "price": "19.990",
+      "description": "",
+      "image": "/images/consola_2_jugadores_recargable_con_500_juegos_retro.webp",
+      "images": [
+        "/images/consola_2_jugadores_recargable_con_500_juegos_retro.webp",
+        "/images/consola_2_jugadores_recargable_con_500_juegos_retro_1.webp",
+        "/images/consola_2_jugadores_recargable_con_500_juegos_retro_2.webp"
+      ]
+    },
+    {
+      "name": "CONSOLA 2 JUGADORES RECARGABLE ",
+      "category": "LOS + CHICOS",
+      "price": "29.990",
+      "description": "",
+      "image": "/images/consola_2_jugadores_recargable.webp",
+      "images": [
+        "/images/consola_2_jugadores_recargable.webp",
+        "/images/consola_2_jugadores_recargable_1.webp",
+        "/images/consola_2_jugadores_recargable_2.webp"
+      ]
+    },
+    {
+      "name": "CONSOLA PARA 1 JUGADOR RECARGABLE CON 500 JUEGOS RETRO",
+      "category": "LOS + CHICOS",
+      "price": "15.990",
+      "description": "",
+      "image": "/images/consola_para_1_jugador_recargable_con_500_juegos_retro.webp",
+      "images": [
+        "/images/consola_para_1_jugador_recargable_con_500_juegos_retro.webp",
+        "/images/consola_para_1_jugador_recargable_con_500_juegos_retro_1.webp",
+        "/images/consola_para_1_jugador_recargable_con_500_juegos_retro_2.webp"
+      ]
+    },
+    {
+      "name": "AURICULAR A BLUETOOTH CON LUZ ",
+      "category": "LOS + CHICOS",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/auricular_a_bluetooth_con_luz.webp",
+      "images": [
+        "/images/auricular_a_bluetooth_con_luz.webp",
+        "/images/auricular_a_bluetooth_con_luz_1.webp",
+        "/images/auricular_a_bluetooth_con_luz_2.webp"
+      ]
+    },
+    {
+      "name": "VELADOR LAPICERO RECARGABLE ",
+      "category": "LOS + CHICOS",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/velador_lapicero_recargable.webp",
+      "images": [
+        "/images/velador_lapicero_recargable.webp",
+        "/images/velador_lapicero_recargable_1.webp",
+        "/images/velador_lapicero_recargable_2.webp"
+      ]
+    },
+    {
+      "name": "VELADOR RECARGABLE CON SACAPUNTAS Y STICKERS",
+      "category": "LOS + CHICOS",
+      "price": "17.990",
+      "description": "",
+      "image": "/images/velador_recargable_con_sacapuntas_y_stickers.webp",
+      "images": [
+        "/images/velador_recargable_con_sacapuntas_y_stickers.webp",
+        "/images/velador_recargable_con_sacapuntas_y_stickers_1.webp",
+        "/images/velador_recargable_con_sacapuntas_y_stickers_2.webp"
+      ]
+    },
+    {
+      "name": "AURICULARES P47 RECARGABLE ",
+      "category": "LOS + CHICOS",
+      "price": "8.990",
+      "description": "",
+      "image": "/images/auriculares_p47_recargable.webp",
+      "images": [
+        "/images/auriculares_p47_recargable.webp",
+        "/images/auriculares_p47_recargable_1.webp",
+        "/images/auriculares_p47_recargable_2.webp"
+      ]
+    },
+    {
+      "name": "SET DE 80  FIBRAS DOBLE PUNTA ",
+      "category": "LOS + CHICOS",
+      "price": "39.990",
+      "description": "",
+      "image": "/images/set_de_80_fibras_doble_punta.webp",
+      "images": [
+        "/images/set_de_80_fibras_doble_punta.webp",
+        "/images/set_de_80_fibras_doble_punta_1.webp",
+        "/images/set_de_80_fibras_doble_punta_2.webp"
+      ]
+    },
+    {
+      "name": "SET PARA HACER PULSERAS ",
+      "category": "LOS + CHICOS",
+      "price": "14.990",
+      "description": "",
+      "image": "/images/set_para_hacer_pulseras.webp",
+      "images": [
+        "/images/set_para_hacer_pulseras.webp",
+        "/images/set_para_hacer_pulseras_1.webp",
+        "/images/set_para_hacer_pulseras_2.webp"
+      ]
+    },
+    {
+      "name": "SET PARA HACER PULSERAS CHICO",
+      "category": "LOS+ CHICOS ",
+      "price": "8.990",
+      "description": "",
+      "image": "/images/set_para_hacer_pulseras_chico.webp",
+      "images": [
+        "/images/set_para_hacer_pulseras_chico.webp",
+        "/images/set_para_hacer_pulseras_chico_1.webp",
+        "/images/set_para_hacer_pulseras_chico_2.webp"
+      ]
+    },
+    {
+      "name": "BOTELLON INFANTIL CON CORREA Y STICKERS ",
+      "category": "LOS + CHICOS",
+      "price": "24.990",
+      "description": "",
+      "image": "/images/botellon_infantil_con_correa_y_stickers.webp",
+      "images": [
+        "/images/botellon_infantil_con_correa_y_stickers.webp",
+        "/images/botellon_infantil_con_correa_y_stickers_1.webp",
+        "/images/botellon_infantil_con_correa_y_stickers_2.webp"
+      ]
+    },
+    {
+      "name": "BOTELLAS X 3 + STICKERS ",
+      "category": "LOS + CHICOS",
+      "price": "24.990",
+      "description": "",
+      "image": "/images/botellas_x_3__stickers.webp",
+      "images": [
+        "/images/botellas_x_3__stickers.webp",
+        "/images/botellas_x_3__stickers_1.webp",
+        "/images/botellas_x_3__stickers_2.webp"
+      ]
+    },
+    {
+      "name": "SQUISH",
+      "category": "LOS + CHICOS",
+      "price": "2.500",
+      "description": "",
+      "image": "/images/squish.webp",
+      "images": [
+        "/images/squish.webp",
+        "/images/squish_1.webp",
+        "/images/squish_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ DESPERTADOR DIGITAL ",
+      "category": "LOS + CHICOS",
+      "price": "10.990",
+      "description": "",
+      "image": "/images/reloj_despertador_digital.webp",
+      "images": [
+        "/images/reloj_despertador_digital.webp",
+        "/images/reloj_despertador_digital_1.webp",
+        "/images/reloj_despertador_digital_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ DESPERTADOR DIGITAL CUADRADO",
+      "category": "LOS + CHICOS",
+      "price": "11.990",
+      "description": "",
+      "image": "/images/reloj_despertador_digital_cuadrado.webp",
+      "images": [
+        "/images/reloj_despertador_digital_cuadrado.webp",
+        "/images/reloj_despertador_digital_cuadrado_1.webp",
+        "/images/reloj_despertador_digital_cuadrado_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ DESPERTADOR DIGITAL CIRCULAR",
+      "category": "LOS + CHICOS",
+      "price": "11.990",
+      "description": "",
+      "image": "/images/reloj_despertador_digital_circular.webp",
+      "images": [
+        "/images/reloj_despertador_digital.webp",
+        "/images/reloj_despertador_digital_1.webp",
+        "/images/reloj_despertador_digital_2.webp"
+      ]
+    },
+    {
+      "name": " HANDI 2 UNIDADES ",
+      "category": "LOS + CHICOS",
+      "price": "59.990",
+      "description": "",
+      "image": "/images/handi_2_unidades.webp",
+      "images": [
+        "/images/handi_2_unidades.webp",
+        "/images/handi_2_unidades_1.webp",
+        "/images/handi_2_unidades_2.webp"
+      ]
+    },
+    {
+      "name": "AURICULAR INALAMBRICO CON VISOR GOSTTER",
+      "category": "LOS + CHICOS",
+      "price": "8.990",
+      "description": "",
+      "image": "/images/auricular_inalambrico_con_visor_gostter.webp",
+      "images": [
+        "/images/auricular_inalambrico_con_visor_gostter.webp",
+        "/images/auricular_inalambrico_con_visor_gostter_1.webp",
+        "/images/auricular_inalambrico_con_visor_gostter_2.webp"
+      ]
+    },
+    {
+      "name": "AURICULAR INALAMBRICO CON VISOR FAN PRO",
+      "category": "LOS + CHICOS",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/auricular_inalambrico_con_visor_fan_pro.webp",
+      "images": [
+        "/images/auricular_inalambrico_con_visor_fan_pro.webp",
+        "/images/auricular_inalambrico_con_visor_fan_pro_1.webp",
+        "/images/auricular_inalambrico_con_visor_fan_pro_2.webp"
+      ]
+    },
+    {
+      "name": "AURICULAR INALAMBRICO CON VISOR F10 PLUS",
+      "category": "LOS + CHICOS",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/auricular_inalambrico_con_visor_f10_plus.webp",
+      "images": [
+        "/images/auricular_inalambrico_con_visor_f10_plus.webp",
+        "/images/auricular_inalambrico_con_visor_f10_plus_1.webp",
+        "/images/auricular_inalambrico_con_visor_f10_plus_2.webp"
+      ]
+    },
+    {
+      "name": "AURICULAR GAMER CON MICROFONO ",
+      "category": "LOS + CHICOS",
+      "price": "9.990",
+      "description": "",
+      "image": "/images/auricular_gamer_con_microfono.webp",
+      "images": [
+        "/images/auricular_gamer_con_microfono.webp",
+        "/images/auricular_gamer_con_microfono_1.webp",
+        "/images/auricular_gamer_con_microfono_2.webp"
+      ]
+    },
+    {
+      "name": "DOMINO ",
+      "category": "LOS + CHICOS",
+      "price": "5.990",
+      "description": "",
+      "image": "/images/domino.webp",
+      "images": [
+        "/images/domino.webp",
+        "/images/domino_1.webp",
+        "/images/domino_2.webp"
+      ]
+    },
+    {
+      "name": "VELADOR ASTRONAUTA + SACAPUNTA ",
+      "category": "LOS + CHICOS",
+      "price": "10.990",
+      "description": "",
+      "image": "/images/velador_astronauta__sacapunta.webp",
+      "images": [
+        "/images/velador_astronauta__sacapunta.webp",
+        "/images/velador_astronauta__sacapunta_1.webp",
+        "/images/velador_astronauta__sacapunta_2.webp"
+      ]
+    },
+    {
+      "name": "CAMARA DE FOTO + IMPRESORA ",
+      "category": "LOS + CHICOS",
+      "price": "39.990",
+      "description": "",
+      "image": "/images/camara_de_foto__impresora.webp",
+      "images": [
+        "/images/camara_de_foto__impresora.webp",
+        "/images/camara_de_foto__impresora_1.webp",
+        "/images/camara_de_foto__impresora_2.webp"
+      ]
+    },
+    {
+      "name": "MINI IMPRESORA RECARGABLE PORTATIL",
+      "category": "LOS + CHICOS",
+      "price": "29.990",
+      "description": "",
+      "image": "/images/mini_impresora_recargable_portatil.webp",
+      "images": [
+        "/images/mini_impresora_recargable_portatil.webp",
+        "/images/mini_impresora_recargable_portatil_1.webp",
+        "/images/mini_impresora_recargable_portatil_2.webp"
+      ]
+    },
+    {
+      "name": "MINI IMPRESORA TERMICA RECARGABLE PORTATIL ",
+      "category": "LOS + CHICOS",
+      "price": "39.990",
+      "description": "",
+      "image": "/images/mini_impresora_termica_recargable_portatil.webp",
+      "images": [
+        "/images/mini_impresora_termica_recargable_portatil.webp",
+        "/images/mini_impresora_termica_recargable_portatil_1.webp",
+        "/images/mini_impresora_termica_recargable_portatil_2.webp"
+      ]
+    },
+    {
+      "name": "PARLANTE BLUETOOTH PORTATIL RECARGABLE ",
+      "category": "LOS + CHICOS",
+      "price": "7.990",
+      "description": "RANURA PARA PENDRIVE , RADIO FM , VARIOS COLORES ",
+      "image": "/images/parlante_bluetooth_portatil_recargable.webp",
+      "images": [
+        "/images/parlante_bluetooth_portatil_recargable.webp",
+        "/images/parlante_bluetooth_portatil_recargable_1.webp",
+        "/images/parlante_bluetooth_portatil_recargable_2.webp"
+      ]
+    },
+    {
+      "name": "MINI PARLANTE BLUETOOTH ",
+      "category": "LOS + CHICOS",
+      "price": "7.990",
+      "description": "RANURA PARA PENDRIVE , RADIO FM , VARIOS COLORES ",
+      "image": "/images/mini_parlante_bluetooth.webp",
+      "images": [
+        "/images/mini_parlante_bluetooth.webp",
+        "/images/mini_parlante_bluetooth_1.webp",
+        "/images/mini_parlante_bluetooth_2.webp"
+      ]
+    },
+    {
+      "name": "PARLANTE BLUETOOTH PORTATIL RECARGABLE FLAME LIGHT",
+      "category": "LOS + CHICOS",
+      "price": "8.990",
+      "description": "RANURA PARA SD , PENDRIVE, RADIO FM CON LUCES DE COLORES RITMICAS ",
+      "image": "/images/parlante_bluetooth_portatil_recargable_flame_light.webp",
+      "images": [
+        "/images/parlante_bluetooth_portatil_recargable_flame_light.webp",
+        "/images/parlante_bluetooth_portatil_recargable_flame_light_1.webp",
+        "/images/parlante_bluetooth_portatil_recargable_flame_light_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ DESPERTADOR DIGITAL KADIO",
+      "category": "LOS + CHICOS",
+      "price": "5.990",
+      "description": "",
+      "image": "/images/reloj_despertador_digital_kadio.webp",
+      "images": [
+        "/images/reloj_despertador_digital_kadio.webp",
+        "/images/reloj_despertador_digital_kadio_1.webp",
+        "/images/reloj_despertador_digital_kadio_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ DESPETADOR PROYECTOR ",
+      "category": "LOS + CHICOS",
+      "price": "",
+      "description": "",
+      "image": "/images/reloj_despetador_proyector.webp",
+      "images": [
+        "/images/reloj_despetador_proyector.webp",
+        "/images/reloj_despetador_proyector_1.webp",
+        "/images/reloj_despetador_proyector_2.webp"
+      ]
+    },
+    {
+      "name": "CALCULADORA COLORES ",
+      "category": "LOS + CHICOS",
+      "price": "13.990",
+      "description": "",
+      "image": "/images/calculadora_colores.webp",
+      "images": [
+        "/images/calculadora_colores.webp",
+        "/images/calculadora_colores_1.webp",
+        "/images/calculadora_colores_2.webp"
+      ]
+    },
+    {
+      "name": "CARTAS DEL UNO ",
+      "category": "LOS + CHICOS",
+      "price": "2.990",
+      "description": "",
+      "image": "/images/cartas_del_uno.webp",
+      "images": [
+        "/images/cartas_del_uno.webp",
+        "/images/cartas_del_uno_1.webp",
+        "/images/cartas_del_uno_2.webp"
+      ]
+    },
+    {
+      "name": "CUBO RUBIK",
+      "category": "LOS + CHICOS",
+      "price": "2.990",
+      "description": "",
+      "image": "/images/cubo_rubik.webp",
+      "images": [
+        "/images/cubo_rubik.webp",
+        "/images/cubo_rubik_1.webp",
+        "/images/cubo_rubik_2.webp"
+      ]
+    },
+    {
+      "name": "PELOTA DE BASQUET ",
+      "category": "LOS + CHICOS",
+      "price": "9.990",
+      "description": "",
+      "image": "/images/pelota_de_basquet.webp",
+      "images": [
+        "/images/pelota_de_basquet.webp",
+        "/images/pelota_de_basquet_1.webp",
+        "/images/pelota_de_basquet_2.webp"
+      ]
+    },
+    {
+      "name": "PELOTA DE VOLEY ",
+      "category": "LOS + CHICOS",
+      "price": "9.990",
+      "description": "",
+      "image": "/images/pelota_de_voley.webp",
+      "images": [
+        "/images/pelota_de_voley.webp",
+        "/images/pelota_de_voley_1.webp",
+        "/images/pelota_de_voley_2.webp"
+      ]
+    },
+    {
+      "name": "TECLADO CON CABLE GTC ",
+      "category": "LOS + CHICOS",
+      "price": "9.990",
+      "description": "",
+      "image": "/images/teclado_con_cable_gtc.webp",
+      "images": [
+        "/images/teclado_con_cable_gtc.webp",
+        "/images/teclado_con_cable_gtc_1.webp",
+        "/images/teclado_con_cable_gtc_2.webp"
+      ]
+    },
+    {
+      "name": "TECLADO + MOUSE INALAMBRICO GTC",
+      "category": "LOS + CHICOS",
+      "price": "17.990",
+      "description": "",
+      "image": "/images/teclado__mouse_inalambrico_gtc.webp",
+      "images": [
+        "/images/teclado__mouse_inalambrico_gtc.webp",
+        "/images/teclado__mouse_inalambrico_gtc_1.webp",
+        "/images/teclado__mouse_inalambrico_gtc_2.webp"
+      ]
+    },
+    {
+      "name": "TECLADO + MOUSE INALAMBRICO",
+      "category": "LOS + CHICOS",
+      "price": "15.990",
+      "description": "",
+      "image": "/images/teclado__mouse_inalambrico.webp",
+      "images": [
+        "/images/teclado__mouse_inalambrico.webp",
+        "/images/teclado__mouse_inalambrico_1.webp",
+        "/images/teclado__mouse_inalambrico_2.webp"
+      ]
+    },
+    {
+      "name": "TECLADO + MOUSE INALAMBRICO K90",
+      "category": "LOS + CHICOS",
+      "price": "19990",
+      "description": "",
+      "image": "/images/teclado__mouse_inalambrico_k90.webp",
+      "images": [
+        "/images/teclado__mouse_inalambrico_k90.webp",
+        "/images/teclado__mouse_inalambrico_k90_1.webp",
+        "/images/teclado__mouse_inalambrico_k90_2.webp"
+      ]
+    },
+    {
+      "name": "TECLADO + MOUSE INALAMBRICO GTC COLORES",
+      "category": "LOS + CHICOS",
+      "price": "23.990",
+      "description": "",
+      "image": "/images/teclado__mouse_inalambrico_gtc_colores.webp",
+      "images": [
+        "/images/teclado__mouse_inalambrico_gtc_colores.webp",
+        "/images/teclado__mouse_inalambrico_gtc_colores_1.webp",
+        "/images/teclado__mouse_inalambrico_gtc_colores_2.webp"
+      ]
+    },
+    {
+      "name": "TECLADO + MOUSE INALAMBRICO DINAX ",
+      "category": "LOS + CHICOS",
+      "price": "24.990",
+      "description": "",
+      "image": "/images/teclado__mouse_inalambrico_dinax.webp",
+      "images": [
+        "/images/teclado__mouse_inalambrico_dinax.webp",
+        "/images/teclado__mouse_inalambrico_dinax_1.webp",
+        "/images/teclado__mouse_inalambrico_dinax_2.webp"
+      ]
+    },
+    {
+      "name": "COMBO GAMER , TECLADO , MOUSPAD, AURICULARES , MOUSE ",
+      "category": "LOS + CHICOS",
+      "price": "39.990",
+      "description": "",
+      "image": "/images/combo_gamer__teclado__mouspad_auriculares__mouse.webp",
+      "images": [
+        "/images/combo_gamer__teclado__mouspad_auriculares__mouse.webp",
+        "/images/combo_gamer__teclado__mouspad_auriculares__mouse_1.webp",
+        "/images/combo_gamer__teclado__mouspad_auriculares__mouse_2.webp"
+      ]
+    },
+    {
+      "name": "TECLADO + MOUSE A CABLE ",
+      "category": "LOS + CHICOS",
+      "price": "15.990",
+      "description": "",
+      "image": "/images/teclado__mouse_a_cable.webp",
+      "images": [
+        "/images/teclado__mouse_a_cable.webp",
+        "/images/teclado__mouse_a_cable_1.webp",
+        "/images/teclado__mouse_a_cable_2.webp"
+      ]
+    },
+    {
+      "name": "TECLADO A BLUETOOTH PORTATIL ",
+      "category": "LOS + CHICOS",
+      "price": "29.990",
+      "description": "",
+      "image": "/images/teclado_a_bluetooth_portatil.webp",
+      "images": [
+        "/images/teclado_a_bluetooth_portatil.webp",
+        "/images/teclado_a_bluetooth_portatil_1.webp",
+        "/images/teclado_a_bluetooth_portatil_2.webp"
+      ]
+    },
+    {
+      "name": "TETRIX ",
+      "category": "LOS + CHICOS",
+      "price": "3.990",
+      "description": "",
+      "image": "/images/tetrix.webp",
+      "images": [
+        "/images/tetrix.webp",
+        "/images/tetrix_1.webp",
+        "/images/tetrix_2.webp"
+      ]
+    },
+    {
+      "name": "PLANCHITA VIAJERA ",
+      "category": "LOS + CHICOS",
+      "price": "4.990",
+      "description": "",
+      "image": "/images/planchita_viajera.webp",
+      "images": [
+        "/images/planchita_viajera.webp",
+        "/images/planchita_viajera_1.webp",
+        "/images/planchita_viajera_2.webp"
+      ]
+    },
+    {
+      "name": "ESPEJO LED RECARGABLE ",
+      "category": "LOS + CHICOS",
+      "price": "9.990",
+      "description": "",
+      "image": "/images/espejo_led_recargable.webp",
+      "images": [
+        "/images/espejo_led_recargable.webp",
+        "/images/espejo_led_recargable_1.webp",
+        "/images/espejo_led_recargable_2.webp"
+      ]
+    },
+    {
+      "name": "ESPEJO LED RECARGABLE GRANDE",
+      "category": "LOS + CHICOS",
+      "price": "11.990",
+      "description": "",
+      "image": "/images/espejo_led_recargable_grande.webp",
+      "images": [
+        "/images/espejo_led_recargable_grande.webp",
+        "/images/espejo_led_recargable_grande_1.webp",
+        "/images/espejo_led_recargable_grande_2.webp"
+      ]
+    },
+    {
+      "name": "ESPEJO LED CON OPCION A PILA ",
+      "category": "LOS + CHICOS",
+      "price": "14.990",
+      "description": "",
+      "image": "/images/espejo_led_con_opcion_a_pila.webp",
+      "images": [
+        "/images/espejo_led_con_opcion_a_pila.webp",
+        "/images/espejo_led_con_opcion_a_pila_1.webp",
+        "/images/espejo_led_con_opcion_a_pila_2.webp"
+      ]
+    },
+    {
+      "name": "ESPEJO LED CON AUMENTO ",
+      "category": "LOS + CHICOS",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/espejo_led_con_aumento.webp",
+      "images": [
+        "/images/espejo_led_con_aumento.webp",
+        "/images/espejo_led_con_aumento_1.webp",
+        "/images/espejo_led_con_aumento_2.webp"
+      ]
+    },
+    {
+      "name": "ESPEJO LED + 3 PANELES CON AUMENTO ",
+      "category": "LOS + CHICOS",
+      "price": "24.990",
+      "description": "",
+      "image": "/images/espejo_led__3_paneles_con_aumento.webp",
+      "images": [
+        "/images/espejo_led__3_paneles_con_aumento.webp",
+        "/images/espejo_led__3_paneles_con_aumento_1.webp",
+        "/images/espejo_led__3_paneles_con_aumento_2.webp"
+      ]
+    },
+    {
+      "name": "MUÑECO BAILARIN , CANTA , BAILA Y REPITE ",
+      "category": "LOS + CHICOS",
+      "price": "19.990",
+      "description": "",
+      "image": "/images/mueco_bailarin__canta__baila_y_repite.webp",
+      "images": [
+        "/images/mueco_bailarin__canta__baila_y_repite.webp",
+        "/images/mueco_bailarin__canta__baila_y_repite_1.webp",
+        "/images/mueco_bailarin__canta__baila_y_repite_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ INTELIGENTE SMART BAND ",
+      "category": "LOS + CHICOS",
+      "price": "7.990",
+      "description": "RECIBIS NOTIFICACION DE TODAS LAS APLICACION, MIDE EL RITMO CARDIACO , PRECION ECT.",
+      "image": "/images/reloj_inteligente_smart_band.webp",
+      "images": [
+        "/images/reloj_inteligente_smart_band.webp",
+        "/images/reloj_inteligente_smart_band_1.webp",
+        "/images/reloj_inteligente_smart_band_2.webp"
+      ]
+    },
+    {
+      "name": "MICROFONO KARAOQUE CON BLUETOOTH Y LUCES ",
+      "category": "LOS + CHICOS",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/microfono_karaoque_con_bluetooth_y_luces.webp",
+      "images": [
+        "/images/microfono_karaoque_con_bluetooth_y_luces.webp",
+        "/images/microfono_karaoque_con_bluetooth_y_luces_1.webp",
+        "/images/microfono_karaoque_con_bluetooth_y_luces_2.webp"
+      ]
+    },
+    {
+      "name": "MICROFONO KARAOKE PARA PARLANTE ",
+      "category": "LOS + CHICOS",
+      "price": "8.990",
+      "description": "",
+      "image": "/images/microfono_karaoke_para_parlante.webp",
+      "images": [
+        "/images/microfono_karaoke_para_parlante.webp",
+        "/images/microfono_karaoke_para_parlante_1.webp",
+        "/images/microfono_karaoke_para_parlante_2.webp"
+      ]
+    },
+    {
+      "name": "VELADOR RECARGABLE CON PORTA LAPICES ",
+      "category": "LOS + CHICOS",
+      "price": "7.990",
+      "description": "",
+      "image": "/images/velador_recargable_con_porta_lapices.webp",
+      "images": [
+        "/images/velador_recargable_con_porta_lapices.webp",
+        "/images/velador_recargable_con_porta_lapices_1.webp",
+        "/images/velador_recargable_con_porta_lapices_2.webp"
+      ]
+    },
+    {
+      "name": "AUTO A CONTROL REMOTO ",
+      "category": "LOS + CHICOS",
+      "price": "39.990",
+      "description": "",
+      "image": "/images/auto_a_control_remoto.webp",
+      "images": [
+        "/images/auto_a_control_remoto.webp",
+        "/images/auto_a_control_remoto_1.webp",
+        "/images/auto_a_control_remoto_2.webp"
+      ]
+    },
+    {
+      "name": "VASO TERMICO ",
+      "category": "LOS + CHICOS",
+      "price": "2.990",
+      "description": "",
+      "image": "/images/vaso_termico.webp",
+      "images": [
+        "/images/vaso_termico.webp",
+        "/images/vaso_termico_1.webp",
+        "/images/vaso_termico_2.webp"
+      ]
+    },
+    {
+      "name": "VASO TERMICO DE ARGENTINA ",
+      "category": "LOS + CHICOS",
+      "price": "2.990",
+      "description": "",
+      "image": "/images/vaso_termico_de_argentina.webp",
+      "images": [
+        "/images/vaso_termico_de_argentina.webp",
+        "/images/vaso_termico_de_argentina_1.webp",
+        "/images/vaso_termico_de_argentina_2.webp"
+      ]
+    },
+    {
+      "name": "BOTELLA TERMICA DE 350ML",
+      "category": "LOS + CHICOS",
+      "price": "15.990",
+      "description": "",
+      "image": "/images/botella_termica_de_350ml.webp",
+      "images": [
+        "/images/botella_termica_de_350ml.webp",
+        "/images/botella_termica_de_350ml_1.webp",
+        "/images/botella_termica_de_350ml_2.webp"
+      ]
+    },
+    {
+      "name": "BOTELLA TERMICA DE 500ML",
+      "category": "LOS + CHICOS",
+      "price": "17.990",
+      "description": "",
+      "image": "/images/botella_termica_de_500ml.webp",
+      "images": [
+        "/images/botella_termica_de_500ml.webp",
+        "/images/botella_termica_de_500ml_1.webp",
+        "/images/botella_termica_de_500ml_2.webp"
+      ]
+    },
+    {
+      "name": "BOTELLA TERMICA DE 750ML",
+      "category": "LOS + CHICOS",
+      "price": "19.990",
+      "description": "",
+      "image": "/images/botella_termica_de_750ml.webp",
+      "images": [
+        "/images/botella_termica_de_750ml.webp",
+        "/images/botella_termica_de_750ml_1.webp",
+        "/images/botella_termica_de_750ml_2.webp"
+      ]
+    },
+    {
+      "name": "VASO TERMICO 1.2 L",
+      "category": "LOS + CHICOS",
+      "price": "24.990",
+      "description": "",
+      "image": "/images/vaso_termico_12_l.webp",
+      "images": [
+        "/images/vaso_termico_12_l.webp",
+        "/images/vaso_termico_12_l_1.webp",
+        "/images/vaso_termico_12_l_2.webp"
+      ]
+    },
+    {
+      "name": "CEPILLO ELECTRICO MULTIFUNSIONAL PARA CABELLO ",
+      "category": "LOS + CHICOS",
+      "price": "29.990",
+      "description": "",
+      "image": "/images/cepillo_electrico_multifunsional_para_cabello.webp",
+      "images": [
+        "/images/cepillo_electrico_multifunsional_para_cabello.webp",
+        "/images/cepillo_electrico_multifunsional_para_cabello_1.webp",
+        "/images/cepillo_electrico_multifunsional_para_cabello_2.webp"
+      ]
+    },
+    {
+      "name": "CEPILLO SECADOR MODELADOR ",
+      "category": "LOS + CHICOS",
+      "price": "19.990",
+      "description": "",
+      "image": "/images/cepillo_secador_modelador.webp",
+      "images": [
+        "/images/cepillo_secador_modelador.webp",
+        "/images/cepillo_secador_modelador_1.webp",
+        "/images/cepillo_secador_modelador_2.webp"
+      ]
+    },
+    {
+      "name": "PEINE ALISADOR ",
+      "category": "LOS + CHICOS",
+      "price": "11.990",
+      "description": "",
+      "image": "/images/peine_alisador.webp",
+      "images": [
+        "/images/peine_alisador.webp",
+        "/images/peine_alisador_1.webp",
+        "/images/peine_alisador_2.webp"
+      ]
+    },
+    {
+      "name": "SECADOR DE PELO CON ACCESORIOS ",
+      "category": "LOS + CHICOS",
+      "price": "24.990",
+      "description": "",
+      "image": "/images/secador_de_pelo_con_accesorios.webp",
+      "images": [
+        "/images/secador_de_pelo_con_accesorios.webp",
+        "/images/secador_de_pelo_con_accesorios_1.webp",
+        "/images/secador_de_pelo_con_accesorios_2.webp"
+      ]
+    },
+    {
+      "name": "TIRA NEON DE 5 METROS CON CONTROL",
+      "category": "LOS + CHICOS",
+      "price": "24.990",
+      "description": "",
+      "image": "/images/tira_neon_de_5_metros_con_control.webp",
+      "images": [
+        "/images/tira_neon_de_5_metros_con_control.webp",
+        "/images/tira_neon_de_5_metros_con_control_1.webp",
+        "/images/tira_neon_de_5_metros_con_control_2.webp"
+      ]
+    },
+    {
+      "name": "TIRA LED DE 5 METROS CON CONTROL Y QR PARA MANEJARLA CON EL CELULAR ",
+      "category": "LOS + CHICOS",
+      "price": "15.990",
+      "description": "",
+      "image": "/images/tira_led_de_5_metros_con_control_y_qr_para_manejarla_con_el_celular.webp",
+      "images": [
+        "/images/tira_led_de_5_metros_con_control_y_qr_para_manejarla_con_el_celular.webp",
+        "/images/tira_led_de_5_metros_con_control_y_qr_para_manejarla_con_el_celular_1.webp",
+        "/images/tira_led_de_5_metros_con_control_y_qr_para_manejarla_con_el_celular_2.webp"
+      ]
+    },
+    {
+      "name": "TIRA LED DE 5 METROS CON CONTROL ",
+      "category": "LOS + CHICOS",
+      "price": "8.990",
+      "description": "",
+      "image": "/images/tira_led_de_5_metros_con_control.webp",
+      "images": [
+        "/images/tira_led_de_5_metros_con_control.webp",
+        "/images/tira_led_de_5_metros_con_control_1.webp",
+        "/images/tira_led_de_5_metros_con_control_2.webp"
+      ]
+    },
+    {
+      "name": "CALZA LEVANTA GLUTEOS ",
+      "category": "LOS + CHICOS",
+      "price": "19.990",
+      "description": "",
+      "image": "/images/calza_levanta_gluteos.webp",
+      "images": [
+        "/images/calza_levanta_gluteos.webp",
+        "/images/calza_levanta_gluteos_1.webp",
+        "/images/calza_levanta_gluteos_2.webp"
+      ]
+    },
+    {
+      "name": "DEPILADORA EXFOLIANTE ",
+      "category": "LOS + CHICOS",
+      "price": "4.990",
+      "description": "",
+      "image": "/images/depiladora_exfoliante.webp",
+      "images": [
+        "/images/depiladora_exfoliante.webp",
+        "/images/depiladora_exfoliante_1.webp",
+        "/images/depiladora_exfoliante_2.webp"
+      ]
+    },
+    {
+      "name": "DEPILADORA FACIAL RECARGABLE CON CABEZALES INTERCAMBIABLES ",
+      "category": "LOS + CHICOS",
+      "price": "9.990",
+      "description": "",
+      "image": "/images/depiladora_facial_recargable_con_cabezales_intercambiables.webp",
+      "images": [
+        "/images/depiladora_facial_recargable_con_cabezales_intercambiables.webp",
+        "/images/depiladora_facial_recargable_con_cabezales_intercambiables_1.webp",
+        "/images/depiladora_facial_recargable_con_cabezales_intercambiables_2.webp"
+      ]
+    },
+    {
+      "name": "MICROFONO KARAOQUE + PENDRIVE , TARJETA SD Y AUXILIAR",
+      "category": "LOS + CHICOS",
+      "price": "7.990",
+      "description": "",
+      "image": "/images/microfono_karaoque__pendrive__tarjeta_sd_y_auxiliar.webp",
+      "images": [
+        "/images/microfono_karaoque__pendrive__tarjeta_sd_y_auxiliar.webp",
+        "/images/microfono_karaoque__pendrive__tarjeta_sd_y_auxiliar_1.webp",
+        "/images/microfono_karaoque__pendrive__tarjeta_sd_y_auxiliar_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ SMART BAND 7",
+      "category": "LOS + CHICOS",
+      "price": "5.990",
+      "description": "",
+      "image": "/images/reloj_smart_band_7.webp",
+      "images": [
+        "/images/reloj_smart_band_7.webp",
+        "/images/reloj_smart_band_7_1.webp",
+        "/images/reloj_smart_band_7_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ SMART BAND COLORES",
+      "category": "LOS + CHICOS",
+      "price": "7.990",
+      "description": "",
+      "image": "/images/reloj_smart_band_colores.webp",
+      "images": [
+        "/images/reloj_smart_band_colores.webp",
+        "/images/reloj_smart_band_colores_1.webp",
+        "/images/reloj_smart_band_colores_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ SMART BAND CON 2 MALLAS INTERCAMBIABLES",
+      "category": "LOS + CHICOS",
+      "price": "24.990",
+      "description": "",
+      "image": "/images/reloj_smart_band_con_2_mallas_intercambiables.webp",
+      "images": [
+        "/images/reloj_smart_band_con_2_mallas_intercambiables.webp",
+        "/images/reloj_smart_band_con_2_mallas_intercambiables_1.webp",
+        "/images/reloj_smart_band_con_2_mallas_intercambiables_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ SMART BAND CON 4 MALLAS INTERCAMBIABLES ",
+      "category": "LOS + CHICOS",
+      "price": "39.990",
+      "description": "",
+      "image": "/images/reloj_smart_band_con_4_mallas_intercambiables.webp",
+      "images": [
+        "/images/reloj_smart_band_con_4_mallas_intercambiables.webp",
+        "/images/reloj_smart_band_con_4_mallas_intercambiables_1.webp",
+        "/images/reloj_smart_band_con_4_mallas_intercambiables_2.webp"
+      ]
+    },
+    {
+      "name": "SET DE X4 DE BELLEZA ",
+      "category": "LOS + CHICOS",
+      "price": "2.990",
+      "description": "",
+      "image": "/images/set_de_x4_de_belleza.webp",
+      "images": [
+        "/images/set_de_x4_de_belleza.webp",
+        "/images/set_de_x4_de_belleza_1.webp",
+        "/images/set_de_x4_de_belleza_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ NIÑO/A JUVENIL 1",
+      "category": "LOS + CHICOS",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/reloj_nioa_juvenil_1.webp",
+      "images": [
+        "/images/reloj_nioa_juvenil_1.webp",
+        "/images/reloj_nioa_juvenil_1_1.webp",
+        "/images/reloj_nioa_juvenil_1_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ NIÑO/A JUVENIL 2",
+      "category": "LOS+ CHICOS ",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/reloj_nioa_juvenil_2.webp",
+      "images": [
+        "/images/reloj_nioa_juvenil_2.webp",
+        "/images/reloj_nioa_juvenil_2_1.webp",
+        "/images/reloj_nioa_juvenil_2_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ NIÑO/A JUVENIL 3",
+      "category": "LOS+ CHICOS ",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/reloj_nioa_juvenil_3.webp",
+      "images": [
+        "/images/reloj_nioa_juvenil_3.webp",
+        "/images/reloj_nioa_juvenil_3_1.webp",
+        "/images/reloj_nioa_juvenil_3_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ NIÑO/A JUVENIL 4",
+      "category": "LOS+ CHICOS ",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/reloj_nioa_juvenil_4.webp",
+      "images": [
+        "/images/reloj_nioa_juvenil_4.webp",
+        "/images/reloj_nioa_juvenil_4_1.webp",
+        "/images/reloj_nioa_juvenil_4_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ NIÑO/A JUVENIL 5",
+      "category": "LOS+ CHICOS ",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/reloj_nioa_juvenil_5.webp",
+      "images": [
+        "/images/reloj_nioa_juvenil_5.webp",
+        "/images/reloj_nioa_juvenil_5_1.webp",
+        "/images/reloj_nioa_juvenil_5_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ NIÑO/A JUVENIL 6",
+      "category": "LOS+ CHICOS ",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/reloj_nioa_juvenil_6.webp",
+      "images": [
+        "/images/reloj_nioa_juvenil_6.webp",
+        "/images/reloj_nioa_juvenil_6_1.webp",
+        "/images/reloj_nioa_juvenil_6_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ NIÑO/A JUVENIL 7",
+      "category": "LOS+ CHICOS ",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/reloj_nioa_juvenil_7.webp",
+      "images": [
+        "/images/reloj_nioa_juvenil_7.webp",
+        "/images/reloj_nioa_juvenil_7_1.webp",
+        "/images/reloj_nioa_juvenil_7_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ NIÑO/A JUVENIL 8",
+      "category": "LOS+ CHICOS ",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/reloj_nioa_juvenil_8.webp",
+      "images": [
+        "/images/reloj_nioa_juvenil_8.webp",
+        "/images/reloj_nioa_juvenil_8_1.webp",
+        "/images/reloj_nioa_juvenil_8_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ NIÑO/A JUVENIL 9",
+      "category": "LOS+ CHICOS ",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/reloj_nioa_juvenil_9.webp",
+      "images": [
+        "/images/reloj_nioa_juvenil_9.webp",
+        "/images/reloj_nioa_juvenil_9_1.webp",
+        "/images/reloj_nioa_juvenil_9_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ NIÑO/A JUVENIL 10",
+      "category": "LOS+ CHICOS ",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/reloj_nioa_juvenil_10.webp",
+      "images": [
+        "/images/reloj_nioa_juvenil_10.webp",
+        "/images/reloj_nioa_juvenil_10_1.webp",
+        "/images/reloj_nioa_juvenil_10_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ NIÑO/A JUVENIL 11",
+      "category": "LOS+ CHICOS ",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/reloj_nioa_juvenil_11.webp",
+      "images": [
+        "/images/reloj_nioa_juvenil_11.webp",
+        "/images/reloj_nioa_juvenil_11_1.webp",
+        "/images/reloj_nioa_juvenil_11_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ NIÑO/A JUVENIL 12",
+      "category": "LOS+ CHICOS ",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/reloj_nioa_juvenil_12.webp",
+      "images": [
+        "/images/reloj_nioa_juvenil_12.webp",
+        "/images/reloj_nioa_juvenil_12_1.webp",
+        "/images/reloj_nioa_juvenil_12_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ NIÑO/A JUVENIL 13",
+      "category": "LOS+ CHICOS ",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/reloj_nioa_juvenil_13.webp",
+      "images": [
+        "/images/reloj_nioa_juvenil_13.webp",
+        "/images/reloj_nioa_juvenil_13_1.webp",
+        "/images/reloj_nioa_juvenil_13_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ NIÑO/A JUVENIL 14",
+      "category": "LOS+ CHICOS ",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/reloj_nioa_juvenil_14.webp",
+      "images": [
+        "/images/reloj_nioa_juvenil_14.webp",
+        "/images/reloj_nioa_juvenil_14_1.webp",
+        "/images/reloj_nioa_juvenil_14_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ NIÑO/A JUVENIL 15",
+      "category": "LOS+ CHICOS ",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/reloj_nioa_juvenil_15.webp",
+      "images": [
+        "/images/reloj_nioa_juvenil_15.webp",
+        "/images/reloj_nioa_juvenil_15_1.webp",
+        "/images/reloj_nioa_juvenil_15_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ NIÑO/A JUVENIL 16",
+      "category": "LOS+ CHICOS ",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/reloj_nioa_juvenil_16.webp",
+      "images": [
+        "/images/reloj_nioa_juvenil_16.webp",
+        "/images/reloj_nioa_juvenil_16_1.webp",
+        "/images/reloj_nioa_juvenil_16_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ NIÑO/A JUVENIL 17",
+      "category": "LOS+ CHICOS ",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/reloj_nioa_juvenil_17.webp",
+      "images": [
+        "/images/reloj_nioa_juvenil_17.webp",
+        "/images/reloj_nioa_juvenil_17_1.webp",
+        "/images/reloj_nioa_juvenil_17_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ NIÑO/A JUVENIL 18",
+      "category": "LOS+ CHICOS ",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/reloj_nioa_juvenil_18.webp",
+      "images": [
+        "/images/reloj_nioa_juvenil_18.webp",
+        "/images/reloj_nioa_juvenil_18_1.webp",
+        "/images/reloj_nioa_juvenil_18_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ NIÑO/A JUVENIL 19",
+      "category": "LOS+ CHICOS ",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/reloj_nioa_juvenil_19.webp",
+      "images": [
+        "/images/reloj_nioa_juvenil_19.webp",
+        "/images/reloj_nioa_juvenil_19_1.webp",
+        "/images/reloj_nioa_juvenil_19_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ NIÑO/A JUVENIL 20",
+      "category": "LOS+ CHICOS ",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/reloj_nioa_juvenil_20.webp",
+      "images": [
+        "/images/reloj_nioa_juvenil_20.webp",
+        "/images/reloj_nioa_juvenil_20_1.webp",
+        "/images/reloj_nioa_juvenil_20_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ NIÑO/A JUVENIL 21",
+      "category": "LOS+ CHICOS ",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/reloj_nioa_juvenil_21.webp",
+      "images": [
+        "/images/reloj_nioa_juvenil_21.webp",
+        "/images/reloj_nioa_juvenil_21_1.webp",
+        "/images/reloj_nioa_juvenil_21_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ NIÑO/A JUVENIL 22",
+      "category": "LOS+ CHICOS ",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/reloj_nioa_juvenil_22.webp",
+      "images": [
+        "/images/reloj_nioa_juvenil_22.webp",
+        "/images/reloj_nioa_juvenil_22_1.webp",
+        "/images/reloj_nioa_juvenil_22_2.webp"
+      ]
+    },
+    {
+      "name": "RELOJ NIÑO/A JUVENIL 23",
+      "category": "LOS+ CHICOS ",
+      "price": "12.990",
+      "description": "",
+      "image": "/images/reloj_nioa_juvenil_23.webp",
+      "images": [
+        "/images/reloj_nioa_juvenil_23.webp",
+        "/images/reloj_nioa_juvenil_23_1.webp",
+        "/images/reloj_nioa_juvenil_23_2.webp"
+      ]
+    },
+    {
+      "name": "ARO LED RGB DE 26CM + TRIPODE 2,1 ",
+      "category": "LOS+ CHICOS ",
+      "price": "25.990",
+      "description": "",
+      "image": "/images/aro_led_rgb_de_26cm__tripode_21.webp",
+      "images": [
+        "/images/aro_led_rgb_de_26cm__tripode_21.webp",
+        "/images/aro_led_rgb_de_26cm__tripode_21_1.webp",
+        "/images/aro_led_rgb_de_26cm__tripode_21_2.webp"
+      ]
+    },
+    {
+      "name": "ARO LED RGB DE 30CM + TRIPODE 2,1",
+      "category": "LOS+ CHICOS ",
+      "price": "30.990",
+      "description": "",
+      "image": "/images/aro_led_rgb_de_30cm__tripode_21.webp",
+      "images": [
+        "/images/aro_led_rgb_de_30cm__tripode_21.webp",
+        "/images/aro_led_rgb_de_30cm__tripode_21_1.webp",
+        "/images/aro_led_rgb_de_30cm__tripode_21_2.webp"
+      ]
+    },
+    {
+      "name": "ARO LED RGB DE 236CM + TRIPODE 2,1",
+      "category": "LOS+ CHICOS ",
+      "price": "35.990",
+      "description": "",
+      "image": "/images/aro_led_rgb_de_236cm__tripode_21.webp",
+      "images": [
+        "/images/aro_led_rgb_de_236cm__tripode_21.webp",
+        "/images/aro_led_rgb_de_236cm__tripode_21_1.webp",
+        "/images/aro_led_rgb_de_236cm__tripode_21_2.webp"
       ]
     }
   ]
