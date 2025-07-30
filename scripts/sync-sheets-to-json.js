@@ -73,10 +73,10 @@ async function main() {
     if (!isWhite(bg)) continue;
 
     // Extraer campos
-    const name = cells[5]?.formattedValue || "";
-    const category = cells[6]?.formattedValue || "";
-    const price = cells[7]?.formattedValue || "";
-    const description = cells[8]?.formattedValue || "";
+    const name = cells[5]?.formattedValue?.trim() || "";
+    const category = cells[6]?.formattedValue?.trim() || "";
+    const price = cells[7]?.formattedValue?.replace(/^\s*\$\s*/, "").trim() || "";
+    const description = cells[8]?.formattedValue?.trim() || "";
 
     if (!name.trim()) continue;           // sin título → saltar
     if (existingNames.has(name)) continue;  // duplicate guard

@@ -10,6 +10,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "fs-extra": "^11.3.0",
     "googleapis": "^150.0.1",
     "lucide-react": "^0.525.0",
     "next": "15.3.2",
@@ -22,6 +23,7 @@
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.8",
+    "@types/fs-extra": "^11.0.4",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
