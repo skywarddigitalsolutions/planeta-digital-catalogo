@@ -7241,19 +7241,7 @@
         "/images/soga_210cm_1.webp",
         "/images/soga_210cm_2.webp"
       ]
-    },
-    {
-      "name": "SET DE PELUQUERIA DE JUGUETE",
-      "category": "LOS + CHICOS",
-      "price": "14.990",
-      "description": "",
-      "image": "/images/set_de_peluqueria_de_juguete.webp",
-      "images": [
-        "/images/set_de_peluqueria_de_juguete.webp",
-        "/images/set_de_peluqueria_de_juguete_1.webp",
-        "/images/set_de_peluqueria_de_juguete_2.webp"
-      ]
-    },
+    }, 
     {
       "name": "SET DE PRINCESA",
       "category": "LOS + CHICOS",
@@ -7531,18 +7519,6 @@
       ]
     },
     {
-      "name": "RELOJ DESPERTADOR  HONGO A PILA",
-      "category": "LOS + CHICOS",
-      "price": "12.990",
-      "description": "",
-      "image": "/images/reloj_despertador_hongo_a_pila.webp",
-      "images": [
-        "/images/reloj_despertador_hongo_a_pila.webp",
-        "/images/reloj_despertador_hongo_a_pila_1.webp",
-        "/images/reloj_despertador_hongo_a_pila_2.webp"
-      ]
-    },
-    {
       "name": "RELOJ DESPERTADOR CORAZON",
       "category": "LOS + CHICOS",
       "price": "12.990",
@@ -7564,18 +7540,6 @@
         "/images/reloj_despertador_astronauta.webp",
         "/images/reloj_despertador_astronauta_1.webp",
         "/images/reloj_despertador_astronauta_2.webp"
-      ]
-    },
-    {
-      "name": "RELOJ DESPERTADOR INFANTIL",
-      "category": "LOS+ CHICOS",
-      "price": "12.990",
-      "description": "",
-      "image": "/images/reloj_despertador_infantil.webp",
-      "images": [
-        "/images/reloj_despertador_infantil.webp",
-        "/images/reloj_despertador_infantil_1.webp",
-        "/images/reloj_despertador_infantil_2.webp"
       ]
     },
     {
@@ -7744,18 +7708,6 @@
         "/images/set_para_hacer_pulseras.webp",
         "/images/set_para_hacer_pulseras_1.webp",
         "/images/set_para_hacer_pulseras_2.webp"
-      ]
-    },
-    {
-      "name": "SET PARA HACER PULSERAS CHICO",
-      "category": "LOS+ CHICOS",
-      "price": "8.990",
-      "description": "",
-      "image": "/images/set_para_hacer_pulseras_chico.webp",
-      "images": [
-        "/images/set_para_hacer_pulseras_chico.webp",
-        "/images/set_para_hacer_pulseras_chico_1.webp",
-        "/images/set_para_hacer_pulseras_chico_2.webp"
       ]
     },
     {
